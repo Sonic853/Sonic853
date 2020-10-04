@@ -39,4 +39,4 @@ A bad coder. And a bad life.
 
 ### 计数
 
-![Sonic853](https://count.getloli.com/get/@Sonic853)
+![Sonic853](https://count.getloli.com/get/@Sonic853?theme=rule34)
