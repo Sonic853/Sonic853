@@ -31,8 +31,12 @@ A bad coder. And a bad life.
 [![](https://img.shields.io/badge/iPhone-SE-lightgrey?style=flat-square&logo=apple&logoColor=golden)](https://www.apple.com/)
 
 [![](https://img.shields.io/badge/Git-444444?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/Sonic853/)
-[![](https://img.shields.io/badge/Python-3.8-33aadd?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
-[![](https://img.shields.io/badge/PHP-7.4-8892bf?style=flat-square&logo=php&logoColor=ffffff)](https://www.php.net/)
+[![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
+[![](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
+[![](https://img.shields.io/badge/-JavaScript-f7e018?style=flat-square&logo=javascript&logoColor=white)](https://www.ecma-international.org/)
+[![](https://img.shields.io/badge/PHP7.4-8892bf?style=flat-square&logo=php&logoColor=ffffff)](https://www.php.net/)
+[![](https://img.shields.io/badge/-MySQL-003545?style=flat-square&logo=mysql&logoColor=white)](https://mariadb.com/)
+[![](https://img.shields.io/badge/Python3.8-33aadd?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
 [![](https://img.shields.io/badge/Unity-2020-000000?style=flat-square&logo=unity&logoColor=ffffff)](https://unity.com/)
 
 
