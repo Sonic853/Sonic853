@@ -30,6 +30,7 @@ A bad coder. And a bad life.
 [![](https://img.shields.io/badge/MiMax-2-black?style=flat-square&logo=android&logoColor=golden)](https://www.mi.com/)
 [![](https://img.shields.io/badge/iPhone-SE-lightgrey?style=flat-square&logo=apple&logoColor=golden)](https://www.apple.com/)
 
+### Know a 🔨
 [![](https://img.shields.io/badge/Git-444444?style=flat-square&logo=github&logoColor=white)](https://github.com/Sonic853/)
 [![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
 [![](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
