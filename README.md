@@ -45,3 +45,8 @@ A bad coder. And a bad life.
 ### 计数
 
 [![](https://count.getloli.com/get/@Sonic853?theme=rule34)](http://count.getloli.com/)
+
+
+### Steam
+<!-- steam-box start -->
+<!-- steam-box end -->
