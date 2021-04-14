@@ -36,7 +36,7 @@ Still Gathering Statistics...
 <!-- steam-box start -->
 🎮 Steam playtime leaderboard
 ```text
-🔫 Counter-Strike: Global Offensive 🕘 3136 hrs 21 mins
+🔫 Counter-Strike: Global Offensive 🕘 3136 hrs 22 mins
 🎮 Live2DViewerEX                   🕘 2288 hrs 21 mins
 🎮 SteamVR                          🕘 650 hrs 25 mins
 🎮 OVR Toolkit                      🕘 138 hrs 2 mins
