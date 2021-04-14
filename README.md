@@ -32,30 +32,6 @@ Still Gathering Statistics...
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
 
-### 操作环境
-[![](https://img.shields.io/badge/Windows-10-33aadd?style=flat-square&logo=windows&logoColor=6cf)](https://www.microsoft.com/windows/get-windows-10)
-[![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-33aadd?style=flat-square&logo=visual-studio-code&logoColor=6cf)](https://code.visualstudio.com/)
-
-[![](https://img.shields.io/badge/MiMax-2-black?style=flat-square&logo=android&logoColor=golden)](https://www.mi.com/)
-[![](https://img.shields.io/badge/iPhone-SE-lightgrey?style=flat-square&logo=apple&logoColor=golden)](https://www.apple.com/)
-
-### Know a 🔨
-[![](https://img.shields.io/badge/Git-444444?style=flat-square&logo=github&logoColor=white)](https://github.com/Sonic853/)
-[![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
-[![](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
-[![](https://img.shields.io/badge/-ECMAScript-f7e018?style=flat-square&logo=javascript&logoColor=white)](https://www.ecma-international.org/)
-[![](https://img.shields.io/badge/PHP7.4-8892bf?style=flat-square&logo=php&logoColor=white)](https://www.php.net/)
-[![](https://img.shields.io/badge/-MySQL-003545?style=flat-square&logo=mysql&logoColor=white)](https://mariadb.com/)
-[![](https://img.shields.io/badge/Python3.8-33aadd?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-[![](https://img.shields.io/badge/Unity-2020-000000?style=flat-square&logo=unity&logoColor=white)](https://unity.com/)
-[![](https://img.shields.io/badge/-CSharp-1572B6?style=flat-square&logo=c-sharp&logoColor=white)](https://unity.com/)
-
-
-### 计数
-
-[![](https://count.getloli.com/get/@Sonic853?theme=rule34)](http://count.getloli.com/)
-
-
 ### Steam
 <!-- steam-box start -->
 🎮 Steam playtime leaderboard
@@ -68,3 +44,26 @@ Still Gathering Statistics...
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
+
+### 操作环境
+[![](https://img.shields.io/badge/Windows-10-33aadd?style=flat-square&logo=windows&logoColor=6cf)](https://www.microsoft.com/windows/get-windows-10)
+[![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-33aadd?style=flat-square&logo=visual-studio-code&logoColor=6cf)](https://code.visualstudio.com/)
+
+[![](https://img.shields.io/badge/MiMax-2-black?style=flat-square&logo=android&logoColor=golden)](https://www.mi.com/)
+[![](https://img.shields.io/badge/iPhone-SE-lightgrey?style=flat-square&logo=apple&logoColor=golden)](https://www.apple.com/)
+
+### Know a 🔨
+[![](https://img.shields.io/badge/Git-444444?style=flat-square&logo=github&logoColor=white)](https://github.com/Sonic853/)
+[![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
+[![](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
+[![](https://img.shields.io/badge/-ECMAScript-f7e018?style=flat-square&logo=javascript&logoColor=white)](https://www.ecma-international.org/)
+[![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![](https://img.shields.io/badge/PHP7.4-8892bf?style=flat-square&logo=php&logoColor=white)](https://www.php.net/)
+[![](https://img.shields.io/badge/-MySQL-003545?style=flat-square&logo=mysql&logoColor=white)](https://mariadb.com/)
+[![](https://img.shields.io/badge/Python3.8-33aadd?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![](https://img.shields.io/badge/Unity-2020-000000?style=flat-square&logo=unity&logoColor=white)](https://unity.com/)
+[![](https://img.shields.io/badge/-CSharp-1572B6?style=flat-square&logo=c-sharp&logoColor=white)](https://unity.com/)
+
+### 计数
+
+[![](https://count.getloli.com/get/@Sonic853?theme=rule34)](http://count.getloli.com/)
