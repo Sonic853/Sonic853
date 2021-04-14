@@ -23,6 +23,10 @@ A bad coder. And a bad life.
 
 <a href="https://github.com/Sonic853"><img src="https://github-readme-stats.vercel.app/api?username=Sonic853&show_icons=true&count_private=true&hide_title=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" style="width: 58%; max-width: 58%; min-width: 58%;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonic853&count_private=true&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" style="width: 40%; max-width: 40%; min-width: 40%;"></a>
 
+### Code Time
+<!-- waka-box start -->
+<!-- waka-box end -->
+
 ### 操作环境
 [![](https://img.shields.io/badge/Windows-10-33aadd?style=flat-square&logo=windows&logoColor=6cf)](https://www.microsoft.com/windows/get-windows-10)
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-33aadd?style=flat-square&logo=visual-studio-code&logoColor=6cf)](https://code.visualstudio.com/)
