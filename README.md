@@ -49,4 +49,13 @@ A bad coder. And a bad life.
 
 ### Steam
 <!-- steam-box start -->
+🎮 Steam playtime leaderboard
+```text
+🔫 Counter-Strike: Global Offensive 🕘 3136 hrs 21 mins
+🎮 Live2DViewerEX                   🕘 2288 hrs 21 mins
+🎮 SteamVR                          🕘 650 hrs 25 mins
+🎮 OVR Toolkit                      🕘 138 hrs 2 mins
+💻 Wallpaper Engine                 🕘 103 hrs 48 mins
+```
+<!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
