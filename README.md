@@ -54,8 +54,8 @@ HTML       🕓 7m    ▍░░░░░░░░░░░░░░░░░░�
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-33aadd?style=flat-square&logo=visual-studio-code&logoColor=6cf)](https://code.visualstudio.com/)
 
 [![](https://img.shields.io/badge/MiMax-2-black?style=flat-square&logo=android&logoColor=golden)](https://www.mi.com/)
-[![](https://img.shields.io/badge/LineageOS-16.0-167c80?style=flat-square&logo=lineageos&logoColor=white)](https://lineageos.org)
 [![](https://img.shields.io/badge/iPhone-SE-lightgrey?style=flat-square&logo=apple&logoColor=golden)](https://www.apple.com/)
+[![](https://img.shields.io/badge/LineageOS-16.0-167c80?style=flat-square&logo=lineageos&logoColor=white)](https://lineageos.org)
 [![](https://img.shields.io/badge/iOS-14.4-000000?style=flat-square&logo=ios&logoColor=white)](https://www.apple.com/)
 
 ### Know a 🔨
