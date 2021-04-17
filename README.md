@@ -40,16 +40,11 @@ C#         🕓 28m    ▋░░░░░░░░░░░░░░░░░░
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🔫 Counter-Strike: Global Offensive
-						    🕘 3137 hrs 5 mins
-λ Half-Life
-						    🕘 6 hrs 13 mins
-🎮 Black Mesa
-						    🕘 14 hrs 36 mins
-🎮 VRoid Studio
-						    🕘 68 hrs 19 mins
-🎮 VA-11 Hall-A: Cyberpunk Bartender Action
-						    🕘 0 hrs 32 mins
+🔫 Counter-Strike: Global Offensive 🕘 3137 hrs 5 mins
+λ Half-Life                         🕘 6 hrs 13 mins
+🎮 Black Mesa                       🕘 14 hrs 36 mins
+🎮 VRoid Studio                     🕘 68 hrs 19 mins
+🎮 VA-11 Hall-A: Cyberpunk Bartender Action 🕘 0 hrs 32 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
