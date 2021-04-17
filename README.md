@@ -40,7 +40,7 @@ C#         🕓 28m    ▋░░░░░░░░░░░░░░░░░░
 <!-- steam-box start -->
 🎮 Steam playtime leaderboard
 ```text
-🔫 Counter-Strike: Global Offensive 🕘 3136 hrs 53 mins
+🔫 Counter-Strike: Global Offensive 🕘 3137 hrs 5 mins
 🎮 Live2DViewerEX                   🕘 2288 hrs 21 mins
 🎮 SteamVR                          🕘 650 hrs 25 mins
 🎮 OVR Toolkit                      🕘 138 hrs 2 mins
