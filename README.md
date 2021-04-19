@@ -44,7 +44,7 @@ C#         🕓 28m    ▋░░░░░░░░░░░░░░░░░░
 🎮 Insurgency: Sandstorm            🕘 48 hrs 14 mins
 λ Half-Life                         🕘 6 hrs 13 mins
 🎮 Black Mesa                       🕘 14 hrs 36 mins
-🎮 VRoid Studio                     🕘 68 hrs 19 mins
+🎮 VA-11 Hall-A: Cyberpunk Bartender Action 🕘 0 hrs 32 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
