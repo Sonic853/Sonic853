@@ -40,8 +40,8 @@ C#         🕓 28m    ▍░░░░░░░░░░░░░░░░░░
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
+🎮 Insurgency: Sandstorm            🕘 53 hrs 46 mins
 🔫 Counter-Strike: Global Offensive 🕘 3137 hrs 5 mins
-🎮 Insurgency: Sandstorm            🕘 53 hrs 16 mins
 λ Half-Life                         🕘 6 hrs 13 mins
 🎮 Black Mesa                       🕘 14 hrs 36 mins
 🎮 VA-11 Hall-A: Cyberpunk Bartender Action 🕘 0 hrs 32 mins
