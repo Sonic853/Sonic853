@@ -40,7 +40,7 @@ HTML       🕓 31m   ▍░░░░░░░░░░░░░░░░░░�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 Insurgency: Sandstorm            🕘 57 hrs 40 mins
+🎮 Insurgency: Sandstorm            🕘 58 hrs 40 mins
 🔫 Counter-Strike: Global Offensive 🕘 3137 hrs 5 mins
 λ Half-Life                         🕘 6 hrs 13 mins
 🎮 Black Mesa                       🕘 14 hrs 36 mins
