@@ -42,8 +42,8 @@ LESS       🕓 26m   ▍░░░░░░░░░░░░░░░░░░�
 ```text
 🎮 Insurgency: Sandstorm            🕘 64 hrs 13 mins
 🔫 Counter-Strike: Global Offensive 🕘 3137 hrs 17 mins
-λ Half-Life                         🕘 6 hrs 13 mins
 🎮 Black Mesa                       🕘 14 hrs 36 mins
+λ Half-Life                         🕘 6 hrs 13 mins
 🎮 Insurgency                       🕘 23 hrs 36 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
