@@ -41,7 +41,7 @@ LESS       🕓 26m   ▍░░░░░░░░░░░░░░░░░░�
 🎮 Recently played Steam games
 ```text
 🎮 Insurgency: Sandstorm            🕘 64 hrs 13 mins
-🔫 Counter-Strike: Global Offensive 🕘 3137 hrs 5 mins
+🔫 Counter-Strike: Global Offensive 🕘 3137 hrs 6 mins
 λ Half-Life                         🕘 6 hrs 13 mins
 🎮 Black Mesa                       🕘 14 hrs 36 mins
 🎮 VA-11 Hall-A: Cyberpunk Bartender Action 🕘 0 hrs 32 mins
