@@ -1,5 +1,5 @@
 <h3 align="center">👋 Hello! <span title="I'm not Sonic! I just love Sonic, you know?">I'm 853.</span></h3>
-
+<p align="center"><del>这个地球是一秒待不下去了</del>（误</p>
 <p align="center">
   <a target="_blank" href="https://blog.853lab.com/">Blog</a> •
   <a target="_blank" href="https://space.bilibili.com/1968333/">Bilibili</a> •
