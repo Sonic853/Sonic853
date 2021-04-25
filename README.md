@@ -44,7 +44,6 @@ LESS       🕓 26m   ▍░░░░░░░░░░░░░░░░░░�
 🔫 Counter-Strike: Global Offensive 🕘 3137 hrs 17 mins
 🎮 Insurgency                       🕘 23 hrs 36 mins
 🎮 Subverse                         🕘 0 hrs 22 mins
-🎮 VA-11 Hall-A: Cyberpunk Bartender Action 🕘 0 hrs 32 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
