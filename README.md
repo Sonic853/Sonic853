@@ -41,7 +41,7 @@ LESS       🕓 26m   ▍░░░░░░░░░░░░░░░░░░�
 🎮 Recently played Steam games
 ```text
 🎮 Insurgency: Sandstorm            🕘 64 hrs 13 mins
-🎮 Insurgency                       🕘 24 hrs 6 mins
+🎮 Insurgency                       🕘 25 hrs 6 mins
 🔫 Counter-Strike: Global Offensive 🕘 3137 hrs 17 mins
 🎮 Subverse                         🕘 0 hrs 22 mins
 ```
