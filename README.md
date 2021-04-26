@@ -42,7 +42,7 @@ Other      🕓 54m   ▋░░░░░░░░░░░░░░░░░░�
 ```text
 🎮 Insurgency: Sandstorm            🕘 64 hrs 13 mins
 🎮 Insurgency                       🕘 25 hrs 53 mins
-🔫 Counter-Strike: Global Offensive 🕘 3137 hrs 17 mins
+🔫 Counter-Strike: Global Offensive 🕘 3138 hrs 17 mins
 🎮 Subverse                         🕘 0 hrs 22 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
