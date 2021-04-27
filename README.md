@@ -41,8 +41,8 @@ HTML       🕓 2h2m   █▌░░░░░░░░░░░░░░░░░
 🎮 Recently played Steam games
 ```text
 🎮 Insurgency: Sandstorm            🕘 64 hrs 13 mins
+🔫 Counter-Strike: Global Offensive 🕘 3139 hrs 12 mins
 🎮 Insurgency                       🕘 25 hrs 53 mins
-🔫 Counter-Strike: Global Offensive 🕘 3138 hrs 41 mins
 🎮 Subverse                         🕘 0 hrs 22 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
