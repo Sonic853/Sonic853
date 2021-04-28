@@ -43,8 +43,8 @@ HTML       🕓 2h50m  ██░░░░░░░░░░░░░░░░░
 🎮 Insurgency: Sandstorm            🕘 64 hrs 13 mins
 🔫 Counter-Strike: Global Offensive 🕘 3141 hrs 41 mins
 🎮 Insurgency                       🕘 25 hrs 53 mins
+λ Half-Life                         🕘 7 hrs 30 mins
 🎮 Subverse                         🕘 0 hrs 22 mins
-🎮 Counter-Strike                   🕘 12 hrs 43 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
