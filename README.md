@@ -41,7 +41,7 @@ HTML       🕓 2h50m  ██░░░░░░░░░░░░░░░░░
 🎮 Recently played Steam games
 ```text
 🎮 Insurgency: Sandstorm            🕘 64 hrs 13 mins
-🔫 Counter-Strike: Global Offensive 🕘 3139 hrs 59 mins
+🔫 Counter-Strike: Global Offensive 🕘 3140 hrs 50 mins
 🎮 Insurgency                       🕘 25 hrs 53 mins
 🎮 Subverse                         🕘 0 hrs 22 mins
 🎮 Counter-Strike                   🕘 12 hrs 43 mins
