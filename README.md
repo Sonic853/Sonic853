@@ -42,7 +42,7 @@ HTML       🕓 3h11m  ██▎░░░░░░░░░░░░░░░░
 ```text
 🎮 Insurgency: Sandstorm            🕘 64 hrs 13 mins
 🔫 Counter-Strike: Global Offensive 🕘 3141 hrs 41 mins
-λ Half-Life                         🕘 9 hrs 51 mins
+λ Half-Life                         🕘 9 hrs 52 mins
 🎮 Insurgency                       🕘 25 hrs 53 mins
 🎮 Subverse                         🕘 0 hrs 22 mins
 ```
