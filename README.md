@@ -44,7 +44,7 @@ HTML       🕓 2h51m  ██▎░░░░░░░░░░░░░░░░
 🔫 Counter-Strike: Global Offensive 🕘 3152 hrs 2 mins
 λ Half-Life                         🕘 9 hrs 52 mins
 🎮 Insurgency                       🕘 25 hrs 53 mins
-🎮 Subverse                         🕘 0 hrs 22 mins
+🎮 Alien Swarm                      🕘 1 hrs 2 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
