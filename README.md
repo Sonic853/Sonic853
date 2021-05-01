@@ -41,7 +41,7 @@ JSON       🕓 2h20m ██▏░░░░░░░░░░░░░░░░�
 🎮 Recently played Steam games
 ```text
 🎮 Insurgency: Sandstorm            🕘 64 hrs 13 mins
-🔫 Counter-Strike: Global Offensive 🕘 3152 hrs 3 mins
+🔫 Counter-Strike: Global Offensive 🕘 3152 hrs 55 mins
 🎮 Alien Swarm                      🕘 5 hrs 8 mins
 λ Half-Life                         🕘 9 hrs 52 mins
 🎮 Alien Swarm: Reactive Drop       🕘 3 hrs 22 mins
