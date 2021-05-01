@@ -42,8 +42,8 @@ JSON       🕓 2h20m ██▏░░░░░░░░░░░░░░░░�
 ```text
 🎮 Insurgency: Sandstorm            🕘 64 hrs 13 mins
 🔫 Counter-Strike: Global Offensive 🕘 3152 hrs 2 mins
+🎮 Alien Swarm                      🕘 5 hrs 8 mins
 λ Half-Life                         🕘 9 hrs 52 mins
-🎮 Alien Swarm                      🕘 3 hrs 27 mins
 🎮 Alien Swarm: Reactive Drop       🕘 3 hrs 22 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
