@@ -42,7 +42,7 @@ JavaScript 🕓 1h47m █▊░░░░░░░░░░░░░░░░░�
 ```text
 🎮 Insurgency: Sandstorm            🕘 64 hrs 13 mins
 🔫 Counter-Strike: Global Offensive 🕘 3152 hrs 55 mins
-🎮 Tom Clancy's The Division        🕘 13 hrs 15 mins
+🎮 Tom Clancy's The Division        🕘 14 hrs 16 mins
 🎮 Alien Swarm                      🕘 5 hrs 8 mins
 λ Half-Life                         🕘 9 hrs 52 mins
 ```
