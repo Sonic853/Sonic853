@@ -40,7 +40,7 @@ LESS       🕓 45m   ▉░░░░░░░░░░░░░░░░░░�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 Tom Clancy's The Division        🕘 34 hrs 32 mins
+🎮 Tom Clancy's The Division        🕘 35 hrs 33 mins
 🎮 Insurgency: Sandstorm            🕘 64 hrs 13 mins
 🔫 Counter-Strike: Global Offensive 🕘 3152 hrs 55 mins
 🎮 Alien Swarm                      🕘 5 hrs 8 mins
