@@ -44,7 +44,7 @@ HTML       🕓 22m   █▍░░░░░░░░░░░░░░░░░�
 🔫 Counter-Strike: Global Offensive 🕘 3153 hrs 21 mins
 🎮 Insurgency: Sandstorm            🕘 64 hrs 13 mins
 🎮 Alien Swarm                      🕘 5 hrs 8 mins
-🎮 VRoid Studio                     🕘 72 hrs 27 mins
+🎮 VRoid Studio                     🕘 73 hrs 27 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
