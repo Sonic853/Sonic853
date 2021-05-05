@@ -41,7 +41,7 @@ HTML       🕓 22m   █▍░░░░░░░░░░░░░░░░░�
 🎮 Recently played Steam games
 ```text
 🎮 Tom Clancy's The Division        🕘 43 hrs 22 mins
-🔫 Counter-Strike: Global Offensive 🕘 3153 hrs 21 mins
+🔫 Counter-Strike: Global Offensive 🕘 3153 hrs 32 mins
 🎮 Insurgency: Sandstorm            🕘 64 hrs 13 mins
 🎮 VRoid Studio                     🕘 75 hrs 52 mins
 🎮 Alien Swarm                      🕘 5 hrs 8 mins
