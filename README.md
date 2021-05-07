@@ -42,9 +42,9 @@ LESS       🕓 0s    ░░░░░░░░░░░░░░░░░░░�
 ```text
 🎮 Tom Clancy's The Division        🕘 43 hrs 22 mins
 🔫 Counter-Strike: Global Offensive 🕘 3153 hrs 32 mins
-🎮 VRoid Studio                     🕘 80 hrs 21 mins
+🎮 VRoid Studio                     🕘 80 hrs 33 mins
 🎮 Alien Swarm                      🕘 5 hrs 8 mins
-🎮 Insurgency: Sandstorm            🕘 64 hrs 13 mins
+λ Half-Life                         🕘 9 hrs 52 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
