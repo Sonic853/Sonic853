@@ -44,7 +44,7 @@ HTML       🕓 12m    ▎░░░░░░░░░░░░░░░░░░
 🔫 Counter-Strike: Global Offensive 🕘 3168 hrs 37 mins
 🎮 VRoid Studio                     🕘 85 hrs 6 mins
 🎮 Alien Swarm                      🕘 5 hrs 8 mins
-λ Half-Life                         🕘 9 hrs 52 mins
+🎮 Alien Swarm: Reactive Drop       🕘 3 hrs 22 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
