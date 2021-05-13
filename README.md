@@ -41,7 +41,7 @@ XAML       🕓 1h4m   █▏░░░░░░░░░░░░░░░░░
 🎮 Recently played Steam games
 ```text
 🎮 Tom Clancy's The Division        🕘 43 hrs 22 mins
-🔫 Counter-Strike: Global Offensive 🕘 3168 hrs 37 mins
+🔫 Counter-Strike: Global Offensive 🕘 3168 hrs 47 mins
 🎮 VRoid Studio                     🕘 85 hrs 6 mins
 🎮 Alien Swarm                      🕘 5 hrs 8 mins
 🎮 Alien Swarm: Reactive Drop       🕘 3 hrs 22 mins
