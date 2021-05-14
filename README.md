@@ -40,7 +40,7 @@ JSON       🕓 1h20m  █▋░░░░░░░░░░░░░░░░░
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 Tom Clancy's The Division        🕘 43 hrs 22 mins
+🎮 Tom Clancy's The Division        🕘 44 hrs 53 mins
 🔫 Counter-Strike: Global Offensive 🕘 3169 hrs 31 mins
 🎮 VRoid Studio                     🕘 85 hrs 6 mins
 🎮 Alien Swarm                      🕘 5 hrs 8 mins
