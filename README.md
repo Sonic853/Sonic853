@@ -41,7 +41,7 @@ JSON       🕓 1h20m  █▎░░░░░░░░░░░░░░░░░
 🎮 Recently played Steam games
 ```text
 🎮 Tom Clancy's The Division        🕘 46 hrs 40 mins
-🔫 Counter-Strike: Global Offensive 🕘 3174 hrs 14 mins
+🔫 Counter-Strike: Global Offensive 🕘 3174 hrs 44 mins
 🎮 VRoid Studio                     🕘 85 hrs 6 mins
 🎮 Carto                            🕘 7 hrs 16 mins
 🎮 Blender                          🕘 10 hrs 43 mins
