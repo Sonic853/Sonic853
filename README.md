@@ -43,7 +43,7 @@ JSON       🕓 1h20m  █▎░░░░░░░░░░░░░░░░░
 🎮 Tom Clancy's The Division        🕘 46 hrs 40 mins
 🔫 Counter-Strike: Global Offensive 🕘 3171 hrs 2 mins
 🎮 VRoid Studio                     🕘 85 hrs 6 mins
-🎮 Carto                            🕘 7 hrs 1 mins
+🎮 Carto                            🕘 7 hrs 16 mins
 🎮 Blender                          🕘 10 hrs 43 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
