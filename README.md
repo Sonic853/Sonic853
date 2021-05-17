@@ -40,7 +40,7 @@ C++        🕓 36m   ▊░░░░░░░░░░░░░░░░░░�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🔫 Counter-Strike: Global Offensive 🕘 3178 hrs 12 mins
+🔫 Counter-Strike: Global Offensive 🕘 3178 hrs 26 mins
 🎮 VRoid Studio                     🕘 85 hrs 6 mins
 🎮 Tom Clancy's The Division        🕘 46 hrs 40 mins
 🎮 Carto                            🕘 7 hrs 16 mins
