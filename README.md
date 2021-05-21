@@ -45,7 +45,7 @@ C++        🕓 34m    ▍░░░░░░░░░░░░░░░░░░
 🎮 Carto                            🕘 7 hrs 16 mins
 🎮 VRoid Studio                     🕘 85 hrs 6 mins
 🎮 Tom Clancy's The Division        🕘 46 hrs 40 mins
-🎮 Blender                          🕘 10 hrs 43 mins
+🎮 VRChat                           🕘 27 hrs 48 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
