@@ -35,7 +35,7 @@ C++        🕓 34m    ▍░░░░░░░░░░░░░░░░░░
 ```
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
-<img src="https://wakatime.com/share/@Sonic853/4d29d1c3-a6c0-40b7-9889-7ad705ce86a8.svg" />
+<img src="https://wakatime.com/share/@Sonic853/32361553-aaf3-4d9e-9f42-424d564eb04c.svg" width="100%" height="500" />
 
 ### Steam
 <!-- steam-box start -->
