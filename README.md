@@ -44,8 +44,8 @@ C++        🕓 34m    ▍░░░░░░░░░░░░░░░░░░
 🔫 Counter-Strike: Global Offensive 🕘 3179 hrs 50 mins
 🎮 Carto                            🕘 7 hrs 16 mins
 🎮 VRoid Studio                     🕘 85 hrs 6 mins
-🎮 Blender                          🕘 10 hrs 43 mins
 🎮 Tom Clancy's The Division        🕘 46 hrs 40 mins
+🎮 Blender                          🕘 10 hrs 43 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
