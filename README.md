@@ -44,8 +44,8 @@ C#         🕓 29m    ▎░░░░░░░░░░░░░░░░░░
 🔫 Counter-Strike: Global Offensive 🕘 3180 hrs 3 mins
 🎮 Carto                            🕘 7 hrs 16 mins
 🎮 Tom Clancy's The Division        🕘 46 hrs 40 mins
-🎮 VRoid Studio                     🕘 85 hrs 6 mins
 🎮 Insurgency: Sandstorm            🕘 65 hrs 36 mins
+🎮 VRoid Studio                     🕘 85 hrs 6 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
