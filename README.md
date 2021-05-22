@@ -45,7 +45,7 @@ C#         🕓 29m    ▎░░░░░░░░░░░░░░░░░░
 🎮 Carto                            🕘 7 hrs 16 mins
 🎮 Tom Clancy's The Division        🕘 46 hrs 40 mins
 🎮 Insurgency: Sandstorm            🕘 65 hrs 36 mins
-🎮 VRoid Studio                     🕘 85 hrs 6 mins
+🎮 Helltaker                        🕘 3 hrs 12 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
