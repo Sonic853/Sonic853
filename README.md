@@ -44,7 +44,7 @@ C#         🕓 29m    ▎░░░░░░░░░░░░░░░░░░
 🔫 Counter-Strike: Global Offensive 🕘 3180 hrs 3 mins
 🎮 Carto                            🕘 7 hrs 16 mins
 🎮 Tom Clancy's The Division        🕘 46 hrs 40 mins
-🎮 Insurgency: Sandstorm            🕘 65 hrs 45 mins
+🎮 Insurgency: Sandstorm            🕘 66 hrs 33 mins
 🎮 Helltaker                        🕘 3 hrs 12 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
