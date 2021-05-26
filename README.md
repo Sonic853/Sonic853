@@ -43,9 +43,9 @@ LESS       🕓 4m     ░░░░░░░░░░░░░░░░░░░
 ```text
 🔫 Counter-Strike: Global Offensive 🕘 3181 hrs 36 mins
 🎮 Carto                            🕘 7 hrs 16 mins
+🎮 Counter-Strike: Global Offensive - SDK 🕘 101 hrs 40 mins
 🎮 Insurgency: Sandstorm            🕘 67 hrs 33 mins
 🎮 Tom Clancy's The Division        🕘 46 hrs 40 mins
-🎮 VRChat                           🕘 28 hrs 0 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
