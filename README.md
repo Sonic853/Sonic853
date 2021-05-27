@@ -42,8 +42,8 @@ LESS       🕓 4m     ░░░░░░░░░░░░░░░░░░░
 🎮 Recently played Steam games
 ```text
 🔫 Counter-Strike: Global Offensive 🕘 3181 hrs 36 mins
+🎮 Counter-Strike: Global Offensive - SDK 🕘 105 hrs 11 mins
 🎮 Carto                            🕘 7 hrs 16 mins
-🎮 Counter-Strike: Global Offensive - SDK 🕘 102 hrs 41 mins
 🎮 Insurgency: Sandstorm            🕘 67 hrs 33 mins
 🎮 Tom Clancy's The Division        🕘 46 hrs 40 mins
 ```
