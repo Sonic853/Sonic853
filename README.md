@@ -2,9 +2,9 @@
 <p align="center"><del>这个地球是一秒待不下去了</del>（误</p>
 <p align="center">
   <a target="_blank" href="https://blog.853lab.com/">Blog</a> •
-  <a target="_blank" href="https://space.bilibili.com/1968333/">Bilibili</a> •
-  <a target="_blank" href="https://steamcommunity.com/id/sonic853">Steam</a> •
-  <a target="_blank" href="https://www.pixiv.net/users/6346985">Pixiv</a>
+  <a target="_blank" href="https://space.bilibili.com/1968333/"><img src="https://img.shields.io/badge/dynamic/json?style=flat-square&logo=bilibili&label=Bilibili&query=data.follower&url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Frelation%2Fstat%3Fvmid%3D1968333%26jsonp%3Djsonp" /></a> •
+  <a target="_blank" href="https://steamcommunity.com/id/sonic853"><img src="https://img.shields.io/badge/Steam-232361?logo=Steam&style=flat-square" /></a> •
+  <a target="_blank" href="https://www.pixiv.net/users/6346985"><img src="https://img.shields.io/badge/Pixiv-ffffff?logo=Pixiv&style=flat-square" /></a>
 </p>
 
 ```diff
