@@ -41,11 +41,11 @@ JSON       🕓 1h8m   ▊░░░░░░░░░░░░░░░░░░
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 Counter-Strike: Global Offensive - SDK 🕘 195 hrs 44 mins
+🎮 Counter-Strike: Global Offensive - SDK 🕘 196 hrs 45 mins
 🔫 Counter-Strike: Global Offensive 🕘 3188 hrs 37 mins
-🎮 Blender                          🕘 14 hrs 20 mins
+🎮 Blender                          🕘 15 hrs 50 mins
+🎮 Sniper Fury                      🕘 0 hrs 18 mins
 🎮 Yogurt!                          🕘 0 hrs 11 mins
-🎮 Easy Bug Manager                 🕘 0 hrs 1 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
