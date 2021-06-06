@@ -42,7 +42,7 @@ JSON       🕓 1h8m   ▊░░░░░░░░░░░░░░░░░░
 🎮 Recently played Steam games
 ```text
 🎮 Counter-Strike: Global Offensive - SDK 🕘 192 hrs 1 mins
-🔫 Counter-Strike: Global Offensive 🕘 3188 hrs 0 mins
+🔫 Counter-Strike: Global Offensive 🕘 3188 hrs 27 mins
 🎮 Insurgency: Sandstorm            🕘 67 hrs 33 mins
 🎮 Yogurt!                          🕘 0 hrs 11 mins
 🎮 Easy Bug Manager                 🕘 0 hrs 1 mins
