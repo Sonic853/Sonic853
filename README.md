@@ -41,9 +41,9 @@ JSON       🕓 1h8m   ▊░░░░░░░░░░░░░░░░░░
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 Counter-Strike: Global Offensive - SDK 🕘 196 hrs 45 mins
+🎮 Counter-Strike: Global Offensive - SDK 🕘 197 hrs 47 mins
 🔫 Counter-Strike: Global Offensive 🕘 3188 hrs 37 mins
-🎮 Blender                          🕘 15 hrs 50 mins
+🎮 Blender                          🕘 16 hrs 21 mins
 🎮 Sniper Fury                      🕘 0 hrs 18 mins
 🎮 Yogurt!                          🕘 0 hrs 11 mins
 ```
