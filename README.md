@@ -45,7 +45,7 @@ JSON       🕓 1h8m   ▊░░░░░░░░░░░░░░░░░░
 🎮 Blender                          🕘 19 hrs 50 mins
 🔫 Counter-Strike: Global Offensive 🕘 3189 hrs 23 mins
 🎮 Battlefield 1 ™                  🕘 4 hrs 12 mins
-🎮 Sniper Fury                      🕘 0 hrs 18 mins
+🎮 Modern Combat 5                  🕘 0 hrs 39 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
