@@ -42,7 +42,7 @@ JSON       🕓 51m    ▊░░░░░░░░░░░░░░░░░░
 🎮 Recently played Steam games
 ```text
 🎮 Counter-Strike: Global Offensive - SDK 🕘 215 hrs 42 mins
-🔫 Counter-Strike: Global Offensive 🕘 3194 hrs 38 mins
+🔫 Counter-Strike: Global Offensive 🕘 3196 hrs 16 mins
 🎮 Blender                          🕘 19 hrs 50 mins
 🎮 Battlefield 1 ™                  🕘 4 hrs 12 mins
 🎮 Modern Combat 5                  🕘 3 hrs 26 mins
