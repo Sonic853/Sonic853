@@ -44,7 +44,7 @@ JSON       🕓 31m    ▍░░░░░░░░░░░░░░░░░░
 🎮 Counter-Strike: Global Offensive - SDK 🕘 227 hrs 56 mins
 🔫 Counter-Strike: Global Offensive 🕘 3207 hrs 49 mins
 🎮 Blender                          🕘 19 hrs 50 mins
-🎮 Battlefield 1 ™                  🕘 4 hrs 12 mins
+🎮 Battlefield 1 ™                  🕘 4 hrs 13 mins
 🎮 Modern Combat 5                  🕘 3 hrs 26 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
