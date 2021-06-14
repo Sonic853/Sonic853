@@ -44,8 +44,8 @@ JSON       🕓 40m    ▌░░░░░░░░░░░░░░░░░░
 🎮 Counter-Strike: Global Offensive - SDK 🕘 229 hrs 34 mins
 🔫 Counter-Strike: Global Offensive 🕘 3210 hrs 36 mins
 🎮 Blender                          🕘 19 hrs 50 mins
+🎮 Battlefield: Bad Company™ 2      🕘 6 hrs 55 mins
 🎮 Battlefield 1 ™                  🕘 6 hrs 1 mins
-🎮 Battlefield: Bad Company™ 2      🕘 5 hrs 8 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
