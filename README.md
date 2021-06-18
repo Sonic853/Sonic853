@@ -45,7 +45,7 @@ Vue.js     🕓 26m   █▏░░░░░░░░░░░░░░░░░�
 🔫 Counter-Strike: Global Offensive 🕘 3210 hrs 41 mins
 🎮 Battlefield: Bad Company™ 2      🕘 14 hrs 6 mins
 🎮 Blender                          🕘 19 hrs 50 mins
-🎮 Battlefield 1 ™                  🕘 6 hrs 1 mins
+🎮 Battlefield 3™                   🕘 7 hrs 24 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
