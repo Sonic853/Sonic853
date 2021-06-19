@@ -60,20 +60,22 @@ TypeScript 🕓 13m   █▎░░░░░░░░░░░░░░░░░�
 [![](https://img.shields.io/badge/iOS-15-000000?style=flat-square&logo=ios&logoColor=white)](https://www.apple.com/)
 
 ### Know a 🔨
-[![](https://img.shields.io/badge/Git-444444?style=flat-square&logo=github&logoColor=white)](https://github.com/Sonic853/)
-[![](https://img.shields.io/badge/GnuPG-0093DD?style=flat-square&logo=gnupg&logoColor=white)](https://www.gnupg.org/)
-[![](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
-[![](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
-[![](https://img.shields.io/badge/ECMAScript-f7e018?style=flat-square&logo=javascript&logoColor=white)](https://www.ecma-international.org/)
-[![](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)](https://www.electronjs.org/)
-[![](https://img.shields.io/badge/Node.js-43853d?style=flat-square&logo=node.js&logoColor=ffffff)](https://nodejs.org/)
-[![](https://img.shields.io/badge/NPM-cb3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/~sonic853)
-[![](https://img.shields.io/badge/PHP7.4-8892bf?style=flat-square&logo=php&logoColor=white)](https://www.php.net/)
-[![](https://img.shields.io/badge/MySQL8.0-003545?style=flat-square&logo=mysql&logoColor=white)](https://mariadb.com/)
-[![](https://img.shields.io/badge/Python3.9-33aadd?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-[![](https://img.shields.io/badge/Unity-2021-000000?style=flat-square&logo=unity&logoColor=white)](https://unity.com/)
-[![](https://img.shields.io/badge/CSharp-1572B6?style=flat-square&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/zh-cn/dotnet/csharp/)
+[![Git](https://img.shields.io/badge/Git-444444?style=flat-square&logo=github&logoColor=white)](https://github.com/Sonic853/)
+[![GnuPG](https://img.shields.io/badge/GnuPG-0093DD?style=flat-square&logo=gnupg&logoColor=white)](https://www.gnupg.org/)
+[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
+[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
+[![ECMAScript](https://img.shields.io/badge/ECMAScript-f7e018?style=flat-square&logo=javascript&logoColor=white)](https://www.ecma-international.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)](https://www.electronjs.org/)
+[![Node](https://img.shields.io/badge/Node.js-43853d?style=flat-square&logo=node.js&logoColor=ffffff)](https://nodejs.org/)
+[![NPM](https://img.shields.io/badge/NPM-cb3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/~sonic853)
+[![PHP](https://img.shields.io/badge/PHP7.4-8892bf?style=flat-square&logo=php&logoColor=white)](https://www.php.net/)
+[![MySQL](https://img.shields.io/badge/MySQL8.0-003545?style=flat-square&logo=mysql&logoColor=white)](https://mariadb.com/)
+[![Python](https://img.shields.io/badge/Python3.9-33aadd?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![Unity](https://img.shields.io/badge/Unity-2021-000000?style=flat-square&logo=unity&logoColor=white)](https://unity.com/)
+[![CSharp](https://img.shields.io/badge/CSharp-1572B6?style=flat-square&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/zh-cn/dotnet/csharp/)
+[![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=Blender&logoColor=white)](https://www.blender.org/)
+
 
 ### 计数
 
