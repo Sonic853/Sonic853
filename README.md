@@ -43,7 +43,7 @@ Other      🕓 13m   ▋░░░░░░░░░░░░░░░░░░�
 🎮 Recently played Steam games
 ```text
 🎮 Counter-Strike: Global Offensive - SDK 🕘 229 hrs 34 mins
-🔫 Counter-Strike: Global Offensive 🕘 3212 hrs 17 mins
+🔫 Counter-Strike: Global Offensive 🕘 3212 hrs 28 mins
 🎮 Battlefield: Bad Company™ 2      🕘 14 hrs 6 mins
 🎮 Battlefield 3™                   🕘 7 hrs 24 mins
 🎮 Battlefield 1 ™                  🕘 6 hrs 1 mins
