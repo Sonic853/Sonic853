@@ -77,6 +77,7 @@ Other      🕓 17m   ▊░░░░░░░░░░░░░░░░░░�
 [![CSharp](https://img.shields.io/badge/CSharp-1572B6?style=flat-square&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/zh-cn/dotnet/csharp/)
 [![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=Blender&logoColor=white)](https://www.blender.org/)
 [![Hammer](https://img.shields.io/badge/Hammer-0000FF?style=flat-square&logo=valve&logoColor=white)](https://developer.valvesoftware.com/wiki/Valve_Hammer_Editor)
+[![Sai2](https://img.shields.io/badge/Sai2-B0D68F?style=flat-square&logo=krita&logoColor=white)](http://www.systemax.jp/en/sai/devdept.html)
 
 ### 计数
 
