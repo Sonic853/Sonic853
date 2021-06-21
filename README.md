@@ -46,7 +46,7 @@ Other      🕓 17m   ▊░░░░░░░░░░░░░░░░░░�
 🔫 Counter-Strike: Global Offensive 🕘 3213 hrs 36 mins
 🎮 Battlefield: Bad Company™ 2      🕘 14 hrs 6 mins
 🎮 Battlefield 3™                   🕘 7 hrs 24 mins
-🎮 Modern Combat 5                  🕘 3 hrs 26 mins
+🎮 Battlefield 1 ™                  🕘 6 hrs 1 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
