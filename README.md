@@ -52,31 +52,31 @@ Other      🕓 17m   ▊░░░░░░░░░░░░░░░░░░�
 <!-- steam-box end -->
 
 ### 操作环境
-[![](https://img.shields.io/badge/Windows-10-33aadd?style=flat-square&logo=windows&logoColor=6cf)](https://www.microsoft.com/windows/get-windows-10)
-[![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-33aadd?style=flat-square&logo=visual-studio-code&logoColor=6cf)](https://code.visualstudio.com/)
+[![](https://img.shields.io/badge/Windows-10-33AADD?style=flat-square&logo=windows&logoColor=6cf)](https://www.microsoft.com/windows/get-windows-10)
+[![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-33AADD?style=flat-square&logo=visual-studio-code&logoColor=6cf)](https://code.visualstudio.com/)
 
 [![](https://img.shields.io/badge/MiMax-2-black?style=flat-square&logo=android&logoColor=golden)](https://www.mi.com/)
 [![](https://img.shields.io/badge/iPhone-SE-lightgrey?style=flat-square&logo=apple&logoColor=golden)](https://www.apple.com/)
-[![](https://img.shields.io/badge/LineageOS-16.0-167c80?style=flat-square&logo=lineageos&logoColor=white)](https://lineageos.org)
+[![](https://img.shields.io/badge/LineageOS-16.0-167C80?style=flat-square&logo=lineageos&logoColor=white)](https://lineageos.org)
 [![](https://img.shields.io/badge/iOS-15-000000?style=flat-square&logo=ios&logoColor=white)](https://www.apple.com/)
 
 ### Know a 🔨
 [![Git](https://img.shields.io/badge/Git-444444?style=flat-square&logo=github&logoColor=white)](https://github.com/Sonic853/)
-[![GnuPG](https://img.shields.io/badge/GnuPG-0093DD?style=flat-square&logo=gnupg&logoColor=white)](https://www.gnupg.org/)
+[![GnuPG](https://img.shields.io/badge/GnuPG-0093DD?style=flat-square&logo=gnuprivacyguard&logoColor=white)](https://www.gnupg.org/)
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
 [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
-[![ECMAScript](https://img.shields.io/badge/ECMAScript-f7e018?style=flat-square&logo=javascript&logoColor=white)](https://www.ecma-international.org/)
-[![anyScript](https://img.shields.io/badge/anyScript-3178c6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![ECMAScript](https://img.shields.io/badge/ECMAScript-F7E018?style=flat-square&logo=javascript&logoColor=white)](https://www.ecma-international.org/)
+[![anyScript](https://img.shields.io/badge/anyScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)](https://www.electronjs.org/)
-[![Node](https://img.shields.io/badge/Node.js-43853d?style=flat-square&logo=node.js&logoColor=ffffff)](https://nodejs.org/)
-[![NPM](https://img.shields.io/badge/NPM-cb3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/~sonic853)
-[![PHP](https://img.shields.io/badge/PHP7.4-8892bf?style=flat-square&logo=php&logoColor=white)](https://www.php.net/)
+[![Node](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=ffffff)](https://nodejs.org/)
+[![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/~sonic853)
+[![PHP](https://img.shields.io/badge/PHP7.4-8892BF?style=flat-square&logo=php&logoColor=white)](https://www.php.net/)
 [![MySQL](https://img.shields.io/badge/MySQL8.0-003545?style=flat-square&logo=mysql&logoColor=white)](https://mariadb.com/)
-[![Python](https://img.shields.io/badge/Python3.9-33aadd?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python3.9-33AADD?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![Unity](https://img.shields.io/badge/Unity-2021-000000?style=flat-square&logo=unity&logoColor=white)](https://unity.com/)
 [![CSharp](https://img.shields.io/badge/CSharp-1572B6?style=flat-square&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/zh-cn/dotnet/csharp/)
 [![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=Blender&logoColor=white)](https://www.blender.org/)
-
+[![Hammer](https://img.shields.io/badge/Hammer-0000FF?style=flat-square&logo=valve&logoColor=white)](https://developer.valvesoftware.com/wiki/Valve_Hammer_Editor)
 
 ### 计数
 
