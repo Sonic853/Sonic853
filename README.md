@@ -1,9 +1,9 @@
 <h3 align="center">👋 Hello! <span title="I'm not Sonic! I just love Sonic, you know?">I'm 853.</span></h3>
 <p align="center"><del>这个地球是一秒待不下去了</del>（误</p>
 <p align="center">
-  <a target="_blank" href="https://blog.853lab.com/">Blog</a> •
-  <a target="_blank" href="https://space.bilibili.com/1968333/"><img src="https://img.shields.io/badge/dynamic/json?style=flat-square&logo=bilibili&label=Bilibili&query=data.follower&url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Frelation%2Fstat%3Fvmid%3D1968333%26jsonp%3Djsonp" /></a> •
-  <a target="_blank" href="https://steamcommunity.com/id/sonic853"><img src="https://img.shields.io/badge/Steam-232361?logo=Steam&style=flat-square" /></a> •
+  <a target="_blank" href="https://blog.853lab.com/"><img src="https://img.shields.io/badge/Blog-0073AA?logo=WordPress&style=flat-square" /></a> 
+  <a target="_blank" href="https://space.bilibili.com/1968333/"><img src="https://img.shields.io/badge/dynamic/json?style=flat-square&logo=bilibili&label=Bilibili&query=data.follower&url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Frelation%2Fstat%3Fvmid%3D1968333%26jsonp%3Djsonp" /></a> 
+  <a target="_blank" href="https://steamcommunity.com/id/sonic853"><img src="https://img.shields.io/badge/Steam-232361?logo=Steam&style=flat-square" /></a> 
   <a target="_blank" href="https://www.pixiv.net/users/6346985"><img src="https://img.shields.io/badge/Pixiv-ffffff?logo=Pixiv&style=flat-square" /></a>
 </p>
 
@@ -78,6 +78,7 @@ Other      🕓 17m   ▊░░░░░░░░░░░░░░░░░░�
 [![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=Blender&logoColor=white)](https://www.blender.org/)
 [![Hammer](https://img.shields.io/badge/Hammer-0000FF?style=flat-square&logo=valve&logoColor=white)](https://developer.valvesoftware.com/wiki/Valve_Hammer_Editor)
 [![Sai2](https://img.shields.io/badge/Sai2-B0D68F?style=flat-square&logo=krita&logoColor=white)](http://www.systemax.jp/en/sai/devdept.html)
+
 
 ### 计数
 
