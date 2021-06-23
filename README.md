@@ -42,11 +42,11 @@ JSON       🕓 1h8m  ██▏░░░░░░░░░░░░░░░░�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🔫 Counter-Strike: Global Offensive 🕘 3215 hrs 22 mins
 🎮 Battlefield: Bad Company™ 2      🕘 14 hrs 6 mins
+🔫 Counter-Strike: Global Offensive 🕘 3215 hrs 22 mins
 🎮 Battlefield 3™                   🕘 7 hrs 24 mins
 🎮 Gunfire Reborn                   🕘 66 hrs 30 mins
-🎮 Counter-Strike: Global Offensive - SDK 🕘 229 hrs 34 mins
+🎮 Battlefield 1 ™                  🕘 6 hrs 1 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
