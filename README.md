@@ -46,7 +46,7 @@ JSON       🕓 1h11m █▌░░░░░░░░░░░░░░░░░�
 🎮 Gunfire Reborn                   🕘 70 hrs 1 mins
 🔫 Counter-Strike: Global Offensive 🕘 3215 hrs 22 mins
 🎮 Battlefield 3™                   🕘 7 hrs 24 mins
-🎮 Battlefield 1 ™                  🕘 6 hrs 1 mins
+🎮 Counter-Strike: Global Offensive - SDK 🕘 229 hrs 34 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
