@@ -44,7 +44,7 @@ JSON       🕓 1h11m █▌░░░░░░░░░░░░░░░░░�
 ```text
 🎮 Battlefield: Bad Company™ 2      🕘 14 hrs 6 mins
 🔫 Counter-Strike: Global Offensive 🕘 3215 hrs 22 mins
-🎮 Gunfire Reborn                   🕘 69 hrs 23 mins
+🎮 Gunfire Reborn                   🕘 70 hrs 1 mins
 🎮 Battlefield 3™                   🕘 7 hrs 24 mins
 🎮 Battlefield 1 ™                  🕘 6 hrs 1 mins
 ```
