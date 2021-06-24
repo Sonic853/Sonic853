@@ -43,8 +43,8 @@ JSON       🕓 1h11m █▌░░░░░░░░░░░░░░░░░�
 🎮 Recently played Steam games
 ```text
 🎮 Battlefield: Bad Company™ 2      🕘 14 hrs 6 mins
-🔫 Counter-Strike: Global Offensive 🕘 3215 hrs 22 mins
 🎮 Gunfire Reborn                   🕘 70 hrs 1 mins
+🔫 Counter-Strike: Global Offensive 🕘 3215 hrs 22 mins
 🎮 Battlefield 3™                   🕘 7 hrs 24 mins
 🎮 Battlefield 1 ™                  🕘 6 hrs 1 mins
 ```
