@@ -44,8 +44,8 @@ TypeScript 🕓 51m   ▉░░░░░░░░░░░░░░░░░░�
 ```text
 🎮 Battlefield: Bad Company™ 2      🕘 14 hrs 6 mins
 🎮 Gunfire Reborn                   🕘 74 hrs 36 mins
-🔫 Counter-Strike: Global Offensive 🕘 3215 hrs 22 mins
 🎮 Battlefield 3™                   🕘 7 hrs 24 mins
+🔫 Counter-Strike: Global Offensive 🕘 3215 hrs 22 mins
 🎮 Counter-Strike: Global Offensive - SDK 🕘 229 hrs 34 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
