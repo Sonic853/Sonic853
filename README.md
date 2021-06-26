@@ -42,7 +42,7 @@ TypeScript 🕓 51m   ▊░░░░░░░░░░░░░░░░░░�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 Gunfire Reborn                   🕘 74 hrs 38 mins
+🎮 Gunfire Reborn                   🕘 75 hrs 58 mins
 🎮 Battlefield: Bad Company™ 2      🕘 14 hrs 6 mins
 🎮 Battlefield 3™                   🕘 7 hrs 24 mins
 🔫 Counter-Strike: Global Offensive 🕘 3215 hrs 22 mins
