@@ -43,8 +43,8 @@ JSON       🕓 15m   ▎░░░░░░░░░░░░░░░░░░�
 🎮 Recently played Steam games
 ```text
 🎮 Gunfire Reborn                   🕘 80 hrs 8 mins
-🎮 Battlefield: Bad Company™ 2      🕘 14 hrs 6 mins
 🎮 Battlefield 3™                   🕘 7 hrs 24 mins
+🎮 Battlefield: Bad Company™ 2      🕘 14 hrs 6 mins
 🔫 Counter-Strike: Global Offensive 🕘 3215 hrs 22 mins
 🎮 Garry's Mod                      🕘 82 hrs 7 mins
 ```
