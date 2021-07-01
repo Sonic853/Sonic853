@@ -43,8 +43,8 @@ CSS        🕓 59m   █▍░░░░░░░░░░░░░░░░░�
 🎮 Recently played Steam games
 ```text
 🎮 Gunfire Reborn                   🕘 80 hrs 8 mins
-🎮 Battlefield 3™                   🕘 7 hrs 24 mins
 🔫 Counter-Strike: Global Offensive 🕘 3215 hrs 35 mins
+🎮 Battlefield 3™                   🕘 7 hrs 24 mins
 🎮 Garry's Mod                      🕘 82 hrs 7 mins
 🎮 VRoid Studio                     🕘 85 hrs 42 mins
 ```
