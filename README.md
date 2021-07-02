@@ -44,9 +44,9 @@ JSON       🕓 1h52m ██▊░░░░░░░░░░░░░░░░�
 ```text
 🎮 Gunfire Reborn                   🕘 80 hrs 8 mins
 🔫 Counter-Strike: Global Offensive 🕘 3215 hrs 35 mins
-🎮 Battlefield 3™                   🕘 7 hrs 24 mins
 🎮 Garry's Mod                      🕘 82 hrs 7 mins
 🎮 VRoid Studio                     🕘 85 hrs 42 mins
+🎮 Battlefield 3™                   🕘 7 hrs 24 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
