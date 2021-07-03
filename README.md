@@ -42,10 +42,10 @@ JSON       🕓 1h54m ██▋░░░░░░░░░░░░░░░░�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 Gunfire Reborn                   🕘 80 hrs 8 mins
+🎮 Gunfire Reborn                   🕘 80 hrs 10 mins
 🔫 Counter-Strike: Global Offensive 🕘 3215 hrs 35 mins
-🎮 Garry's Mod                      🕘 82 hrs 7 mins
 🎮 VRoid Studio                     🕘 85 hrs 42 mins
+🎮 Garry's Mod                      🕘 82 hrs 7 mins
 🎮 Aseprite                         🕘 12 hrs 38 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
