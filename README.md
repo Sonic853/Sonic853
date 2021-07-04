@@ -44,8 +44,8 @@ Other      🕓 1h38m █▉░░░░░░░░░░░░░░░░░�
 ```text
 🎮 Gunfire Reborn                   🕘 80 hrs 10 mins
 🔫 Counter-Strike: Global Offensive 🕘 3215 hrs 35 mins
-🎮 VRoid Studio                     🕘 85 hrs 42 mins
 🎮 Aseprite                         🕘 12 hrs 38 mins
+🎮 VRoid Studio                     🕘 85 hrs 42 mins
 🎮 SpriteStack                      🕘 1 hrs 54 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
