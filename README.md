@@ -42,8 +42,8 @@ LESS       🕓 50m    █░░░░░░░░░░░░░░░░░░
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 Gunfire Reborn                   🕘 80 hrs 8 mins
 🔫 Counter-Strike: Global Offensive 🕘 3217 hrs 9 mins
+🎮 Gunfire Reborn                   🕘 80 hrs 8 mins
 🎮 LOLLIPOP!                        🕘 0 hrs 20 mins
 🎮 Aseprite                         🕘 12 hrs 38 mins
 🎮 Stick Fight: The Game            🕘 0 hrs 13 mins
