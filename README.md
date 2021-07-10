@@ -43,7 +43,7 @@ LESS       🕓 50m    █░░░░░░░░░░░░░░░░░░
 🎮 Recently played Steam games
 ```text
 🎮 Gunfire Reborn                   🕘 80 hrs 8 mins
-🔫 Counter-Strike: Global Offensive 🕘 3216 hrs 21 mins
+🔫 Counter-Strike: Global Offensive 🕘 3216 hrs 57 mins
 🎮 Aseprite                         🕘 12 hrs 38 mins
 🎮 VRoid Studio                     🕘 85 hrs 42 mins
 🎮 SpriteStack                      🕘 1 hrs 54 mins
