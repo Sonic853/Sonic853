@@ -42,7 +42,7 @@ LESS       🕓 15m   ▌░░░░░░░░░░░░░░░░░░�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 Blender                          🕘 21 hrs 40 mins
+🎮 Blender                          🕘 22 hrs 42 mins
 🔫 Counter-Strike: Global Offensive 🕘 3217 hrs 9 mins
 🎮 VVVVVV                           🕘 1 hrs 7 mins
 🎮 LOLLIPOP!                        🕘 0 hrs 20 mins
