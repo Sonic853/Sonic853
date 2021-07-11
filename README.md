@@ -44,9 +44,9 @@ LESS       🕓 15m   ▌░░░░░░░░░░░░░░░░░░�
 ```text
 🔫 Counter-Strike: Global Offensive 🕘 3217 hrs 9 mins
 🎮 VVVVVV                           🕘 1 hrs 7 mins
+🎮 Blender                          🕘 20 hrs 20 mins
 🎮 LOLLIPOP!                        🕘 0 hrs 20 mins
 🎮 Aseprite                         🕘 12 hrs 38 mins
-🎮 Stick Fight: The Game            🕘 0 hrs 13 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
