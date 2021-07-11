@@ -43,7 +43,7 @@ LESS       🕓 15m   ▌░░░░░░░░░░░░░░░░░░�
 🎮 Recently played Steam games
 ```text
 🔫 Counter-Strike: Global Offensive 🕘 3217 hrs 9 mins
-🎮 VVVVVV                           🕘 0 hrs 40 mins
+🎮 VVVVVV                           🕘 1 hrs 7 mins
 🎮 LOLLIPOP!                        🕘 0 hrs 20 mins
 🎮 Aseprite                         🕘 12 hrs 38 mins
 🎮 Stick Fight: The Game            🕘 0 hrs 13 mins
