@@ -42,11 +42,11 @@ HTML       🕓 45m   ██▉░░░░░░░░░░░░░░░░�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
+🎮 Live2DViewerEX                   🕘 2291 hrs 18 mins
 🎮 Blender                          🕘 22 hrs 42 mins
 🔫 Counter-Strike: Global Offensive 🕘 3217 hrs 20 mins
-🎮 Live2DViewerEX                   🕘 2289 hrs 47 mins
+🎮 Freedom Planet                   🕘 1 hrs 16 mins
 🎮 VVVVVV                           🕘 1 hrs 7 mins
-🎮 LOLLIPOP!                        🕘 0 hrs 20 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
