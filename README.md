@@ -42,7 +42,7 @@ Other      🕓 1h4m  █▊░░░░░░░░░░░░░░░░░�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 Live2DViewerEX                   🕘 2292 hrs 22 mins
+🎮 Live2DViewerEX                   🕘 2292 hrs 25 mins
 🎮 Blender                          🕘 22 hrs 42 mins
 🔫 Counter-Strike: Global Offensive 🕘 3217 hrs 21 mins
 🎮 Freedom Planet                   🕘 1 hrs 16 mins
