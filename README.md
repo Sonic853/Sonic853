@@ -44,7 +44,7 @@ Other      🕓 1h4m  █▊░░░░░░░░░░░░░░░░░�
 ```text
 🎮 Live2DViewerEX                   🕘 2292 hrs 22 mins
 🎮 Blender                          🕘 22 hrs 42 mins
-🔫 Counter-Strike: Global Offensive 🕘 3217 hrs 20 mins
+🔫 Counter-Strike: Global Offensive 🕘 3217 hrs 21 mins
 🎮 Freedom Planet                   🕘 1 hrs 16 mins
 🎮 VVVVVV                           🕘 1 hrs 7 mins
 ```
