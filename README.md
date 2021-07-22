@@ -44,8 +44,8 @@ Other      🕓 41m    ▉░░░░░░░░░░░░░░░░░░
 ```text
 🎮 Live2DViewerEX                   🕘 2303 hrs 14 mins
 🎮 Blender                          🕘 22 hrs 42 mins
+🎮 Freedom Planet                   🕘 2 hrs 46 mins
 🔫 Counter-Strike: Global Offensive 🕘 3217 hrs 57 mins
-🎮 Freedom Planet                   🕘 1 hrs 46 mins
 🎮 VVVVVV                           🕘 1 hrs 7 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
