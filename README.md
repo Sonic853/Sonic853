@@ -42,7 +42,7 @@ Vue.js     🕓 33m    ▌░░░░░░░░░░░░░░░░░░
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 Live2DViewerEX                   🕘 2303 hrs 14 mins
+🎮 Live2DViewerEX                   🕘 2303 hrs 25 mins
 🎮 Freedom Planet                   🕘 7 hrs 51 mins
 🎮 Blender                          🕘 22 hrs 42 mins
 🔫 Counter-Strike: Global Offensive 🕘 3217 hrs 57 mins
