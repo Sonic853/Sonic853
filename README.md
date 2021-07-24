@@ -45,8 +45,8 @@ CSS        🕓 50m    ▋░░░░░░░░░░░░░░░░░░
 🎮 Live2DViewerEX                   🕘 2303 hrs 25 mins
 🎮 Freedom Planet                   🕘 7 hrs 51 mins
 🎮 Blender                          🕘 22 hrs 42 mins
-🔫 Counter-Strike: Global Offensive 🕘 3217 hrs 57 mins
 🎮 VVVVVV                           🕘 1 hrs 7 mins
+🔫 Counter-Strike: Global Offensive 🕘 3217 hrs 57 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
