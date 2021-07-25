@@ -45,8 +45,8 @@ TypeScript 🕓 1h39m  █▍░░░░░░░░░░░░░░░░░
 🎮 Live2DViewerEX                   🕘 2303 hrs 25 mins
 🎮 Freedom Planet                   🕘 7 hrs 51 mins
 🔫 Counter-Strike: Global Offensive 🕘 3218 hrs 2 mins
-🎮 Blender                          🕘 22 hrs 42 mins
 λ Half-Life                         🕘 10 hrs 16 mins
+🎮 Portal 2                         🕘 36 hrs 40 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
