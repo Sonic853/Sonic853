@@ -44,7 +44,7 @@ LESS       🕓 57m   █▌░░░░░░░░░░░░░░░░░�
 ```text
 🎮 Live2DViewerEX                   🕘 2303 hrs 26 mins
 🎮 Freedom Planet                   🕘 7 hrs 51 mins
-🔫 Counter-Strike: Global Offensive 🕘 3218 hrs 2 mins
+🔫 Counter-Strike: Global Offensive 🕘 3219 hrs 11 mins
 λ Half-Life                         🕘 10 hrs 16 mins
 🎮 Portal 2                         🕘 36 hrs 40 mins
 ```
