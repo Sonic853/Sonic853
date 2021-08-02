@@ -43,7 +43,7 @@ Other      🕓 8m    ▍░░░░░░░░░░░░░░░░░░�
 🎮 Recently played Steam games
 ```text
 🎮 Freedom Planet                   🕘 7 hrs 51 mins
-🎮 Live2DViewerEX                   🕘 2304 hrs 26 mins
+🎮 Live2DViewerEX                   🕘 2305 hrs 0 mins
 🔫 Counter-Strike: Global Offensive 🕘 3219 hrs 11 mins
 λ Half-Life                         🕘 10 hrs 16 mins
 🎮 Portal 2                         🕘 36 hrs 40 mins
