@@ -42,8 +42,8 @@ Batchfile  🕓 1m   ▏░░░░░░░░░░░░░░░░░░�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
+🎮 Live2DViewerEX                   🕘 2306 hrs 0 mins
 🎮 Freedom Planet                   🕘 7 hrs 51 mins
-🎮 Live2DViewerEX                   🕘 2305 hrs 0 mins
 🔫 Counter-Strike: Global Offensive 🕘 3219 hrs 11 mins
 λ Half-Life                         🕘 10 hrs 16 mins
 🎮 Portal 2                         🕘 36 hrs 40 mins
