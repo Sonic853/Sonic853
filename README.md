@@ -39,7 +39,7 @@ CSS  🕓 3m  █▊░░░░░░░░░░░░░░░░░░░░
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 Live2DViewerEX                   🕘 2333 hrs 42 mins
+🎮 Live2DViewerEX                   🕘 2334 hrs 25 mins
 🎮 Freedom Planet                   🕘 7 hrs 51 mins
 🔫 Counter-Strike: Global Offensive 🕘 3219 hrs 11 mins
 🎮 Portal 2                         🕘 36 hrs 40 mins
