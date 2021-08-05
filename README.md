@@ -42,8 +42,8 @@ LESS       🕓 0s    ░░░░░░░░░░░░░░░░░░░�
 🎮 Recently played Steam games
 ```text
 🎮 Live2DViewerEX                   🕘 2334 hrs 25 mins
-🎮 Freedom Planet                   🕘 7 hrs 51 mins
 🔫 Counter-Strike: Global Offensive 🕘 3219 hrs 11 mins
+🎮 Freedom Planet                   🕘 7 hrs 51 mins
 🎮 Sniper: Ghost Warrior            🕘 0 hrs 14 mins
 🎮 微光之镜 Glimmer in Mirror Demo  🕘 1 hrs 22 mins
 ```
