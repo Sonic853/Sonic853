@@ -45,7 +45,6 @@ LESS       🕓 0s    ░░░░░░░░░░░░░░░░░░░�
 🔫 Counter-Strike: Global Offensive 🕘 3219 hrs 11 mins
 🎮 Sniper: Ghost Warrior            🕘 0 hrs 14 mins
 🎮 微光之镜 Glimmer in Mirror Demo  🕘 1 hrs 22 mins
-🎮 VRoid Studio                     🕘 85 hrs 48 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
