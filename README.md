@@ -43,7 +43,7 @@ Vue.js     🕓 34m   ▊░░░░░░░░░░░░░░░░░░�
 🎮 Recently played Steam games
 ```text
 🎮 Live2DViewerEX                   🕘 2334 hrs 26 mins
-🔫 Counter-Strike: Global Offensive 🕘 3219 hrs 11 mins
+🔫 Counter-Strike: Global Offensive 🕘 3219 hrs 26 mins
 🎮 微光之镜 Glimmer in Mirror Demo  🕘 1 hrs 22 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
