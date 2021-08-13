@@ -44,9 +44,9 @@ Vue.js     🕓 55m   █▎░░░░░░░░░░░░░░░░░�
 ```text
 🎮 Live2DViewerEX                   🕘 2334 hrs 26 mins
 🔫 Counter-Strike: Global Offensive 🕘 3220 hrs 37 mins
+🎮 Battlefield 1 ™                  🕘 6 hrs 33 mins
 🎮 微光之镜 Glimmer in Mirror Demo  🕘 1 hrs 22 mins
 🎮 VRoid Studio                     🕘 85 hrs 53 mins
-🎮 Tyrion Cuthbert: Attorney of the Arcane Demo 🕘 0 hrs 1 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
