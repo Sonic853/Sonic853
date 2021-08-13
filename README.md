@@ -43,7 +43,7 @@ Vue.js     🕓 55m   █▎░░░░░░░░░░░░░░░░░�
 🎮 Recently played Steam games
 ```text
 🎮 Live2DViewerEX                   🕘 2334 hrs 26 mins
-🎮 Battlefield 1 ™                  🕘 10 hrs 35 mins
+🎮 Battlefield 1 ™                  🕘 11 hrs 36 mins
 🔫 Counter-Strike: Global Offensive 🕘 3220 hrs 37 mins
 🎮 微光之镜 Glimmer in Mirror Demo  🕘 1 hrs 22 mins
 🎮 VRoid Studio                     🕘 85 hrs 53 mins
