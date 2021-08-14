@@ -44,8 +44,8 @@ Vue.js     🕓 55m   █▎░░░░░░░░░░░░░░░░░�
 ```text
 🎮 Live2DViewerEX                   🕘 2334 hrs 26 mins
 🎮 Battlefield 1 ™                  🕘 13 hrs 6 mins
-λ² Half-Life 2                      🕘 7 hrs 53 mins
-🎮 Battlefield™ V                   🕘 2 hrs 48 mins
+λ² Half-Life 2                      🕘 8 hrs 26 mins
+🎮 Battlefield™ V                   🕘 3 hrs 21 mins
 🔫 Counter-Strike: Global Offensive 🕘 3220 hrs 37 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
