@@ -45,7 +45,7 @@ Other      🕓 32m   ▋░░░░░░░░░░░░░░░░░░�
 🎮 Battlefield™ V                   🕘 19 hrs 43 mins
 🎮 Battlefield 1 ™                  🕘 13 hrs 6 mins
 λ² Half-Life 2                      🕘 8 hrs 26 mins
-🔫 Counter-Strike: Global Offensive 🕘 3222 hrs 48 mins
+🔫 Counter-Strike: Global Offensive 🕘 3223 hrs 38 mins
 🎮 Live2DViewerEX                   🕘 2334 hrs 36 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
