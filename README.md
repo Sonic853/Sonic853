@@ -8,7 +8,7 @@ Sonic853
 消失的8853288
 
 
-不要相信以上帐号的任何信息！
+不要相信百度里以上帐号的任何信息！
 
 <h3 align="center">👋 Hello! <span title="I'm not Sonic! I just love Sonic, you know?">I'm 853.</span></h3>
 <p align="center"><del>这个地球是一秒待不下去了</del>（误</p>
