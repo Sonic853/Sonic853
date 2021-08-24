@@ -56,9 +56,9 @@ JavaScript 🕓 1h33m ██▌░░░░░░░░░░░░░░░░�
 ```text
 🎮 Battlefield™ V                   🕘 19 hrs 43 mins
 🎮 Battlefield 1 ™                  🕘 13 hrs 6 mins
+🔫 Counter-Strike: Global Offensive 🕘 3224 hrs 19 mins
 λ² Half-Life 2                      🕘 8 hrs 26 mins
-🔫 Counter-Strike: Global Offensive 🕘 3223 hrs 48 mins
-❓ Unknown Game                     🕘 3 hrs 41 mins
+❓ Unknown Game                     🕘 4 hrs 8 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
