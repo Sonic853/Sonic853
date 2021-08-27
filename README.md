@@ -44,8 +44,8 @@ TypeScript 🕓 4m    ▏░░░░░░░░░░░░░░░░░░�
 ```text
 🎮 Battlefield™ V                   🕘 19 hrs 43 mins
 ❓ Unknown Game                     🕘 6 hrs 32 mins
-🎮 Battlefield 1 ™                  🕘 13 hrs 6 mins
 λ² Half-Life 2                      🕘 8 hrs 26 mins
+🎮 Battlefield 1 ™                  🕘 13 hrs 6 mins
 🔫 Counter-Strike: Global Offensive 🕘 3224 hrs 19 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
