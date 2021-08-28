@@ -45,8 +45,8 @@ TypeScript 🕓 0s    ░░░░░░░░░░░░░░░░░░░�
 🎮 Battlefield™ V                   🕘 19 hrs 43 mins
 ❓ Unknown Game                     🕘 6 hrs 32 mins
 🔫 Counter-Strike: Global Offensive 🕘 3224 hrs 19 mins
-λ² Half-Life 2                      🕘 8 hrs 26 mins
 🎮 Red Dead Redemption 2            🕘 1 hrs 37 mins
+λ² Half-Life 2                      🕘 8 hrs 26 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
