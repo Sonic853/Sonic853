@@ -43,8 +43,8 @@ JSON  🕓 1m    ░░░░░░░░░░░░░░░░░░░░░
 ```text
 ❓ Unknown Game                     🕘 6 hrs 32 mins
 🔫 Counter-Strike: Global Offensive 🕘 3224 hrs 34 mins
-🎮 Battlefield™ V                   🕘 19 hrs 43 mins
 🎮 Red Dead Redemption 2            🕘 1 hrs 37 mins
+🎮 Battlefield™ V                   🕘 19 hrs 43 mins
 🎮 Live2DViewerEX                   🕘 2334 hrs 38 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
