@@ -45,8 +45,8 @@ Python     🕓 32m    ▋░░░░░░░░░░░░░░░░░░
 ❓ Unknown Game                     🕘 6 hrs 32 mins
 🔫 Counter-Strike: Global Offensive 🕘 3225 hrs 49 mins
 🎮 Red Dead Redemption 2            🕘 1 hrs 37 mins
-🎮 Live2DViewerEX                   🕘 2334 hrs 38 mins
 🎮 Crazy Flasher Series 2021        🕘 0 hrs 21 mins
+🎮 Live2DViewerEX                   🕘 2334 hrs 38 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
