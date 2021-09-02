@@ -44,8 +44,8 @@ JSON       🕓 38m    ▊░░░░░░░░░░░░░░░░░░
 ```text
 ❓ Unknown Game                     🕘 6 hrs 32 mins
 🔫 Counter-Strike: Global Offensive 🕘 3225 hrs 49 mins
+🎮 VRoid Studio                     🕘 88 hrs 0 mins
 🎮 Red Dead Redemption 2            🕘 1 hrs 37 mins
-🎮 VRoid Studio                     🕘 86 hrs 48 mins
 🎮 Crazy Flasher Series 2021        🕘 0 hrs 21 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
