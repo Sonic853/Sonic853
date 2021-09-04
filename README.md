@@ -43,7 +43,7 @@ JSON       🕓 38m    ▊░░░░░░░░░░░░░░░░░░
 🎮 Recently played Steam games
 ```text
 ❓ Unknown Game                     🕘 6 hrs 32 mins
-🔫 Counter-Strike: Global Offensive 🕘 3225 hrs 49 mins
+🔫 Counter-Strike: Global Offensive 🕘 3225 hrs 55 mins
 🎮 VRoid Studio                     🕘 88 hrs 0 mins
 🎮 Red Dead Redemption 2            🕘 1 hrs 37 mins
 🎮 Crazy Flasher Series 2021        🕘 0 hrs 21 mins
