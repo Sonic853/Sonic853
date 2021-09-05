@@ -41,7 +41,7 @@ Still Gathering Statistics...
 ❓ Unknown Game                     🕘 6 hrs 32 mins
 🎮 VRoid Studio                     🕘 88 hrs 0 mins
 🔫 Counter-Strike: Global Offensive 🕘 3225 hrs 55 mins
-🎮 Insurgency: Sandstorm            🕘 68 hrs 3 mins
+🎮 Insurgency: Sandstorm            🕘 68 hrs 34 mins
 🎮 Doki Doki Literature Club Plus!  🕘 0 hrs 1 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
