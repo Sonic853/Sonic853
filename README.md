@@ -42,7 +42,7 @@ Still Gathering Statistics...
 🔫 Counter-Strike: Global Offensive 🕘 3229 hrs 46 mins
 🎮 VRoid Studio                     🕘 88 hrs 0 mins
 🎮 Insurgency: Sandstorm            🕘 69 hrs 25 mins
-🎮 Doki Doki Literature Club Plus!  🕘 0 hrs 1 mins
+🔫 Tom Clancy's Rainbow Six Siege   🕘 71 hrs 50 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
