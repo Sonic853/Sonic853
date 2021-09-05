@@ -39,10 +39,10 @@ Still Gathering Statistics...
 🎮 Recently played Steam games
 ```text
 ❓ Unknown Game                     🕘 6 hrs 32 mins
-🔫 Counter-Strike: Global Offensive 🕘 3225 hrs 55 mins
 🎮 VRoid Studio                     🕘 88 hrs 0 mins
+🔫 Counter-Strike: Global Offensive 🕘 3225 hrs 55 mins
 🎮 Red Dead Redemption 2            🕘 1 hrs 37 mins
-🎮 Crazy Flasher Series 2021        🕘 0 hrs 21 mins
+🎮 Doki Doki Literature Club Plus!  🕘 0 hrs 1 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
