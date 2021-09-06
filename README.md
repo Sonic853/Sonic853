@@ -39,7 +39,7 @@ Still Gathering Statistics...
 🎮 Recently played Steam games
 ```text
 ❓ Unknown Game                     🕘 6 hrs 32 mins
-🔫 Counter-Strike: Global Offensive 🕘 3229 hrs 46 mins
+🔫 Counter-Strike: Global Offensive 🕘 3229 hrs 56 mins
 🎮 VRoid Studio                     🕘 88 hrs 0 mins
 🎮 Insurgency: Sandstorm            🕘 69 hrs 25 mins
 🔫 Tom Clancy's Rainbow Six Siege   🕘 71 hrs 50 mins
