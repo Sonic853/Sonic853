@@ -42,11 +42,11 @@ JSON       🕓 37m   ▊░░░░░░░░░░░░░░░░░░�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🔫 Counter-Strike: Global Offensive 🕘 3231 hrs 49 mins
+🔫 Counter-Strike: Global Offensive 🕘 3232 hrs 17 mins
 ❓ Unknown Game                     🕘 6 hrs 32 mins
 🎮 VRoid Studio                     🕘 88 hrs 0 mins
 🎮 Insurgency: Sandstorm            🕘 69 hrs 25 mins
-🔫 Tom Clancy's Rainbow Six Siege   🕘 71 hrs 50 mins
+🎮 Superliminal                     🕘 12 hrs 36 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
