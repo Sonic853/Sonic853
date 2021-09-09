@@ -43,7 +43,7 @@ JavaScript 🕓 29m    ▌░░░░░░░░░░░░░░░░░░
 🎮 Recently played Steam games
 ```text
 🔫 Counter-Strike: Global Offensive 🕘 3232 hrs 17 mins
-🎮 Gunfire Reborn                   🕘 84 hrs 43 mins
+🎮 Gunfire Reborn                   🕘 84 hrs 47 mins
 🎮 VRoid Studio                     🕘 88 hrs 0 mins
 🎮 Insurgency: Sandstorm            🕘 69 hrs 25 mins
 🎮 Superliminal                     🕘 12 hrs 36 mins
