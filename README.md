@@ -43,9 +43,9 @@ JavaScript 🕓 29m    ▌░░░░░░░░░░░░░░░░░░
 🎮 Recently played Steam games
 ```text
 🔫 Counter-Strike: Global Offensive 🕘 3232 hrs 17 mins
-❓ Unknown Game                     🕘 6 hrs 32 mins
 🎮 VRoid Studio                     🕘 88 hrs 0 mins
 🎮 Insurgency: Sandstorm            🕘 69 hrs 25 mins
+❓ Unknown Game                     🕘 6 hrs 32 mins
 🎮 Gunfire Reborn                   🕘 81 hrs 22 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
