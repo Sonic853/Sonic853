@@ -44,7 +44,7 @@ JavaScript 🕓 38m    ▌░░░░░░░░░░░░░░░░░░
 ```text
 🔫 Counter-Strike: Global Offensive 🕘 3232 hrs 23 mins
 🎮 Gunfire Reborn                   🕘 86 hrs 25 mins
-🎮 Live2DViewerEX                   🕘 2339 hrs 45 mins
+🎮 Live2DViewerEX                   🕘 2340 hrs 17 mins
 🎮 VRoid Studio                     🕘 88 hrs 0 mins
 🎮 Insurgency: Sandstorm            🕘 69 hrs 25 mins
 ```
