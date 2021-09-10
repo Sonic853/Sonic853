@@ -46,7 +46,7 @@ JavaScript 🕓 38m    ▌░░░░░░░░░░░░░░░░░░
 🎮 Gunfire Reborn                   🕘 84 hrs 47 mins
 🎮 VRoid Studio                     🕘 88 hrs 0 mins
 🎮 Insurgency: Sandstorm            🕘 69 hrs 25 mins
-🎮 Live2DViewerEX                   🕘 2335 hrs 8 mins
+🎮 Live2DViewerEX                   🕘 2335 hrs 39 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
