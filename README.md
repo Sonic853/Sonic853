@@ -46,7 +46,7 @@ C#         🕓 1h15m  █▏░░░░░░░░░░░░░░░░░
 🎮 Gunfire Reborn                   🕘 86 hrs 25 mins
 🎮 Live2DViewerEX                   🕘 2340 hrs 17 mins
 🎮 Superliminal                     🕘 16 hrs 2 mins
-🎮 Portal 2                         🕘 38 hrs 57 mins
+🎮 Portal 2                         🕘 40 hrs 0 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
