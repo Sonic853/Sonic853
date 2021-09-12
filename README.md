@@ -45,8 +45,8 @@ C#         🕓 1h15m  █▏░░░░░░░░░░░░░░░░░
 🔫 Counter-Strike: Global Offensive 🕘 3232 hrs 23 mins
 🎮 Gunfire Reborn                   🕘 86 hrs 25 mins
 🎮 Live2DViewerEX                   🕘 2340 hrs 17 mins
+🎮 Portal 2                         🕘 41 hrs 0 mins
 🎮 Superliminal                     🕘 16 hrs 2 mins
-🎮 Portal 2                         🕘 40 hrs 0 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
