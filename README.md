@@ -43,7 +43,7 @@ C#         🕓 1h15m  █▏░░░░░░░░░░░░░░░░░
 🎮 Recently played Steam games
 ```text
 🔫 Counter-Strike: Global Offensive 🕘 3232 hrs 23 mins
-🎮 Gunfire Reborn                   🕘 86 hrs 25 mins
+🎮 Gunfire Reborn                   🕘 86 hrs 31 mins
 🎮 Portal 2                         🕘 42 hrs 30 mins
 🎮 Live2DViewerEX                   🕘 2340 hrs 17 mins
 🎮 Superliminal                     🕘 16 hrs 2 mins
