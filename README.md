@@ -42,7 +42,7 @@ Other      🕓 18m   ▏░░░░░░░░░░░░░░░░░░�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 Gunfire Reborn                   🕘 95 hrs 58 mins
+🎮 Gunfire Reborn                   🕘 96 hrs 29 mins
 🔫 Counter-Strike: Global Offensive 🕘 3234 hrs 5 mins
 🎮 Live2DViewerEX                   🕘 2342 hrs 34 mins
 🎮 Portal 2                         🕘 42 hrs 30 mins
