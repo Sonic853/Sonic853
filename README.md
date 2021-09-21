@@ -42,7 +42,7 @@ HTML       🕓 1h20m  ▋░░░░░░░░░░░░░░░░░░
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 Gunfire Reborn                   🕘 100 hrs 34 mins
+🎮 Gunfire Reborn                   🕘 101 hrs 32 mins
 🎮 Live2DViewerEX                   🕘 2350 hrs 3 mins
 🎮 Portal 2                         🕘 42 hrs 30 mins
 🔫 Counter-Strike: Global Offensive 🕘 3236 hrs 34 mins
