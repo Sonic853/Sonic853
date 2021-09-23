@@ -44,7 +44,7 @@ Other      🕓 33m    ▎░░░░░░░░░░░░░░░░░░
 ```text
 🎮 Gunfire Reborn                   🕘 101 hrs 42 mins
 🎮 Live2DViewerEX                   🕘 2350 hrs 3 mins
-🔫 Counter-Strike: Global Offensive 🕘 3243 hrs 0 mins
+🔫 Counter-Strike: Global Offensive 🕘 3243 hrs 16 mins
 🎮 Portal 2                         🕘 42 hrs 30 mins
 🎮 Superliminal                     🕘 16 hrs 2 mins
 ```
