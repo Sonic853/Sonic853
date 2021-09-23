@@ -46,7 +46,7 @@ Other      🕓 33m    ▎░░░░░░░░░░░░░░░░░░
 🎮 Live2DViewerEX                   🕘 2350 hrs 3 mins
 🔫 Counter-Strike: Global Offensive 🕘 3243 hrs 17 mins
 🎮 Portal 2                         🕘 42 hrs 30 mins
-🎮 PAYDAY 2                         🕘 34 hrs 32 mins
+🎮 PAYDAY 2                         🕘 35 hrs 3 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
