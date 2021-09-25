@@ -42,7 +42,7 @@ Other      🕓 44m    ▌░░░░░░░░░░░░░░░░░░
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 PAYDAY 2                         🕘 49 hrs 7 mins
+🎮 PAYDAY 2                         🕘 50 hrs 7 mins
 🎮 Gunfire Reborn                   🕘 101 hrs 42 mins
 🔫 Counter-Strike: Global Offensive 🕘 3244 hrs 36 mins
 🎮 Live2DViewerEX                   🕘 2350 hrs 3 mins
