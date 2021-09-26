@@ -45,8 +45,8 @@ Other      🕓 58m   ▋░░░░░░░░░░░░░░░░░░�
 🎮 PAYDAY 2                         🕘 51 hrs 0 mins
 🎮 Gunfire Reborn                   🕘 101 hrs 42 mins
 🔫 Counter-Strike: Global Offensive 🕘 3244 hrs 36 mins
-🎮 Live2DViewerEX                   🕘 2350 hrs 33 mins
-🎮 Unheard                          🕘 2 hrs 1 mins
+🎮 Live2DViewerEX                   🕘 2352 hrs 4 mins
+🎮 Unheard                          🕘 3 hrs 1 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
