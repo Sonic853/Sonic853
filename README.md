@@ -46,7 +46,7 @@ Other      🕓 58m   ▋░░░░░░░░░░░░░░░░░░�
 🎮 Gunfire Reborn                   🕘 101 hrs 42 mins
 🔫 Counter-Strike: Global Offensive 🕘 3244 hrs 36 mins
 🎮 Live2DViewerEX                   🕘 2350 hrs 3 mins
-🎮 Portal 2                         🕘 42 hrs 30 mins
+🎮 Sudoku Universe                  🕘 5 hrs 47 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
