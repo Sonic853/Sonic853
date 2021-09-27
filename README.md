@@ -46,7 +46,7 @@ JavaScript 🕓 1m     ░░░░░░░░░░░░░░░░░░░
 🎮 Live2DViewerEX                   🕘 2354 hrs 13 mins
 🎮 Gunfire Reborn                   🕘 101 hrs 42 mins
 🔫 Counter-Strike: Global Offensive 🕘 3244 hrs 36 mins
-🎮 Unheard                          🕘 5 hrs 24 mins
+🎮 Unheard                          🕘 5 hrs 54 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
