@@ -43,8 +43,8 @@ JavaScript 🕓 1m     ░░░░░░░░░░░░░░░░░░░
 🎮 Recently played Steam games
 ```text
 🎮 PAYDAY 2                         🕘 51 hrs 3 mins
-🎮 Gunfire Reborn                   🕘 101 hrs 42 mins
 🎮 Live2DViewerEX                   🕘 2354 hrs 13 mins
+🎮 Gunfire Reborn                   🕘 101 hrs 42 mins
 🔫 Counter-Strike: Global Offensive 🕘 3244 hrs 36 mins
 🎮 Unheard                          🕘 5 hrs 24 mins
 ```
