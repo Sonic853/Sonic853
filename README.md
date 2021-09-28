@@ -42,10 +42,10 @@ JSON   🕓 1m     ░░░░░░░░░░░░░░░░░░░░�
 🎮 Recently played Steam games
 ```text
 🎮 PAYDAY 2                         🕘 51 hrs 3 mins
-🎮 Unheard                          🕘 16 hrs 3 mins
+🎮 Unheard                          🕘 16 hrs 20 mins
 🎮 Live2DViewerEX                   🕘 2354 hrs 13 mins
-🎮 Gunfire Reborn                   🕘 101 hrs 42 mins
 🔫 Counter-Strike: Global Offensive 🕘 3244 hrs 36 mins
+🎮 Gunfire Reborn                   🕘 101 hrs 42 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
