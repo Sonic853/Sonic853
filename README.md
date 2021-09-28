@@ -43,8 +43,8 @@ JSON   🕓 1m     ░░░░░░░░░░░░░░░░░░░░�
 ```text
 🎮 PAYDAY 2                         🕘 51 hrs 3 mins
 🎮 Live2DViewerEX                   🕘 2354 hrs 13 mins
+🎮 Unheard                          🕘 12 hrs 56 mins
 🎮 Gunfire Reborn                   🕘 101 hrs 42 mins
-🎮 Unheard                          🕘 11 hrs 55 mins
 🔫 Counter-Strike: Global Offensive 🕘 3244 hrs 36 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
