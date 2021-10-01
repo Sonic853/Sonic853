@@ -43,7 +43,7 @@ JSON   🕓 1m     ░░░░░░░░░░░░░░░░░░░░�
 ```text
 🎮 PAYDAY 2                         🕘 51 hrs 3 mins
 🎮 Unheard                          🕘 16 hrs 20 mins
-🔫 Counter-Strike: Global Offensive 🕘 3248 hrs 32 mins
+🔫 Counter-Strike: Global Offensive 🕘 3250 hrs 1 mins
 🎮 Live2DViewerEX                   🕘 2354 hrs 13 mins
 🎮 Gunfire Reborn                   🕘 101 hrs 42 mins
 ```
