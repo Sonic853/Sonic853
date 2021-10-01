@@ -42,7 +42,7 @@ JSON   🕓 1m     ░░░░░░░░░░░░░░░░░░░░�
 🎮 Recently played Steam games
 ```text
 🎮 PAYDAY 2                         🕘 51 hrs 3 mins
-🔫 Counter-Strike: Global Offensive 🕘 3252 hrs 2 mins
+🔫 Counter-Strike: Global Offensive 🕘 3253 hrs 12 mins
 🎮 Unheard                          🕘 16 hrs 20 mins
 🎮 Live2DViewerEX                   🕘 2354 hrs 13 mins
 🎮 Gunfire Reborn                   🕘 101 hrs 42 mins
