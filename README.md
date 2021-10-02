@@ -44,7 +44,7 @@ Other  🕓 21m    ▋░░░░░░░░░░░░░░░░░░░�
 🔫 Counter-Strike: Global Offensive 🕘 3253 hrs 12 mins
 🎮 Unheard                          🕘 16 hrs 20 mins
 🎮 Live2DViewerEX                   🕘 2354 hrs 13 mins
-🎮 Gunfire Reborn                   🕘 101 hrs 42 mins
+🎮 Sudoku Universe                  🕘 5 hrs 47 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
