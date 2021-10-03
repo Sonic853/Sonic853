@@ -41,7 +41,7 @@ Other  🕓 7m     ▎░░░░░░░░░░░░░░░░░░░�
 🎮 Recently played Steam games
 ```text
 🎮 PAYDAY 2                         🕘 51 hrs 3 mins
-🔫 Counter-Strike: Global Offensive 🕘 3254 hrs 13 mins
+🔫 Counter-Strike: Global Offensive 🕘 3255 hrs 0 mins
 🎮 Unheard                          🕘 16 hrs 20 mins
 🎮 Live2DViewerEX                   🕘 2354 hrs 13 mins
 🎮 Sudoku Universe                  🕘 5 hrs 47 mins
