@@ -42,7 +42,7 @@ Still Gathering Statistics...
 🎮 PAYDAY 2                         🕘 51 hrs 3 mins
 🎮 Unheard                          🕘 16 hrs 20 mins
 🎮 Live2DViewerEX                   🕘 2354 hrs 13 mins
-🎮 Sudoku Universe                  🕘 5 hrs 47 mins
+🎮 Portal Reloaded                  🕘 2 hrs 2 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
