@@ -41,7 +41,7 @@ Still Gathering Statistics...
 🎮 PAYDAY 2                         🕘 51 hrs 3 mins
 🎮 Unheard                          🕘 16 hrs 20 mins
 🔫 Counter-Strike: Global Offensive 🕘 3256 hrs 32 mins
-🎮 OVR Toolkit                      🕘 143 hrs 28 mins
+🎮 OVR Toolkit                      🕘 144 hrs 34 mins
 🎮 Live2DViewerEX                   🕘 2354 hrs 13 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
