@@ -39,9 +39,9 @@ Still Gathering Statistics...
 🎮 Recently played Steam games
 ```text
 🎮 PAYDAY 2                         🕘 51 hrs 3 mins
-🔫 Counter-Strike: Global Offensive 🕘 3256 hrs 32 mins
 🎮 Unheard                          🕘 16 hrs 20 mins
-🎮 OVR Toolkit                      🕘 142 hrs 12 mins
+🔫 Counter-Strike: Global Offensive 🕘 3256 hrs 32 mins
+🎮 OVR Toolkit                      🕘 142 hrs 58 mins
 🎮 Live2DViewerEX                   🕘 2354 hrs 13 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
