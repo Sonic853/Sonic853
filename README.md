@@ -38,8 +38,8 @@ Still Gathering Statistics...
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🔫 Counter-Strike: Global Offensive 🕘 3256 hrs 32 mins
 🎮 PAYDAY 2                         🕘 51 hrs 3 mins
+🔫 Counter-Strike: Global Offensive 🕘 3256 hrs 32 mins
 🎮 Unheard                          🕘 16 hrs 20 mins
 🎮 Live2DViewerEX                   🕘 2354 hrs 13 mins
 🎮 Portal Reloaded                  🕘 2 hrs 2 mins
