@@ -40,9 +40,9 @@ Still Gathering Statistics...
 ```text
 🎮 Unheard                          🕘 16 hrs 20 mins
 🔫 Counter-Strike: Global Offensive 🕘 3258 hrs 36 mins
-🎮 SteamVR                          🕘 667 hrs 28 mins
+🎮 SteamVR                          🕘 667 hrs 30 mins
 🎮 PAYDAY 2                         🕘 51 hrs 3 mins
-🎮 OVR Toolkit                      🕘 145 hrs 34 mins
+🎮 OVR Toolkit                      🕘 145 hrs 54 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
