@@ -39,8 +39,8 @@ Still Gathering Statistics...
 🎮 Recently played Steam games
 ```text
 🎮 Unheard                          🕘 16 hrs 20 mins
+🔫 Counter-Strike: Global Offensive 🕘 3258 hrs 20 mins
 🎮 PAYDAY 2                         🕘 51 hrs 3 mins
-🔫 Counter-Strike: Global Offensive 🕘 3257 hrs 55 mins
 🎮 SteamVR                          🕘 666 hrs 26 mins
 🎮 OVR Toolkit                      🕘 144 hrs 34 mins
 ```
