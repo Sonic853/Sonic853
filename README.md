@@ -46,7 +46,7 @@ Markdown   🕓 8m    █▏░░░░░░░░░░░░░░░░░�
 🔫 Counter-Strike: Global Offensive 🕘 3258 hrs 46 mins
 🎮 SteamVR                          🕘 667 hrs 30 mins
 🎮 PAYDAY 2                         🕘 51 hrs 3 mins
-🎮 OVR Toolkit                      🕘 145 hrs 54 mins
+🎮 OVR Toolkit                      🕘 146 hrs 7 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
