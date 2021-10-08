@@ -42,7 +42,7 @@ Markdown   🕓 8m    █▏░░░░░░░░░░░░░░░░░�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 SteamVR                          🕘 672 hrs 31 mins
+🎮 SteamVR                          🕘 673 hrs 31 mins
 🎮 Unheard                          🕘 16 hrs 20 mins
 🔫 Counter-Strike: Global Offensive 🕘 3258 hrs 46 mins
 🎮 OVR Toolkit                      🕘 150 hrs 31 mins
