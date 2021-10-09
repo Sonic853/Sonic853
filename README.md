@@ -44,7 +44,7 @@ C#         🕓 12m   ▉░░░░░░░░░░░░░░░░░░�
 ```text
 🎮 SteamVR                          🕘 678 hrs 34 mins
 🎮 Unheard                          🕘 16 hrs 20 mins
-🔫 Counter-Strike: Global Offensive 🕘 3258 hrs 46 mins
+🔫 Counter-Strike: Global Offensive 🕘 3258 hrs 54 mins
 🎮 OVR Toolkit                      🕘 150 hrs 31 mins
 🎮 PAYDAY 2                         🕘 51 hrs 3 mins
 ```
