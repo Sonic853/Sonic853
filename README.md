@@ -45,8 +45,8 @@ C#         🕓 12m   ▉░░░░░░░░░░░░░░░░░░�
 🎮 SteamVR                          🕘 678 hrs 34 mins
 🎮 Unheard                          🕘 16 hrs 20 mins
 🔫 Counter-Strike: Global Offensive 🕘 3259 hrs 19 mins
-🎮 OVR Toolkit                      🕘 150 hrs 33 mins
-🎮 PAYDAY 2                         🕘 51 hrs 3 mins
+🎮 OVR Toolkit                      🕘 151 hrs 11 mins
+🎮 VRChat                           🕘 32 hrs 33 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
