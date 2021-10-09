@@ -42,7 +42,7 @@ C#         🕓 12m   ▉░░░░░░░░░░░░░░░░░░�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 SteamVR                          🕘 681 hrs 56 mins
+🎮 SteamVR                          🕘 682 hrs 27 mins
 🎮 Unheard                          🕘 16 hrs 20 mins
 🔫 Counter-Strike: Global Offensive 🕘 3259 hrs 19 mins
 🎮 OVR Toolkit                      🕘 151 hrs 33 mins
