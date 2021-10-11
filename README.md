@@ -42,8 +42,8 @@ XML        🕓 13m   ▌░░░░░░░░░░░░░░░░░░�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 SteamVR                          🕘 700 hrs 11 mins
-🎮 OVR Toolkit                      🕘 160 hrs 22 mins
+🎮 SteamVR                          🕘 701 hrs 42 mins
+🎮 OVR Toolkit                      🕘 161 hrs 23 mins
 🔫 Counter-Strike: Global Offensive 🕘 3259 hrs 31 mins
 🎮 Unheard                          🕘 16 hrs 20 mins
 🎮 VRChat                           🕘 32 hrs 33 mins
