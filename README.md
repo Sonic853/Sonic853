@@ -42,11 +42,11 @@ XML        🕓 13m   ▌░░░░░░░░░░░░░░░░░░�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 SteamVR                          🕘 709 hrs 15 mins
+🎮 SteamVR                          🕘 710 hrs 16 mins
 🎮 OVR Toolkit                      🕘 161 hrs 38 mins
 🔫 Counter-Strike: Global Offensive 🕘 3259 hrs 31 mins
 🎮 VRChat                           🕘 32 hrs 33 mins
-🎮 Unheard                          🕘 16 hrs 20 mins
+🎮 Seed of the Dead: Sweet Home     🕘 2 hrs 22 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
