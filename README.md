@@ -44,7 +44,7 @@ CSS        🕓 1h    █▉░░░░░░░░░░░░░░░░░�
 ```text
 🎮 SteamVR                          🕘 717 hrs 49 mins
 🎮 OVR Toolkit                      🕘 161 hrs 38 mins
-🔫 Counter-Strike: Global Offensive 🕘 3261 hrs 2 mins
+🔫 Counter-Strike: Global Offensive 🕘 3262 hrs 33 mins
 🎮 VRChat                           🕘 32 hrs 33 mins
 🎮 Seed of the Dead: Sweet Home     🕘 2 hrs 22 mins
 ```
