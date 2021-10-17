@@ -43,7 +43,7 @@ Other      🕓 27m   ▊░░░░░░░░░░░░░░░░░░�
 🎮 Recently played Steam games
 ```text
 🎮 SteamVR                          🕘 717 hrs 49 mins
-🔫 Counter-Strike: Global Offensive 🕘 3297 hrs 38 mins
+🔫 Counter-Strike: Global Offensive 🕘 3298 hrs 44 mins
 🎮 OVR Toolkit                      🕘 161 hrs 38 mins
 🎮 VRChat                           🕘 32 hrs 33 mins
 🎮 Seed of the Dead: Sweet Home     🕘 2 hrs 22 mins
