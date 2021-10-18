@@ -42,8 +42,8 @@ C#         🕓 1m    ░░░░░░░░░░░░░░░░░░░�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 SteamVR                          🕘 722 hrs 31 mins
-🔫 Counter-Strike: Global Offensive 🕘 3309 hrs 58 mins
+🎮 SteamVR                          🕘 723 hrs 31 mins
+🔫 Counter-Strike: Global Offensive 🕘 3310 hrs 32 mins
 🎮 OVR Toolkit                      🕘 163 hrs 38 mins
 🎮 VRChat                           🕘 32 hrs 33 mins
 🎮 Seed of the Dead: Sweet Home     🕘 2 hrs 22 mins
