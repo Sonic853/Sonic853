@@ -44,7 +44,7 @@ JSON       🕓 55m    █░░░░░░░░░░░░░░░░░░
 ```text
 🔫 Counter-Strike: Global Offensive 🕘 3387 hrs 23 mins
 🎮 SteamVR                          🕘 764 hrs 25 mins
-🎮 VRoid Studio                     🕘 114 hrs 33 mins
+🎮 VRoid Studio                     🕘 114 hrs 34 mins
 🎮 War of the Human Tanks           🕘 8 hrs 5 mins
 🎮 Tannenberg                       🕘 7 hrs 53 mins
 ```
