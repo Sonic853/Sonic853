@@ -42,11 +42,11 @@ C#         🕓 1m    ░░░░░░░░░░░░░░░░░░░�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 SteamVR                          🕘 724 hrs 2 mins
-🔫 Counter-Strike: Global Offensive 🕘 3310 hrs 56 mins
-🎮 OVR Toolkit                      🕘 163 hrs 38 mins
-🎮 VRChat                           🕘 32 hrs 33 mins
-🎮 Seed of the Dead: Sweet Home     🕘 2 hrs 22 mins
+🔫 Counter-Strike: Global Offensive 🕘 3387 hrs 23 mins
+🎮 SteamVR                          🕘 764 hrs 25 mins
+🎮 VRoid Studio                     🕘 114 hrs 33 mins
+🎮 War of the Human Tanks           🕘 8 hrs 5 mins
+🎮 Tannenberg                       🕘 7 hrs 53 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
