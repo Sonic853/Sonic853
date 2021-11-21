@@ -44,8 +44,8 @@ HTML       🕓 1h40m  █▌░░░░░░░░░░░░░░░░░
 ```text
 🔫 Counter-Strike: Global Offensive 🕘 3390 hrs 47 mins
 🎮 VRoid Studio                     🕘 114 hrs 46 mins
-🎮 SteamVR                          🕘 764 hrs 25 mins
 🎮 War of the Human Tanks           🕘 8 hrs 5 mins
+🎮 SteamVR                          🕘 764 hrs 25 mins
 🎮 Tannenberg                       🕘 7 hrs 53 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
