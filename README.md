@@ -42,7 +42,7 @@ HTML       🕓 1h40m  █▌░░░░░░░░░░░░░░░░░
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🔫 Counter-Strike: Global Offensive 🕘 3387 hrs 23 mins
+🔫 Counter-Strike: Global Offensive 🕘 3387 hrs 53 mins
 🎮 SteamVR                          🕘 764 hrs 25 mins
 🎮 VRoid Studio                     🕘 114 hrs 46 mins
 🎮 War of the Human Tanks           🕘 8 hrs 5 mins
