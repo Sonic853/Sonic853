@@ -43,7 +43,7 @@ HTML       🕓 1h40m  █▊░░░░░░░░░░░░░░░░░
 🎮 Recently played Steam games
 ```text
 🔫 Counter-Strike: Global Offensive 🕘 3392 hrs 56 mins
-🎮 Qubicle Voxel Editor             🕘 9 hrs 16 mins
+🎮 Qubicle Voxel Editor             🕘 10 hrs 17 mins
 🎮 VRoid Studio                     🕘 114 hrs 46 mins
 🎮 War of the Human Tanks           🕘 8 hrs 5 mins
 🎮 Tannenberg                       🕘 7 hrs 53 mins
