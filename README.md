@@ -43,7 +43,7 @@ HTML       🕓 1h40m  █▊░░░░░░░░░░░░░░░░░
 🎮 Recently played Steam games
 ```text
 🔫 Counter-Strike: Global Offensive 🕘 3392 hrs 56 mins
-🎮 VRoid Studio                     🕘 120 hrs 12 mins
+🎮 VRoid Studio                     🕘 120 hrs 31 mins
 🎮 Qubicle Voxel Editor             🕘 11 hrs 2 mins
 🎮 VRChat                           🕘 43 hrs 10 mins
 🎮 古剑奇谭(GuJian)                 🕘 7 hrs 13 mins
