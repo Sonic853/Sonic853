@@ -45,8 +45,8 @@ HTML       🕓 1h40m  █▊░░░░░░░░░░░░░░░░░
 🔫 Counter-Strike: Global Offensive 🕘 3392 hrs 56 mins
 🎮 Qubicle Voxel Editor             🕘 11 hrs 2 mins
 🎮 VRoid Studio                     🕘 116 hrs 15 mins
-🎮 War of the Human Tanks           🕘 8 hrs 5 mins
-🎮 Tannenberg                       🕘 7 hrs 53 mins
+🎮 VRChat                           🕘 40 hrs 1 mins
+🎮 古剑奇谭(GuJian)                 🕘 7 hrs 13 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
