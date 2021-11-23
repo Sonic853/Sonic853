@@ -44,7 +44,7 @@ HTML       🕓 1h40m  █▊░░░░░░░░░░░░░░░░░
 ```text
 🔫 Counter-Strike: Global Offensive 🕘 3392 hrs 56 mins
 🎮 Qubicle Voxel Editor             🕘 11 hrs 2 mins
-🎮 VRoid Studio                     🕘 115 hrs 19 mins
+🎮 VRoid Studio                     🕘 116 hrs 15 mins
 🎮 War of the Human Tanks           🕘 8 hrs 5 mins
 🎮 Tannenberg                       🕘 7 hrs 53 mins
 ```
