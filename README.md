@@ -46,7 +46,7 @@ Vue.js     🕓 43m   ██░░░░░░░░░░░░░░░░░�
 🎮 VRoid Studio                     🕘 122 hrs 41 mins
 🎮 Qubicle Voxel Editor             🕘 11 hrs 2 mins
 🎮 VRChat                           🕘 43 hrs 10 mins
-🎮 古剑奇谭(GuJian)                 🕘 7 hrs 13 mins
+🎮 Gunfire Reborn                   🕘 108 hrs 42 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
