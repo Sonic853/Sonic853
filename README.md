@@ -43,7 +43,7 @@ Other      🕓 17m ██▉░░░░░░░░░░░░░░░░░
 🎮 Recently played Steam games
 ```text
 🔫 Counter-Strike: Global Offensive 🕘 3396 hrs 47 mins
-🎮 VRoid Studio                     🕘 122 hrs 41 mins
+🎮 VRoid Studio                     🕘 122 hrs 57 mins
 🎮 Qubicle Voxel Editor             🕘 11 hrs 2 mins
 🎮 VRChat                           🕘 43 hrs 10 mins
 🎮 Gunfire Reborn                   🕘 108 hrs 51 mins
