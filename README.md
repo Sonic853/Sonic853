@@ -42,7 +42,7 @@ Other      🕓 17m ██▉░░░░░░░░░░░░░░░░░
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🔫 Counter-Strike: Global Offensive 🕘 3396 hrs 47 mins
+🔫 Counter-Strike: Global Offensive 🕘 3396 hrs 48 mins
 🎮 VRoid Studio                     🕘 122 hrs 57 mins
 🎮 VRChat                           🕘 44 hrs 26 mins
 🎮 Qubicle Voxel Editor             🕘 11 hrs 2 mins
