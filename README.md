@@ -43,8 +43,8 @@ Other      🕓 17m ██▉░░░░░░░░░░░░░░░░░
 🎮 Recently played Steam games
 ```text
 🎮 VRoid Studio                     🕘 123 hrs 6 mins
-🎮 Qubicle Voxel Editor             🕘 13 hrs 33 mins
-🎮 VRChat                           🕘 45 hrs 57 mins
+🎮 Qubicle Voxel Editor             🕘 14 hrs 26 mins
+🎮 VRChat                           🕘 46 hrs 33 mins
 🎮 Halo: The Master Chief Collection 🕘 17 hrs 25 mins
 🔫 Counter-Strike: Global Offensive 🕘 3396 hrs 48 mins
 ```
