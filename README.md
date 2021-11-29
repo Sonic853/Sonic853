@@ -46,7 +46,7 @@ Other      🕓 17m ██▉░░░░░░░░░░░░░░░░░
 🎮 VRoid Studio                     🕘 122 hrs 57 mins
 🎮 VRChat                           🕘 44 hrs 26 mins
 🎮 Qubicle Voxel Editor             🕘 11 hrs 2 mins
-🎮 Gunfire Reborn                   🕘 108 hrs 51 mins
+🎮 Halo: The Master Chief Collection 🕘 14 hrs 6 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
