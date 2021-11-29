@@ -46,7 +46,7 @@ Other      🕓 17m ██▉░░░░░░░░░░░░░░░░░
 🔫 Counter-Strike: Global Offensive 🕘 3396 hrs 48 mins
 🎮 VRChat                           🕘 44 hrs 26 mins
 🎮 Qubicle Voxel Editor             🕘 11 hrs 2 mins
-🎮 Halo: The Master Chief Collection 🕘 15 hrs 35 mins
+🎮 Halo: The Master Chief Collection 🕘 16 hrs 35 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
