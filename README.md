@@ -45,7 +45,7 @@ Other      🕓 17m   █░░░░░░░░░░░░░░░░░░�
 🎮 VRoid Studio                     🕘 123 hrs 6 mins
 🎮 Qubicle Voxel Editor             🕘 14 hrs 26 mins
 🎮 VRChat                           🕘 46 hrs 33 mins
-🎮 Halo: The Master Chief Collection 🕘 18 hrs 26 mins
+🎮 Halo: The Master Chief Collection 🕘 19 hrs 27 mins
 🔫 Counter-Strike: Global Offensive 🕘 3396 hrs 48 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
