@@ -44,7 +44,7 @@ Other      🕓 13m   ▊░░░░░░░░░░░░░░░░░░�
 ```text
 🎮 Halo: The Master Chief Collection 🕘 26 hrs 35 mins
 🔫 Counter-Strike: Global Offensive 🕘 3405 hrs 5 mins
-🎮 VRChat                           🕘 49 hrs 2 mins
+🎮 VRChat                           🕘 49 hrs 30 mins
 🎮 Qubicle Voxel Editor             🕘 14 hrs 26 mins
 🎮 VRoid Studio                     🕘 123 hrs 6 mins
 ```
