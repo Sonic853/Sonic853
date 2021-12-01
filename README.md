@@ -46,7 +46,7 @@ Other      🕓 13m   ▊░░░░░░░░░░░░░░░░░░�
 🎮 VRoid Studio                     🕘 123 hrs 6 mins
 🎮 VRChat                           🕘 49 hrs 2 mins
 🎮 Qubicle Voxel Editor             🕘 14 hrs 26 mins
-🔫 Counter-Strike: Global Offensive 🕘 3397 hrs 20 mins
+🔫 Counter-Strike: Global Offensive 🕘 3397 hrs 50 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
