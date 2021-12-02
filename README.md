@@ -42,8 +42,8 @@ Other      🕓 13m   ▋░░░░░░░░░░░░░░░░░░�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
+🔫 Counter-Strike: Global Offensive 🕘 3408 hrs 32 mins
 🎮 Halo: The Master Chief Collection 🕘 26 hrs 35 mins
-🔫 Counter-Strike: Global Offensive 🕘 3407 hrs 29 mins
 🎮 VRChat                           🕘 49 hrs 30 mins
 🎮 Qubicle Voxel Editor             🕘 14 hrs 26 mins
 🎮 VRoid Studio                     🕘 123 hrs 6 mins
