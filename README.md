@@ -44,7 +44,7 @@ Markdown   🕓 4m    ▏░░░░░░░░░░░░░░░░░░�
 ```text
 🔫 Counter-Strike: Global Offensive 🕘 3415 hrs 24 mins
 🎮 Halo: The Master Chief Collection 🕘 26 hrs 35 mins
-🎮 VRChat                           🕘 52 hrs 21 mins
+🎮 VRChat                           🕘 53 hrs 21 mins
 🎮 Qubicle Voxel Editor             🕘 14 hrs 26 mins
 🎮 Gunfire Reborn                   🕘 111 hrs 34 mins
 ```
