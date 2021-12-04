@@ -43,9 +43,9 @@ TypeScript 🕓 28m   █▏░░░░░░░░░░░░░░░░░�
 🎮 Recently played Steam games
 ```text
 🔫 Counter-Strike: Global Offensive 🕘 3417 hrs 8 mins
-🎮 VRChat                           🕘 60 hrs 5 mins
+🎮 VRChat                           🕘 61 hrs 6 mins
 🎮 Halo: The Master Chief Collection 🕘 26 hrs 35 mins
-🎮 SteamVR                          🕘 788 hrs 27 mins
+🎮 SteamVR                          🕘 789 hrs 4 mins
 🎮 Qubicle Voxel Editor             🕘 14 hrs 26 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
