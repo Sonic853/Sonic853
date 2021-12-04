@@ -45,7 +45,7 @@ TypeScript 🕓 28m   █▏░░░░░░░░░░░░░░░░░�
 🔫 Counter-Strike: Global Offensive 🕘 3415 hrs 39 mins
 🎮 VRChat                           🕘 58 hrs 5 mins
 🎮 Halo: The Master Chief Collection 🕘 26 hrs 35 mins
-🎮 SteamVR                          🕘 785 hrs 2 mins
+🎮 SteamVR                          🕘 785 hrs 33 mins
 🎮 Qubicle Voxel Editor             🕘 14 hrs 26 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
