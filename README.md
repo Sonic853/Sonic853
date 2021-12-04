@@ -43,7 +43,7 @@ TypeScript 🕓 28m   █▏░░░░░░░░░░░░░░░░░�
 🎮 Recently played Steam games
 ```text
 🔫 Counter-Strike: Global Offensive 🕘 3415 hrs 24 mins
-🎮 VRChat                           🕘 56 hrs 22 mins
+🎮 VRChat                           🕘 58 hrs 5 mins
 🎮 Halo: The Master Chief Collection 🕘 26 hrs 35 mins
 🎮 Qubicle Voxel Editor             🕘 14 hrs 26 mins
 🎮 Gunfire Reborn                   🕘 111 hrs 34 mins
