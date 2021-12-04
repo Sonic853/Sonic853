@@ -46,7 +46,7 @@ TypeScript 🕓 28m   █▏░░░░░░░░░░░░░░░░░�
 🎮 VRChat                           🕘 58 hrs 5 mins
 🎮 Halo: The Master Chief Collection 🕘 26 hrs 35 mins
 🎮 Qubicle Voxel Editor             🕘 14 hrs 26 mins
-🎮 Gunfire Reborn                   🕘 111 hrs 34 mins
+🎮 SteamVR                          🕘 782 hrs 0 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
