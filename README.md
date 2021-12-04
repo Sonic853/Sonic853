@@ -42,7 +42,7 @@ TypeScript 🕓 28m   █▏░░░░░░░░░░░░░░░░░�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🔫 Counter-Strike: Global Offensive 🕘 3416 hrs 9 mins
+🔫 Counter-Strike: Global Offensive 🕘 3417 hrs 8 mins
 🎮 VRChat                           🕘 58 hrs 5 mins
 🎮 Halo: The Master Chief Collection 🕘 26 hrs 35 mins
 🎮 SteamVR                          🕘 787 hrs 34 mins
