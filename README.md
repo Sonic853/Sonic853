@@ -43,7 +43,7 @@ LESS                     🕓 1h12m █░░░░░░░░░░░░░  
 🎮 Recently played Steam games
 ```text
 🎮 VRChat                           🕘 61 hrs 59 mins
-🔫 Counter-Strike: Global Offensive 🕘 3417 hrs 8 mins
+🔫 Counter-Strike: Global Offensive 🕘 3417 hrs 11 mins
 🎮 SteamVR                          🕘 798 hrs 8 mins
 🎮 Halo: The Master Chief Collection 🕘 26 hrs 35 mins
 🎮 Qubicle Voxel Editor             🕘 14 hrs 26 mins
