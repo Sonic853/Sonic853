@@ -44,7 +44,7 @@ LESS                     🕓 1h12m █░░░░░░░░░░░░░  
 ```text
 🔫 Counter-Strike: Global Offensive 🕘 3417 hrs 8 mins
 🎮 VRChat                           🕘 61 hrs 59 mins
-🎮 SteamVR                          🕘 796 hrs 37 mins
+🎮 SteamVR                          🕘 797 hrs 38 mins
 🎮 Halo: The Master Chief Collection 🕘 26 hrs 35 mins
 🎮 Qubicle Voxel Editor             🕘 14 hrs 26 mins
 ```
