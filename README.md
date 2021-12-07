@@ -44,7 +44,7 @@ Git Config               🕓 51m   █░░░░░░░░░░░░░  
 ```text
 🎮 SteamVR                          🕘 821 hrs 20 mins
 🔫 Counter-Strike: Global Offensive 🕘 3417 hrs 11 mins
-🎮 VRChat                           🕘 66 hrs 59 mins
+🎮 VRChat                           🕘 67 hrs 18 mins
 🎮 Halo: The Master Chief Collection 🕘 26 hrs 35 mins
 🎮 OVR Toolkit                      🕘 186 hrs 16 mins
 ```
