@@ -42,11 +42,11 @@ Git Config               🕓 51m   ▉░░░░░░░░░░░░░  
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 SteamVR                          🕘 822 hrs 11 mins
+🎮 SteamVR                          🕘 822 hrs 42 mins
+🎮 VRChat                           🕘 68 hrs 49 mins
 🔫 Counter-Strike: Global Offensive 🕘 3419 hrs 38 mins
-🎮 VRChat                           🕘 67 hrs 18 mins
 🎮 Halo: The Master Chief Collection 🕘 26 hrs 35 mins
-🎮 OVR Toolkit                      🕘 187 hrs 16 mins
+🎮 OVR Toolkit                      🕘 188 hrs 47 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
