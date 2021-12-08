@@ -43,7 +43,7 @@ Git Config               🕓 51m   ▉░░░░░░░░░░░░░  
 🎮 Recently played Steam games
 ```text
 🎮 SteamVR                          🕘 821 hrs 20 mins
-🔫 Counter-Strike: Global Offensive 🕘 3417 hrs 11 mins
+🔫 Counter-Strike: Global Offensive 🕘 3417 hrs 41 mins
 🎮 VRChat                           🕘 67 hrs 18 mins
 🎮 Halo: The Master Chief Collection 🕘 26 hrs 35 mins
 🎮 OVR Toolkit                      🕘 186 hrs 16 mins
