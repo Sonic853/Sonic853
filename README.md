@@ -45,7 +45,7 @@ Git Config               🕓 51m   █▏░░░░░░░░░░░░  
 🎮 SteamVR                          🕘 832 hrs 17 mins
 🔫 Counter-Strike: Global Offensive 🕘 3423 hrs 12 mins
 🎮 VRChat                           🕘 69 hrs 29 mins
-🎮 Halo: The Master Chief Collection 🕘 28 hrs 13 mins
+🎮 Halo: The Master Chief Collection 🕘 29 hrs 14 mins
 🎮 OVR Toolkit                      🕘 189 hrs 24 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
