@@ -42,10 +42,10 @@ XML                      🕓 1h13m ▉░░░░░░░░░░░░░  
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 SteamVR                          🕘 869 hrs 56 mins
-🎮 VRChat                           🕘 85 hrs 35 mins
+🎮 SteamVR                          🕘 871 hrs 27 mins
+🎮 VRChat                           🕘 86 hrs 35 mins
+🎮 OVR Toolkit                      🕘 200 hrs 41 mins
 🔫 Counter-Strike: Global Offensive 🕘 3423 hrs 12 mins
-🎮 OVR Toolkit                      🕘 199 hrs 41 mins
 🎮 Halo: The Master Chief Collection 🕘 30 hrs 4 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
