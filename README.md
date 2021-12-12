@@ -42,9 +42,9 @@ HTML       🕓 58m   ██░░░░░░░░░░░░░░░░░�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 SteamVR                          🕘 881 hrs 23 mins
-🎮 VRChat                           🕘 97 hrs 41 mins
-🎮 OVR Toolkit                      🕘 211 hrs 45 mins
+🎮 SteamVR                          🕘 882 hrs 24 mins
+🎮 VRChat                           🕘 98 hrs 41 mins
+🎮 OVR Toolkit                      🕘 212 hrs 46 mins
 🔫 Counter-Strike: Global Offensive 🕘 3423 hrs 12 mins
 🎮 Halo: The Master Chief Collection 🕘 30 hrs 4 mins
 ```
