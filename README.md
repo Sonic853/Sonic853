@@ -42,11 +42,11 @@ HTML       🕓 58m   ██░░░░░░░░░░░░░░░░░�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 SteamVR                          🕘 912 hrs 11 mins
-🎮 VRChat                           🕘 105 hrs 23 mins
-🎮 OVR Toolkit                      🕘 219 hrs 7 mins
+🎮 SteamVR                          🕘 913 hrs 54 mins
+🎮 VRChat                           🕘 106 hrs 24 mins
+🎮 OVR Toolkit                      🕘 220 hrs 8 mins
 🔫 Counter-Strike: Global Offensive 🕘 3423 hrs 12 mins
-🎮 VRoid Studio                     🕘 142 hrs 6 mins
+🎮 VRoid Studio                     🕘 143 hrs 7 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
