@@ -42,9 +42,9 @@ HTML       🕓 1h    ██▏░░░░░░░░░░░░░░░░�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 SteamVR                          🕘 936 hrs 39 mins
-🎮 VRChat                           🕘 114 hrs 12 mins
-🎮 OVR Toolkit                      🕘 227 hrs 24 mins
+🎮 SteamVR                          🕘 937 hrs 9 mins
+🎮 VRChat                           🕘 114 hrs 42 mins
+🎮 OVR Toolkit                      🕘 228 hrs 24 mins
 🔫 Counter-Strike: Global Offensive 🕘 3423 hrs 12 mins
 🎮 VRoid Studio                     🕘 145 hrs 52 mins
 ```
