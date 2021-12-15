@@ -45,8 +45,8 @@ C#         🕓 1h13m ██▌░░░░░░░░░░░░░░░░�
 🎮 SteamVR                          🕘 940 hrs 41 mins
 🎮 VRChat                           🕘 117 hrs 37 mins
 🎮 OVR Toolkit                      🕘 231 hrs 19 mins
-🔫 Counter-Strike: Global Offensive 🕘 3423 hrs 12 mins
 🎮 VRoid Studio                     🕘 145 hrs 52 mins
+🔫 Counter-Strike: Global Offensive 🕘 3423 hrs 12 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
