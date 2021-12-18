@@ -46,7 +46,7 @@ LESS       🕓 1h33m  █▍░░░░░░░░░░░░░░░░░
 🎮 VRChat                           🕘 130 hrs 9 mins
 🎮 OVR Toolkit                      🕘 236 hrs 32 mins
 🎮 VRoid Studio                     🕘 145 hrs 52 mins
-🔫 Counter-Strike: Global Offensive 🕘 3423 hrs 49 mins
+🔫 Counter-Strike: Global Offensive 🕘 3424 hrs 57 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
