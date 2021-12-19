@@ -42,11 +42,11 @@ LESS       🕓 1h33m  █▌░░░░░░░░░░░░░░░░░
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 SteamVR                          🕘 962 hrs 47 mins
+🎮 SteamVR                          🕘 964 hrs 48 mins
 🎮 VRChat                           🕘 133 hrs 26 mins
 🎮 OVR Toolkit                      🕘 240 hrs 8 mins
 🎮 VRoid Studio                     🕘 157 hrs 3 mins
-🎮 Blender                          🕘 35 hrs 45 mins
+🎮 Blender                          🕘 37 hrs 46 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
