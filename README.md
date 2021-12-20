@@ -1,5 +1,7 @@
-<h3 align="center">👋 Hello! <span title="I'm not Sonic! I just love Sonic, you know?">I'm 853.</span></h3>
-<p align="center"><del>这个地球是一秒待不下去了</del>（误</p>
+<details>
+  <summary><h3 align="center">👋 Hello! I'm 853.</h3></summary>
+  <p align="center"><del>这个地球是一秒待不下去了</del>（误</p>
+</details>
 <p align="center">
   <a target="_blank" href="https://blog.853lab.com/"><img src="https://img.shields.io/badge/Blog-0073AA?logo=WordPress&style=flat-square" /></a> 
   <a target="_blank" href="https://space.bilibili.com/1968333/"><img src="https://img.shields.io/badge/dynamic/json?style=flat-square&logo=bilibili&label=Bilibili&query=data.follower&url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Frelation%2Fstat%3Fvmid%3D1968333%26jsonp%3Djsonp" /></a> 
@@ -53,12 +55,12 @@ LESS       🕓 1h33m  █▌░░░░░░░░░░░░░░░░░
 
 ### 操作环境
 [![](https://img.shields.io/badge/Windows-10-33AADD?style=flat-square&logo=windows&logoColor=6cf)](https://www.microsoft.com/windows/get-windows-10)
-[![](https://img.shields.io/badge/Windows-11-33AADD?style=flat-square&logo=windows&logoColor=6cf)](https://www.microsoft.com/windows/get-windows-11)
+[![](https://img.shields.io/badge/Windows-11-33AADD?style=flat-square&logo=microsoft&logoColor=6cf)](https://www.microsoft.com/windows/get-windows-11)
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-33AADD?style=flat-square&logo=visual-studio-code&logoColor=6cf)](https://code.visualstudio.com/)
 
 [![](https://img.shields.io/badge/MiMax-3-black?style=flat-square&logo=android&logoColor=golden)](https://www.mi.com/)
-[![](https://img.shields.io/badge/iPhone-SE-lightgrey?style=flat-square&logo=apple&logoColor=golden)](https://www.apple.com/)
 [![](https://img.shields.io/badge/LineageOS-18.1-167C80?style=flat-square&logo=lineageos&logoColor=white)](https://lineageos.org)
+[![](https://img.shields.io/badge/iPhone-SE-lightgrey?style=flat-square&logo=apple&logoColor=golden)](https://www.apple.com/)
 [![](https://img.shields.io/badge/iOS-15.2-000000?style=flat-square&logo=ios&logoColor=white)](https://www.apple.com/)
 
 ### Know a 🔨
