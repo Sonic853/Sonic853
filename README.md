@@ -44,9 +44,9 @@ C#         🕓 39m   █▏░░░░░░░░░░░░░░░░░�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 VRChat                           🕘 152 hrs 19 mins
-🎮 OVR Toolkit                      🕘 257 hrs 52 mins
-🎮 SteamVR                          🕘 1040 hrs 24 mins
+🎮 VRChat                           🕘 153 hrs 6 mins
+🎮 OVR Toolkit                      🕘 258 hrs 39 mins
+🎮 SteamVR                          🕘 1041 hrs 15 mins
 🎮 VRoid Studio                     🕘 157 hrs 3 mins
 🎮 Blender                          🕘 40 hrs 23 mins
 ```
