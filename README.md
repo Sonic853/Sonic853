@@ -46,7 +46,7 @@ C#         🕓 39m   █▏░░░░░░░░░░░░░░░░░�
 ```text
 🎮 VRChat                           🕘 153 hrs 6 mins
 🎮 OVR Toolkit                      🕘 258 hrs 39 mins
-🎮 SteamVR                          🕘 1042 hrs 18 mins
+🎮 SteamVR                          🕘 1042 hrs 48 mins
 🎮 VRoid Studio                     🕘 157 hrs 3 mins
 🎮 Blender                          🕘 40 hrs 23 mins
 ```
