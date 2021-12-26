@@ -44,9 +44,9 @@ HTML       🕓 1m    ▎░░░░░░░░░░░░░░░░░░�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 VRChat                           🕘 165 hrs 12 mins
-🎮 SteamVR                          🕘 1071 hrs 8 mins
-🎮 OVR Toolkit                      🕘 270 hrs 45 mins
+🎮 VRChat                           🕘 171 hrs 26 mins
+🎮 SteamVR                          🕘 1091 hrs 6 mins
+🎮 OVR Toolkit                      🕘 277 hrs 5 mins
 🎮 VRoid Studio                     🕘 157 hrs 3 mins
 🎮 Blender                          🕘 40 hrs 24 mins
 ```
