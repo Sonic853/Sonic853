@@ -40,8 +40,8 @@ JavaScript 🕓 4m ████████████████████�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 VRChat                           🕘 171 hrs 26 mins
-🎮 SteamVR                          🕘 1091 hrs 6 mins
+🎮 SteamVR                          🕘 1114 hrs 48 mins
+🎮 VRChat                           🕘 176 hrs 34 mins
 🎮 OVR Toolkit                      🕘 277 hrs 5 mins
 🎮 VRoid Studio                     🕘 157 hrs 3 mins
 🎮 Blender                          🕘 40 hrs 24 mins
