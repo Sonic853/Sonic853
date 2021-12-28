@@ -41,11 +41,11 @@ JavaScript 🕓 4m  ██░░░░░░░░░░░░░░░░░░
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 SteamVR                          🕘 1114 hrs 48 mins
-🎮 VRChat                           🕘 176 hrs 34 mins
-🎮 OVR Toolkit                      🕘 277 hrs 5 mins
-🎮 VRoid Studio                     🕘 157 hrs 3 mins
+🎮 SteamVR                          🕘 1131 hrs 44 mins
+🎮 VRChat                           🕘 191 hrs 4 mins
+🎮 OVR Toolkit                      🕘 288 hrs 30 mins
 🎮 Blender                          🕘 40 hrs 24 mins
+🎮 VRoid Studio                     🕘 158 hrs 12 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
