@@ -48,7 +48,7 @@ Git Config 🕓 21m   ▉░░░░░░░░░░░░░░░░░░�
 🎮 VRChat                           🕘 216 hrs 36 mins
 🎮 OVR Toolkit                      🕘 314 hrs 14 mins
 🎮 VRoid Studio                     🕘 169 hrs 35 mins
-🎮 Blender                          🕘 40 hrs 24 mins
+🎮 It Takes Two                     🕘 10 hrs 37 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
