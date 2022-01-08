@@ -48,7 +48,7 @@ Other      🕓 41m   █▎░░░░░░░░░░░░░░░░░�
 🎮 VRChat                           🕘 216 hrs 36 mins
 🎮 OVR Toolkit                      🕘 315 hrs 16 mins
 🎮 It Takes Two                     🕘 18 hrs 29 mins
-🎮 VRoid Studio                     🕘 170 hrs 10 mins
+🎮 UNREAL LIFE                      🕘 15 hrs 28 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
