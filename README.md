@@ -47,8 +47,8 @@ JSON       🕓 40m   █▉░░░░░░░░░░░░░░░░░�
 🎮 SteamVR                          🕘 1220 hrs 33 mins
 🎮 VRChat                           🕘 216 hrs 36 mins
 🎮 OVR Toolkit                      🕘 315 hrs 16 mins
+🎮 UNREAL LIFE                      🕘 21 hrs 11 mins
 🎮 It Takes Two                     🕘 18 hrs 29 mins
-🎮 UNREAL LIFE                      🕘 15 hrs 28 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
