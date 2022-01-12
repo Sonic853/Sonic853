@@ -44,11 +44,11 @@ JSON       🕓 40m   █▌░░░░░░░░░░░░░░░░░�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 SteamVR                          🕘 1245 hrs 42 mins
-🎮 OVR Toolkit                      🕘 329 hrs 14 mins
-🎮 VRChat                           🕘 230 hrs 28 mins
+🎮 SteamVR                          🕘 1257 hrs 44 mins
+🎮 OVR Toolkit                      🕘 341 hrs 20 mins
+🎮 VRChat                           🕘 241 hrs 58 mins
+🎮 OVR Advanced Settings            🕘 34 hrs 10 mins
 🎮 UNREAL LIFE                      🕘 21 hrs 11 mins
-🎮 OVR Advanced Settings            🕘 22 hrs 4 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
