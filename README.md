@@ -44,10 +44,10 @@ JavaScript 🕓 1m    ░░░░░░░░░░░░░░░░░░░�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 SteamVR                          🕘 1270 hrs 30 mins
-🎮 VRChat                           🕘 248 hrs 28 mins
-🎮 OVR Advanced Settings            🕘 40 hrs 47 mins
-🎮 OVR Toolkit                      🕘 341 hrs 41 mins
+🎮 SteamVR                          🕘 1289 hrs 51 mins
+🎮 OVR Advanced Settings            🕘 50 hrs 23 mins
+🎮 VRChat                           🕘 257 hrs 34 mins
+🎮 OVR Toolkit                      🕘 351 hrs 17 mins
 🎮 UNREAL LIFE                      🕘 21 hrs 11 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
