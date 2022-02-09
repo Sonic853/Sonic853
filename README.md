@@ -40,10 +40,10 @@ Other 🕓 1h24m █████████████████████
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 OVR Advanced Settings            🕘 378 hrs 3 mins
-🎮 OVR Toolkit                      🕘 678 hrs 38 mins
-🎮 VRChat                           🕘 543 hrs 39 mins
-🎮 SteamVR                          🕘 1753 hrs 26 mins
+🎮 SteamVR                          🕘 1766 hrs 25 mins
+🎮 OVR Advanced Settings            🕘 391 hrs 20 mins
+🎮 OVR Toolkit                      🕘 691 hrs 55 mins
+🎮 VRChat                           🕘 555 hrs 17 mins
 🎮 《文字遊戲》                     🕘 24 hrs 33 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
