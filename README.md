@@ -44,11 +44,11 @@ Other      🕓 2h1m  ██▋░░░░░░░░░░░░░░░░�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 OVR Toolkit                      🕘 873 hrs 5 mins
-🎮 OVR Advanced Settings            🕘 575 hrs 42 mins
-🎮 SteamVR                          🕘 2056 hrs 29 mins
-🎮 VRChat                           🕘 730 hrs 35 mins
-🔫 Counter-Strike: Global Offensive 🕘 3464 hrs 1 mins
+🎮 SteamVR                          🕘 2067 hrs 57 mins
+🎮 OVR Toolkit                      🕘 877 hrs 30 mins
+🎮 OVR Advanced Settings            🕘 580 hrs 6 mins
+🎮 VRChat                           🕘 738 hrs 30 mins
+🎮 Blender                          🕘 137 hrs 35 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
