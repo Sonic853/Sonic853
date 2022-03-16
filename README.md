@@ -44,10 +44,10 @@ TypeScript 🕓 1h1m  ██▌░░░░░░░░░░░░░░░░�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 OVR Toolkit                      🕘 943 hrs 59 mins
-🎮 OVR Advanced Settings            🕘 646 hrs 34 mins
-🎮 VRChat                           🕘 803 hrs 22 mins
-🎮 SteamVR                          🕘 2187 hrs 29 mins
+🎮 SteamVR                          🕘 2207 hrs 44 mins
+🎮 VRChat                           🕘 805 hrs 25 mins
+🎮 OVR Toolkit                      🕘 946 hrs 3 mins
+🎮 OVR Advanced Settings            🕘 648 hrs 38 mins
 🎮 Blender                          🕘 165 hrs 37 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
