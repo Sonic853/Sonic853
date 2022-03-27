@@ -44,11 +44,11 @@ HTML       🕓 1h9m   ▋░░░░░░░░░░░░░░░░░░
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 VRChat                           🕘 873 hrs 12 mins
-🎮 SteamVR                          🕘 2385 hrs 5 mins
-🎮 OVR Advanced Settings            🕘 702 hrs 26 mins
-🎮 OVR Toolkit                      🕘 998 hrs 7 mins
-🎮 VRoid Studio                     🕘 192 hrs 25 mins
+🎮 SteamVR                          🕘 2408 hrs 31 mins
+🎮 VRChat                           🕘 880 hrs 1 mins
+🎮 OVR Advanced Settings            🕘 705 hrs 47 mins
+🎮 OVR Toolkit                      🕘 1001 hrs 29 mins
+🎮 Team Fortress 2                  🕘 27 hrs 36 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
