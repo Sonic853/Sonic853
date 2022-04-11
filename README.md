@@ -44,10 +44,10 @@ Text       🕓 26m    ▏░░░░░░░░░░░░░░░░░░
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 SteamVR                          🕘 2608 hrs 44 mins
-🎮 VRChat                           🕘 979 hrs 55 mins
-🎮 OVR Toolkit                      🕘 1100 hrs 10 mins
-🎮 OVR Advanced Settings            🕘 803 hrs 50 mins
+🎮 VRChat                           🕘 994 hrs 39 mins
+🎮 OVR Toolkit                      🕘 1115 hrs 12 mins
+🎮 OVR Advanced Settings            🕘 818 hrs 51 mins
+🎮 SteamVR                          🕘 2626 hrs 42 mins
 🎮 Blender                          🕘 173 hrs 32 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
