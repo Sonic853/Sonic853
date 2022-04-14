@@ -27,6 +27,7 @@ A bad coder. And a bad life.
 <a href="https://github.com/Sonic853"><img src="https://github-readme-stats.vercel.app/api?username=Sonic853&show_icons=true&count_private=true&hide_title=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" style="width: 58%; max-width: 58%; min-width: 58%;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonic853&count_private=true&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" style="width: 40%; max-width: 40%; min-width: 40%;"></a>
 
 ### Code Time
+[![wakatime](https://wakatime.com/badge/user/b75bf452-dc00-47ad-aa2a-85f20b5453cd.svg)](https://wakatime.com/@Sonic853)
 <!-- waka-box start -->
 📊 Weekly development breakdown
 ```text
