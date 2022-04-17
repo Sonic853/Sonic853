@@ -45,11 +45,11 @@ Git Config 🕓 1h8m   ▋░░░░░░░░░░░░░░░░░░
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
+🎮 VRChat                           🕘 1043 hrs 26 mins
 🎮 OVR Toolkit                      🕘 1160 hrs 37 mins
 🎮 OVR Advanced Settings            🕘 864 hrs 15 mins
-🎮 VRChat                           🕘 1039 hrs 19 mins
 🎮 SteamVR                          🕘 2680 hrs 16 mins
-🔫 Counter-Strike: Global Offensive 🕘 3468 hrs 18 mins
+🎮 Garry's Mod                      🕘 106 hrs 9 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
