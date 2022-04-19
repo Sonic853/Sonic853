@@ -45,10 +45,10 @@ XML        🕓 58m    ▊░░░░░░░░░░░░░░░░░░
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 VRChat                           🕘 1048 hrs 52 mins
-🎮 OVR Toolkit                      🕘 1160 hrs 37 mins
+🎮 VRChat                           🕘 1049 hrs 57 mins
 🎮 OVR Advanced Settings            🕘 864 hrs 15 mins
-🎮 SteamVR                          🕘 2680 hrs 16 mins
+🎮 OVR Toolkit                      🕘 1160 hrs 37 mins
+🎮 SteamVR                          🕘 2680 hrs 22 mins
 🎮 Garry's Mod                      🕘 106 hrs 9 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
