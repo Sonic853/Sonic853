@@ -45,7 +45,7 @@ Git Config 🕓 1h18m █░░░░░░░░░░░░░░░░░░�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 VRChat                           🕘 1055 hrs 7 mins
+🎮 VRChat                           🕘 1057 hrs 42 mins
 🎮 OVR Advanced Settings            🕘 864 hrs 15 mins
 🎮 OVR Toolkit                      🕘 1160 hrs 37 mins
 🎮 SteamVR                          🕘 2680 hrs 22 mins
