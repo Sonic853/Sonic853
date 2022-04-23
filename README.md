@@ -45,10 +45,10 @@ JavaScript 🕓 2h2m   █▌░░░░░░░░░░░░░░░░░
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 VRChat                           🕘 1057 hrs 42 mins
-🎮 OVR Advanced Settings            🕘 864 hrs 15 mins
-🎮 OVR Toolkit                      🕘 1160 hrs 37 mins
-🎮 SteamVR                          🕘 2680 hrs 22 mins
+🎮 VRChat                           🕘 1063 hrs 27 mins
+🎮 OVR Advanced Settings            🕘 869 hrs 51 mins
+🎮 OVR Toolkit                      🕘 1166 hrs 13 mins
+🎮 SteamVR                          🕘 2685 hrs 59 mins
 🎮 Garry's Mod                      🕘 106 hrs 9 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
