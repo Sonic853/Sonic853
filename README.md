@@ -49,7 +49,7 @@ Text                     🕓 1h43m  ▋░░░░░░░░░░░░  5.
 🎮 SteamVR                          🕘 2732 hrs 4 mins
 🎮 OVR Toolkit                      🕘 1212 hrs 7 mins
 🎮 OVR Advanced Settings            🕘 915 hrs 44 mins
-🔫 Counter-Strike: Global Offensive 🕘 3473 hrs 6 mins
+🔫 Counter-Strike: Global Offensive 🕘 3474 hrs 21 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
