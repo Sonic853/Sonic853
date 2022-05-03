@@ -45,10 +45,10 @@ PHP                      🕓 1h30m  ▌░░░░░░░░░░░░  4.
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 VRChat                           🕘 1116 hrs 47 mins
-🎮 SteamVR                          🕘 2732 hrs 4 mins
-🎮 OVR Toolkit                      🕘 1212 hrs 7 mins
-🎮 OVR Advanced Settings            🕘 915 hrs 44 mins
+🎮 VRChat                           🕘 1120 hrs 0 mins
+🎮 SteamVR                          🕘 2737 hrs 10 mins
+🎮 OVR Toolkit                      🕘 1217 hrs 13 mins
+🎮 OVR Advanced Settings            🕘 920 hrs 50 mins
 🔫 Counter-Strike: Global Offensive 🕘 3474 hrs 21 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
