@@ -45,10 +45,10 @@ XML             🕓 27m    ▏░░░░░░░░░░░░░░░░�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 SteamVR                          🕘 2805 hrs 23 mins
-🎮 VRChat                           🕘 1187 hrs 27 mins
-🎮 OVR Advanced Settings            🕘 988 hrs 11 mins
-🎮 OVR Toolkit                      🕘 1284 hrs 4 mins
+🎮 SteamVR                          🕘 2808 hrs 3 mins
+🎮 VRChat                           🕘 1190 hrs 7 mins
+🎮 OVR Advanced Settings            🕘 990 hrs 52 mins
+🎮 OVR Toolkit                      🕘 1286 hrs 44 mins
 🔫 Counter-Strike: Global Offensive 🕘 3477 hrs 44 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
