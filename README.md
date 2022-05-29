@@ -45,10 +45,10 @@ CSS        🕓 40m   ▉░░░░░░░░░░░░░░░░░░�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 VRChat                           🕘 1232 hrs 1 mins
-🎮 SteamVR                          🕘 2845 hrs 50 mins
-🎮 OVR Toolkit                      🕘 1324 hrs 22 mins
-🎮 OVR Advanced Settings            🕘 1025 hrs 36 mins
+🎮 VRChat                           🕘 1232 hrs 53 mins
+🎮 SteamVR                          🕘 2846 hrs 39 mins
+🎮 OVR Toolkit                      🕘 1325 hrs 15 mins
+🎮 OVR Advanced Settings            🕘 1026 hrs 24 mins
 🎮 Qubicle Voxel Editor             🕘 27 hrs 5 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
