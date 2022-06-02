@@ -45,11 +45,11 @@ HTML       🕓 29m   █▍░░░░░░░░░░░░░░░░░�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 VRChat                           🕘 1232 hrs 53 mins
+🎮 VRChat                           🕘 1234 hrs 41 mins
 🎮 SteamVR                          🕘 2846 hrs 39 mins
 🎮 OVR Toolkit                      🕘 1325 hrs 15 mins
 🎮 OVR Advanced Settings            🕘 1026 hrs 24 mins
-🎮 Qubicle Voxel Editor             🕘 27 hrs 5 mins
+🎮 The Stanley Parable: Ultra Deluxe 🕘 6 hrs 17 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
