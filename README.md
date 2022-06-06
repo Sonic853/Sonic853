@@ -43,10 +43,10 @@ XML        🕓 0s    ░░░░░░░░░░░░░░░░░░░�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 VRChat                           🕘 1243 hrs 59 mins
-🎮 OVR Toolkit                      🕘 1334 hrs 41 mins
-🎮 SteamVR                          🕘 2856 hrs 6 mins
-🎮 OVR Advanced Settings            🕘 1035 hrs 49 mins
+🎮 VRChat                           🕘 1251 hrs 50 mins
+🎮 OVR Toolkit                      🕘 1343 hrs 5 mins
+🎮 SteamVR                          🕘 2864 hrs 30 mins
+🎮 OVR Advanced Settings            🕘 1044 hrs 14 mins
 🎮 The Stanley Parable: Ultra Deluxe 🕘 6 hrs 44 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
