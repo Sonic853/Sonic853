@@ -45,11 +45,11 @@ jsonc      🕓 17m    ▏░░░░░░░░░░░░░░░░░░
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 VRChat                           🕘 1316 hrs 35 mins
+🎮 VRChat                           🕘 1317 hrs 0 mins
 🎮 SteamVR                          🕘 2910 hrs 12 mins
 🎮 OVR Toolkit                      🕘 1388 hrs 26 mins
 🎮 OVR Advanced Settings            🕘 1089 hrs 19 mins
-🔫 Counter-Strike: Global Offensive 🕘 3480 hrs 44 mins
+🔫 Tom Clancy's Rainbow Six Siege   🕘 73 hrs 15 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
