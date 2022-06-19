@@ -45,10 +45,10 @@ Other    🕓 11m    ▏░░░░░░░░░░░░░░░░░░�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 VRChat                           🕘 1321 hrs 51 mins
-🎮 SteamVR                          🕘 2915 hrs 24 mins
-🎮 OVR Toolkit                      🕘 1393 hrs 2 mins
-🎮 OVR Advanced Settings            🕘 1093 hrs 54 mins
+🎮 VRChat                           🕘 1324 hrs 56 mins
+🎮 SteamVR                          🕘 2918 hrs 22 mins
+🎮 OVR Toolkit                      🕘 1396 hrs 0 mins
+🎮 OVR Advanced Settings            🕘 1096 hrs 52 mins
 🔫 Tom Clancy's Rainbow Six Siege   🕘 73 hrs 15 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
