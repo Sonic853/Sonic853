@@ -45,10 +45,10 @@ Other    🕓 11m    ▏░░░░░░░░░░░░░░░░░░�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 VRChat                           🕘 1326 hrs 22 mins
-🎮 SteamVR                          🕘 2919 hrs 56 mins
-🎮 OVR Toolkit                      🕘 1397 hrs 34 mins
-🎮 OVR Advanced Settings            🕘 1098 hrs 25 mins
+🎮 VRChat                           🕘 1327 hrs 36 mins
+🎮 SteamVR                          🕘 2921 hrs 12 mins
+🎮 OVR Toolkit                      🕘 1398 hrs 49 mins
+🎮 OVR Advanced Settings            🕘 1099 hrs 41 mins
 🎮 Stick Fight: The Game            🕘 2 hrs 35 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
