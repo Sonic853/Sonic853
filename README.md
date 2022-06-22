@@ -45,10 +45,10 @@ jsonc    🕓 17m    ▎░░░░░░░░░░░░░░░░░░�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 VRChat                           🕘 1327 hrs 36 mins
-🎮 SteamVR                          🕘 2921 hrs 12 mins
-🎮 OVR Toolkit                      🕘 1398 hrs 49 mins
-🎮 OVR Advanced Settings            🕘 1099 hrs 41 mins
+🎮 VRChat                           🕘 1329 hrs 16 mins
+🎮 SteamVR                          🕘 2923 hrs 52 mins
+🎮 OVR Toolkit                      🕘 1400 hrs 36 mins
+🎮 OVR Advanced Settings            🕘 1101 hrs 28 mins
 🎮 Stick Fight: The Game            🕘 2 hrs 35 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
