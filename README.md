@@ -45,11 +45,11 @@ CSV        🕓 52m    ▊░░░░░░░░░░░░░░░░░░
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
+🎮 SteamVR                          🕘 2932 hrs 14 mins
+🎮 OVR Toolkit                      🕘 1408 hrs 57 mins
+🎮 OVR Advanced Settings            🕘 1109 hrs 49 mins
 🎮 VRChat                           🕘 1329 hrs 16 mins
-🎮 SteamVR                          🕘 2923 hrs 52 mins
-🎮 OVR Toolkit                      🕘 1400 hrs 36 mins
-🎮 OVR Advanced Settings            🕘 1101 hrs 28 mins
-🎮 Stick Fight: The Game            🕘 2 hrs 35 mins
+🎮 Rabi-Ribi                        🕘 9 hrs 30 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
