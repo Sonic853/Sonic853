@@ -48,8 +48,8 @@ XML        🕓 18m    ▎░░░░░░░░░░░░░░░░░░
 🎮 SteamVR                          🕘 2942 hrs 27 mins
 🎮 OVR Toolkit                      🕘 1419 hrs 9 mins
 🎮 OVR Advanced Settings            🕘 1120 hrs 0 mins
-🎮 VRChat                           🕘 1339 hrs 18 mins
-🎮 Rabi-Ribi                        🕘 10 hrs 7 mins
+🎮 VRChat                           🕘 1339 hrs 25 mins
+🎮 The Stanley Parable: Ultra Deluxe 🕘 20 hrs 8 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
