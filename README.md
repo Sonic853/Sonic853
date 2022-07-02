@@ -49,7 +49,7 @@ LESS       🕓 44m    ▋░░░░░░░░░░░░░░░░░░
 🎮 OVR Toolkit                      🕘 1427 hrs 21 mins
 🎮 OVR Advanced Settings            🕘 1128 hrs 11 mins
 🎮 The Stanley Parable: Ultra Deluxe 🕘 34 hrs 32 mins
-🎮 VRChat                           🕘 1347 hrs 38 mins
+🎮 VRChat                           🕘 1348 hrs 0 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
