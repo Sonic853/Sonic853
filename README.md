@@ -45,11 +45,11 @@ LESS       🕓 44m    ▋░░░░░░░░░░░░░░░░░░
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 SteamVR                          🕘 2950 hrs 41 mins
-🎮 OVR Toolkit                      🕘 1427 hrs 21 mins
-🎮 OVR Advanced Settings            🕘 1128 hrs 11 mins
+🎮 SteamVR                          🕘 2959 hrs 36 mins
+🎮 OVR Toolkit                      🕘 1436 hrs 16 mins
+🎮 OVR Advanced Settings            🕘 1137 hrs 7 mins
+🎮 VRChat                           🕘 1356 hrs 42 mins
 🎮 The Stanley Parable: Ultra Deluxe 🕘 34 hrs 32 mins
-🎮 VRChat                           🕘 1348 hrs 0 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
