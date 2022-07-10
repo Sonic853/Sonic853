@@ -45,10 +45,10 @@ JSON       🕓 1h50m  █░░░░░░░░░░░░░░░░░░
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 VRChat                           🕘 1372 hrs 11 mins
-🎮 SteamVR                          🕘 2974 hrs 42 mins
-🎮 OVR Toolkit                      🕘 1451 hrs 21 mins
-🎮 OVR Advanced Settings            🕘 1152 hrs 11 mins
+🎮 VRChat                           🕘 1383 hrs 17 mins
+🎮 SteamVR                          🕘 2985 hrs 52 mins
+🎮 OVR Toolkit                      🕘 1462 hrs 31 mins
+🎮 OVR Advanced Settings            🕘 1163 hrs 20 mins
 🎮 The Stanley Parable: Ultra Deluxe 🕘 34 hrs 32 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
