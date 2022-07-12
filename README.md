@@ -45,10 +45,10 @@ TypeScript 🕓 49m    ▌░░░░░░░░░░░░░░░░░░
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 VRChat                           🕘 1383 hrs 43 mins
-🎮 SteamVR                          🕘 2986 hrs 38 mins
-🎮 OVR Toolkit                      🕘 1463 hrs 16 mins
-🎮 OVR Advanced Settings            🕘 1164 hrs 5 mins
+🎮 VRChat                           🕘 1385 hrs 29 mins
+🎮 SteamVR                          🕘 2988 hrs 30 mins
+🎮 OVR Toolkit                      🕘 1465 hrs 8 mins
+🎮 OVR Advanced Settings            🕘 1165 hrs 57 mins
 🎮 The Stanley Parable: Ultra Deluxe 🕘 34 hrs 32 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
