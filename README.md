@@ -49,7 +49,7 @@ Other      🕓 1h5m   ▊░░░░░░░░░░░░░░░░░░
 🎮 SteamVR                          🕘 2988 hrs 30 mins
 🎮 OVR Toolkit                      🕘 1465 hrs 8 mins
 🎮 OVR Advanced Settings            🕘 1165 hrs 57 mins
-🎮 The Stanley Parable Demo         🕘 1 hrs 50 mins
+🎮 崩壊3rd                          🕘 0 hrs 48 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
