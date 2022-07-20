@@ -45,10 +45,10 @@ C#         🕓 1h12m  ▉░░░░░░░░░░░░░░░░░░
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 VRChat                           🕘 1390 hrs 24 mins
-🎮 SteamVR                          🕘 2992 hrs 38 mins
-🎮 OVR Toolkit                      🕘 1469 hrs 16 mins
-🎮 OVR Advanced Settings            🕘 1170 hrs 5 mins
+🎮 SteamVR                          🕘 2994 hrs 22 mins
+🎮 OVR Advanced Settings            🕘 1171 hrs 48 mins
+🎮 VRChat                           🕘 1391 hrs 41 mins
+🎮 OVR Toolkit                      🕘 1470 hrs 13 mins
 🎮 Monument Valley                  🕘 3 hrs 5 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
