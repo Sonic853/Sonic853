@@ -45,10 +45,10 @@ Other      🕓 3h14m ██▉░░░░░░░░░░░░░░░░�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 VRChat                           🕘 1430 hrs 36 mins
-🎮 SteamVR                          🕘 3017 hrs 19 mins
-🎮 OVR Toolkit                      🕘 1492 hrs 57 mins
-🎮 OVR Advanced Settings            🕘 1193 hrs 38 mins
+🎮 VRChat                           🕘 1435 hrs 54 mins
+🎮 SteamVR                          🕘 3023 hrs 26 mins
+🎮 OVR Toolkit                      🕘 1499 hrs 2 mins
+🎮 OVR Advanced Settings            🕘 1199 hrs 44 mins
 🎮 Monument Valley                  🕘 3 hrs 5 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
