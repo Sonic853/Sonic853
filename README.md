@@ -45,7 +45,7 @@ Still Gathering Statistics...
 🎮 OVR Toolkit                      🕘 1556 hrs 34 mins
 🎮 OVR Advanced Settings            🕘 1257 hrs 14 mins
 🎮 VRChat                           🕘 1488 hrs 29 mins
-🔫 Counter-Strike: Global Offensive 🕘 3486 hrs 41 mins
+🎮 Monument Valley 2                🕘 2 hrs 0 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
