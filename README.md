@@ -41,10 +41,10 @@ Still Gathering Statistics...
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 SteamVR                          🕘 3091 hrs 1 mins
-🎮 OVR Toolkit                      🕘 1565 hrs 31 mins
-🎮 OVR Advanced Settings            🕘 1266 hrs 13 mins
-🎮 VRChat                           🕘 1496 hrs 42 mins
+🎮 SteamVR                          🕘 3094 hrs 17 mins
+🎮 OVR Toolkit                      🕘 1568 hrs 46 mins
+🎮 OVR Advanced Settings            🕘 1269 hrs 28 mins
+🎮 VRChat                           🕘 1500 hrs 24 mins
 🎮 Monument Valley 2                🕘 2 hrs 0 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
