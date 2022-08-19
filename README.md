@@ -45,10 +45,10 @@ JSON            🕓 1h19m 🌖🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 SteamVR                          🕘 3099 hrs 4 mins
-🎮 OVR Advanced Settings            🕘 1274 hrs 14 mins
-🎮 OVR Toolkit                      🕘 1573 hrs 33 mins
-🎮 VRChat                           🕘 1504 hrs 50 mins
+🎮 SteamVR                          🕘 3107 hrs 32 mins
+🎮 OVR Toolkit                      🕘 1582 hrs 1 mins
+🎮 OVR Advanced Settings            🕘 1282 hrs 42 mins
+🎮 VRChat                           🕘 1513 hrs 14 mins
 🎮 Monument Valley 2                🕘 2 hrs 0 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
