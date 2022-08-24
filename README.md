@@ -45,10 +45,10 @@ Other           🕓 27m    🌘🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 SteamVR                          🕘 3117 hrs 10 mins
-🎮 VRChat                           🕘 1522 hrs 15 mins
-🎮 OVR Toolkit                      🕘 1591 hrs 36 mins
-🎮 OVR Advanced Settings            🕘 1292 hrs 16 mins
+🎮 SteamVR                          🕘 3120 hrs 57 mins
+🎮 OVR Toolkit                      🕘 1592 hrs 35 mins
+🎮 OVR Advanced Settings            🕘 1293 hrs 15 mins
+🎮 VRChat                           🕘 1523 hrs 15 mins
 🔫 Counter-Strike: Global Offensive 🕘 3492 hrs 49 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
