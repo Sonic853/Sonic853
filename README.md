@@ -45,7 +45,7 @@ Other           🕓 1h8m   🌖🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 SteamVR                          🕘 3120 hrs 57 mins
+🎮 SteamVR                          🕘 3145 hrs 15 mins
 🎮 OVR Toolkit                      🕘 1592 hrs 35 mins
 🎮 OVR Advanced Settings            🕘 1293 hrs 15 mins
 🎮 VRChat                           🕘 1523 hrs 15 mins
