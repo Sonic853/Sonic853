@@ -49,7 +49,7 @@ Other      🕓 1h35m  🌕🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 🎮 OVR Advanced Settings            🕘 1295 hrs 58 mins
 🎮 OVR Toolkit                      🕘 1595 hrs 13 mins
 🎮 VRChat                           🕘 1525 hrs 52 mins
-🔫 Counter-Strike: Global Offensive 🕘 3492 hrs 49 mins
+λ² Half-Life 2                      🕘 15 hrs 46 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
