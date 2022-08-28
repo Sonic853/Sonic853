@@ -49,7 +49,7 @@ Batchfile  🕓 14m    🌚🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 🎮 OVR Advanced Settings            🕘 1295 hrs 58 mins
 🎮 OVR Toolkit                      🕘 1595 hrs 13 mins
 🎮 VRChat                           🕘 1525 hrs 52 mins
-λ² Half-Life 2                      🕘 15 hrs 46 mins
+λ² Half-Life 2                      🕘 34 hrs 30 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
