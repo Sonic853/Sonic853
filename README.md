@@ -61,8 +61,8 @@ LESS       🕓 9m    🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 
 [![](https://img.shields.io/badge/MiMax-3-black?style=flat-square&logo=android&logoColor=golden)](https://www.mi.com/)
 [![](https://img.shields.io/badge/LineageOS-18.1-167C80?style=flat-square&logo=lineageos&logoColor=white)](https://lineageos.org)
-[![](https://img.shields.io/badge/iPhone-SE-lightgrey?style=flat-square&logo=apple&logoColor=golden)](https://www.apple.com/)
-[![](https://img.shields.io/badge/iOS-15.6-000000?style=flat-square&logo=ios&logoColor=white)](https://www.apple.com/)
+[![](https://img.shields.io/badge/Lumia-950XL-33AADD?style=flat-square&logo=windows&logoColor=6cf)](https://www.microsoft.com/windows/get-windows-10)
+[![](https://img.shields.io/badge/Windows10-Mobile-33AADD?style=flat-square&logo=windows&logoColor=6cf)](https://www.microsoft.com/windows/get-windows-10)
 
 ### Know a 🔨
 [![Git](https://img.shields.io/badge/Git-444444?style=flat-square&logo=github&logoColor=white)](https://github.com/Sonic853/)
