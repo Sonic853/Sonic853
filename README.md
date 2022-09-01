@@ -46,10 +46,10 @@ LESS       🕓 10m    🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 🎮 Recently played Steam games
 ```text
 🎮 SteamVR                          🕘 3161 hrs 47 mins
+λ² Half-Life 2                      🕘 34 hrs 30 mins
 🎮 OVR Advanced Settings            🕘 1296 hrs 57 mins
 🎮 OVR Toolkit                      🕘 1596 hrs 13 mins
 🎮 VRChat                           🕘 1526 hrs 44 mins
-λ² Half-Life 2                      🕘 34 hrs 30 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
