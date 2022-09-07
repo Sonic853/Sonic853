@@ -45,11 +45,11 @@ JSON       🕓 1h2m   🌖🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 SteamVR                          🕘 3164 hrs 57 mins
+🎮 SteamVR                          🕘 3167 hrs 13 mins
 λ² Half-Life 2                      🕘 34 hrs 30 mins
 🎮 Half-Life 2: Episode Two         🕘 10 hrs 54 mins
-🎮 OVR Advanced Settings            🕘 1300 hrs 4 mins
-🎮 OVR Toolkit                      🕘 1599 hrs 11 mins
+🎮 OVR Advanced Settings            🕘 1302 hrs 20 mins
+🎮 OVR Toolkit                      🕘 1601 hrs 26 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
