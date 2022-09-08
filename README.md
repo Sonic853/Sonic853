@@ -45,8 +45,8 @@ JSON            🕓 1h4m   🌗🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 SteamVR                          🕘 3167 hrs 13 mins
 λ² Half-Life 2                      🕘 34 hrs 30 mins
+🎮 SteamVR                          🕘 3167 hrs 13 mins
 🎮 Half-Life 2: Episode Two         🕘 10 hrs 54 mins
 🎮 OVR Advanced Settings            🕘 1302 hrs 20 mins
 🎮 OVR Toolkit                      🕘 1601 hrs 26 mins
