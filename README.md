@@ -45,11 +45,11 @@ Other           🕓 53m    🌘🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-λ² Half-Life 2                      🕘 34 hrs 30 mins
 🎮 VRChat                           🕘 1537 hrs 16 mins
 🎮 Half-Life 2: Episode Two         🕘 10 hrs 54 mins
 🎮 SteamVR                          🕘 3170 hrs 37 mins
 🎮 OVR Advanced Settings            🕘 1305 hrs 43 mins
+🎮 OVR Toolkit                      🕘 1604 hrs 50 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
