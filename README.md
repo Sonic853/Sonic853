@@ -45,7 +45,7 @@ INI             🕓 19m    🌚🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 VRChat                           🕘 1543 hrs 33 mins
+🎮 VRChat                           🕘 1543 hrs 58 mins
 🎮 SteamVR                          🕘 3176 hrs 44 mins
 🎮 OVR Advanced Settings            🕘 1311 hrs 49 mins
 🎮 OVR Toolkit                      🕘 1610 hrs 56 mins
