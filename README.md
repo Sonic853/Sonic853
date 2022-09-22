@@ -45,11 +45,11 @@ PowerShell 🕓 4m     🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 VRChat                           🕘 1553 hrs 10 mins
-🎮 SteamVR                          🕘 3188 hrs 11 mins
-🎮 OVR Toolkit                      🕘 1622 hrs 15 mins
-🎮 OVR Advanced Settings            🕘 1323 hrs 8 mins
-🎮 Entropy : Zero                   🕘 11 hrs 22 mins
+🎮 VRChat                           🕘 1554 hrs 32 mins
+🎮 SteamVR                          🕘 3189 hrs 39 mins
+🎮 OVR Toolkit                      🕘 1623 hrs 44 mins
+🎮 OVR Advanced Settings            🕘 1324 hrs 36 mins
+🎮 BPM: BULLETS PER MINUTE          🕘 12 hrs 38 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
