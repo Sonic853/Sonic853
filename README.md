@@ -49,7 +49,7 @@ CSV        🕓 0s     🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 🎮 OVR Toolkit                      🕘 1624 hrs 35 mins
 🎮 OVR Advanced Settings            🕘 1325 hrs 27 mins
 🎮 VRChat                           🕘 1555 hrs 46 mins
-🎮 BPM: BULLETS PER MINUTE          🕘 16 hrs 35 mins
+🎮 BPM: BULLETS PER MINUTE          🕘 16 hrs 44 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
