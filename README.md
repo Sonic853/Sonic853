@@ -45,7 +45,7 @@ Text       🕓 0s    🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 BPM: BULLETS PER MINUTE          🕘 23 hrs 44 mins
+🎮 BPM: BULLETS PER MINUTE          🕘 28 hrs 58 mins
 🎮 VRChat                           🕘 1561 hrs 45 mins
 🎮 SteamVR                          🕘 3194 hrs 32 mins
 🎮 OVR Toolkit                      🕘 1628 hrs 1 mins
