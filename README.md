@@ -45,10 +45,10 @@ Markdown   🕓 41m    🌕🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 SteamVR                          🕘 3214 hrs 59 mins
-🎮 VRChat                           🕘 1579 hrs 42 mins
-🎮 OVR Toolkit                      🕘 1644 hrs 35 mins
-🎮 OVR Advanced Settings            🕘 1345 hrs 25 mins
+🎮 SteamVR                          🕘 3216 hrs 48 mins
+🎮 VRChat                           🕘 1581 hrs 13 mins
+🎮 OVR Toolkit                      🕘 1646 hrs 21 mins
+🎮 OVR Advanced Settings            🕘 1347 hrs 11 mins
 🔫 Counter-Strike: Global Offensive 🕘 3501 hrs 1 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
