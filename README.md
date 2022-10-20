@@ -45,10 +45,10 @@ C#         🕓 9m     🌘🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 SteamVR                          🕘 3218 hrs 20 mins
-🎮 VRChat                           🕘 1582 hrs 43 mins
-🎮 OVR Toolkit                      🕘 1647 hrs 54 mins
-🎮 OVR Advanced Settings            🕘 1348 hrs 43 mins
+🎮 SteamVR                          🕘 3220 hrs 23 mins
+🎮 VRChat                           🕘 1584 hrs 25 mins
+🎮 OVR Toolkit                      🕘 1649 hrs 55 mins
+🎮 OVR Advanced Settings            🕘 1350 hrs 45 mins
 🔫 Counter-Strike: Global Offensive 🕘 3501 hrs 1 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
