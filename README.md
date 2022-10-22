@@ -49,7 +49,7 @@ Markdown   🕓 27m    🌖🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 🎮 SteamVR                          🕘 3220 hrs 23 mins
 🎮 OVR Toolkit                      🕘 1649 hrs 55 mins
 🎮 OVR Advanced Settings            🕘 1350 hrs 45 mins
-🔫 Counter-Strike: Global Offensive 🕘 3501 hrs 1 mins
+🎮 Aperture Desk Job                🕘 1 hrs 23 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
