@@ -49,7 +49,7 @@ HTML       🕓 28m    🌖🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 🎮 SteamVR                          🕘 3220 hrs 23 mins
 🎮 OVR Toolkit                      🕘 1649 hrs 55 mins
 🎮 OVR Advanced Settings            🕘 1350 hrs 45 mins
-🎮 Aperture Desk Job                🕘 1 hrs 23 mins
+🎮 Tower of Fantasy                 🕘 2 hrs 5 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
