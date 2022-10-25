@@ -45,10 +45,10 @@ LESS       🕓 38m   🌝🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 VRChat                           🕘 1587 hrs 33 mins
-🎮 SteamVR                          🕘 3223 hrs 44 mins
-🎮 OVR Toolkit                      🕘 1653 hrs 17 mins
-🎮 OVR Advanced Settings            🕘 1354 hrs 6 mins
+🎮 VRChat                           🕘 1591 hrs 5 mins
+🎮 SteamVR                          🕘 3227 hrs 22 mins
+🎮 OVR Toolkit                      🕘 1656 hrs 53 mins
+🎮 OVR Advanced Settings            🕘 1357 hrs 43 mins
 🎮 Tower of Fantasy                 🕘 2 hrs 5 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
