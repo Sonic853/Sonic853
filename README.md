@@ -45,11 +45,11 @@ HTML       🕓 42m   🌝🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 SteamVR                          🕘 3230 hrs 59 mins
-🎮 OVR Toolkit                      🕘 1660 hrs 30 mins
-🎮 OVR Advanced Settings            🕘 1361 hrs 20 mins
-🎮 VRChat                           🕘 1593 hrs 25 mins
-🎮 Blender                          🕘 185 hrs 31 mins
+🎮 SteamVR                          🕘 3231 hrs 45 mins
+🎮 OVR Toolkit                      🕘 1661 hrs 15 mins
+🎮 OVR Advanced Settings            🕘 1362 hrs 5 mins
+🎮 VRChat                           🕘 1594 hrs 3 mins
+🎮 Blender                          🕘 192 hrs 59 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
