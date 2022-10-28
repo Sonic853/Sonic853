@@ -31,11 +31,11 @@ A bad coder. And a bad life.
 <!-- waka-box start -->
 📊 Weekly development breakdown
 ```text
-C#         🕓 6h15m 🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌘🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑 37.3%
-TypeScript 🕓 3h31m 🌕🌕🌕🌕🌕🌝🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑 21.1%
-PHP        🕓 1h58m 🌕🌕🌕🌘🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑 11.7%
-JavaScript 🕓 1h56m 🌕🌕🌕🌚🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑 11.6%
-Other      🕓 1h36m 🌕🌕🌖🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑  9.6%
+C#         🕓 4h58m 🌕🌕🌕🌕🌕🌕🌕🌘🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑 26.8%
+TypeScript 🕓 4h40m 🌕🌕🌕🌕🌕🌕🌕🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑 25.1%
+PHP        🕓 1h58m 🌕🌕🌝🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑 10.6%
+JSON       🕓 1h51m 🌕🌕🌖🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑 10.0%
+JavaScript 🕓 1h50m 🌕🌕🌖🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑  9.9%
 ```
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
