@@ -48,7 +48,7 @@ JavaScript 🕓 1h50m 🌕🌕🌖🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 🎮 SteamVR                          🕘 3241 hrs 4 mins
 🎮 OVR Toolkit                      🕘 1670 hrs 37 mins
 🎮 OVR Advanced Settings            🕘 1371 hrs 24 mins
-🎮 VRChat                           🕘 1594 hrs 52 mins
+🎮 VRChat                           🕘 1598 hrs 0 mins
 🎮 Blender                          🕘 192 hrs 59 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
