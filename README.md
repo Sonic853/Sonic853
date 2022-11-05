@@ -45,10 +45,10 @@ SCSS       🕓 38m    🌗🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 SteamVR                          🕘 3272 hrs 12 mins
-🎮 OVR Toolkit                      🕘 1683 hrs 39 mins
-🎮 OVR Advanced Settings            🕘 1384 hrs 25 mins
-🎮 VRChat                           🕘 1607 hrs 11 mins
+🎮 SteamVR                          🕘 3275 hrs 0 mins
+🎮 OVR Toolkit                      🕘 1686 hrs 26 mins
+🎮 OVR Advanced Settings            🕘 1387 hrs 12 mins
+🎮 VRChat                           🕘 1609 hrs 43 mins
 🎮 Blender                          🕘 192 hrs 59 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
