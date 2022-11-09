@@ -49,7 +49,7 @@ JSON       🕓 2h36m 🌕🌕🌚🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 🎮 OVR Toolkit                      🕘 1688 hrs 38 mins
 🎮 OVR Advanced Settings            🕘 1389 hrs 24 mins
 🎮 VRChat                           🕘 1611 hrs 55 mins
-🎮 Blender                          🕘 192 hrs 59 mins
+🎮 The Great Ace Attorney Chronicles 🕘 7 hrs 19 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
