@@ -45,10 +45,10 @@ JSON       🕓 2h47m  🌕🌕🌘🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 SteamVR                          🕘 3277 hrs 12 mins
-🎮 OVR Toolkit                      🕘 1688 hrs 38 mins
-🎮 OVR Advanced Settings            🕘 1389 hrs 24 mins
-🎮 VRChat                           🕘 1611 hrs 55 mins
+🎮 SteamVR                          🕘 3280 hrs 32 mins
+🎮 OVR Toolkit                      🕘 1691 hrs 57 mins
+🎮 OVR Advanced Settings            🕘 1392 hrs 43 mins
+🎮 VRChat                           🕘 1615 hrs 13 mins
 🎮 The Great Ace Attorney Chronicles 🕘 7 hrs 19 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
