@@ -79,7 +79,7 @@ JavaScript 🕓 2h4m   🌕🌘🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 [![AntDesign](https://img.shields.io/badge/AntDesign-0170FE?style=flat-square&logo=antdesign&logoColor=white)](https://ant.design/)
 [![Node](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=ffffff)](https://nodejs.org/)
 [![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/~sonic853)
-[![PHP](https://img.shields.io/badge/PHP7.4-8892BF?style=flat-square&logo=php&logoColor=white)](https://www.php.net/)
+[![PHP](https://img.shields.io/badge/PHP8-8892BF?style=flat-square&logo=php&logoColor=white)](https://www.php.net/)
 [![MySQL](https://img.shields.io/badge/MySQL8.0-003545?style=flat-square&logo=mysql&logoColor=white)](https://mariadb.com/)
 [![Python](https://img.shields.io/badge/Python3.9-33AADD?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![Unity](https://img.shields.io/badge/Unity-2021-000000?style=flat-square&logo=unity&logoColor=white)](https://unity.com/)
