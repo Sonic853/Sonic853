@@ -84,6 +84,7 @@ JavaScript 🕓 2h4m   🌕🌘🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 [![Python](https://img.shields.io/badge/Python3.9-33AADD?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![Unity](https://img.shields.io/badge/Unity-2021-000000?style=flat-square&logo=unity&logoColor=white)](https://unity.com/)
 [![CSharp](https://img.shields.io/badge/CSharp-1572B6?style=flat-square&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/zh-cn/dotnet/csharp/)
+[![.NET Core Web API](https://img.shields.io/badge/Core%20Web%20API-512BD4?style=flat-square&logo=.NET&logoColor=white)](https://learn.microsoft.com/en-us/aspnet/core/tutorials/first-web-api)
 [![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=Blender&logoColor=white)](https://www.blender.org/)
 [![Hammer](https://img.shields.io/badge/Hammer-0000FF?style=flat-square&logo=valve&logoColor=white)](https://developer.valvesoftware.com/wiki/Valve_Hammer_Editor)
 [![Sai2](https://img.shields.io/badge/Sai2-B0D68F?style=flat-square&logo=krita&logoColor=white)](http://www.systemax.jp/en/sai/devdept.html)
