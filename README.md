@@ -45,11 +45,11 @@ JSON       🕓 16m    🌚🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 SteamVR                          🕘 3309 hrs 42 mins
-🎮 OVR Toolkit                      🕘 1721 hrs 6 mins
-🎮 OVR Advanced Settings            🕘 1420 hrs 31 mins
-🎮 VRChat                           🕘 1637 hrs 13 mins
-🎮 Candleman: The Complete Journey  🕘 0 hrs 33 mins
+🎮 SteamVR                          🕘 3312 hrs 43 mins
+🎮 OVR Toolkit                      🕘 1724 hrs 6 mins
+🎮 OVR Advanced Settings            🕘 1423 hrs 32 mins
+🎮 VRChat                           🕘 1640 hrs 10 mins
+🎮 Garry's Mod                      🕘 111 hrs 55 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
