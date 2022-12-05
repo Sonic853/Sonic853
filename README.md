@@ -45,10 +45,10 @@ Vue.js     🕓 1h23m  🌖🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 SteamVR                          🕘 3363 hrs 57 mins
-🎮 VRChat                           🕘 1675 hrs 41 mins
-🎮 OVR Toolkit                      🕘 1754 hrs 29 mins
-🎮 OVR Advanced Settings            🕘 1453 hrs 52 mins
+🎮 SteamVR                          🕘 3367 hrs 50 mins
+🎮 VRChat                           🕘 1678 hrs 46 mins
+🎮 OVR Toolkit                      🕘 1758 hrs 20 mins
+🎮 OVR Advanced Settings            🕘 1457 hrs 44 mins
 🎮 Freedom Planet 2                 🕘 12 hrs 32 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
