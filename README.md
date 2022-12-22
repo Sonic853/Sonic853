@@ -45,10 +45,10 @@ JSON       🕓 14m    🌚🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 SteamVR                          🕘 3421 hrs 19 mins
-🎮 OVR Toolkit                      🕘 1811 hrs 44 mins
-🎮 OVR Advanced Settings            🕘 1511 hrs 6 mins
-🎮 VRChat                           🕘 1729 hrs 53 mins
+🎮 SteamVR                          🕘 3423 hrs 11 mins
+🎮 OVR Toolkit                      🕘 1813 hrs 36 mins
+🎮 OVR Advanced Settings            🕘 1512 hrs 58 mins
+🎮 VRChat                           🕘 1731 hrs 42 mins
 🎮 Call of Duty®: Modern Warfare® II | Warzone™ 2.0 🕘 6 hrs 21 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
