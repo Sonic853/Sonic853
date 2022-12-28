@@ -45,11 +45,11 @@ HTML       🕓 39m    🌗🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 SteamVR                          🕘 3432 hrs 52 mins
-🎮 OVR Toolkit                      🕘 1823 hrs 16 mins
-🎮 OVR Advanced Settings            🕘 1522 hrs 37 mins
-🎮 VRChat                           🕘 1740 hrs 47 mins
-🎮 Call of Duty®: Modern Warfare® II | Warzone™ 2.0 🕘 6 hrs 21 mins
+🎮 SteamVR                          🕘 3436 hrs 40 mins
+🎮 OVR Toolkit                      🕘 1827 hrs 4 mins
+🎮 OVR Advanced Settings            🕘 1526 hrs 25 mins
+🎮 VRChat                           🕘 1743 hrs 47 mins
+🎮 After The Fall                   🕘 2 hrs 41 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
