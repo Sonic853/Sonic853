@@ -45,10 +45,10 @@ lrc        🕓 15m    🌚🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 SteamVR                          🕘 3447 hrs 48 mins
-🎮 OVR Toolkit                      🕘 1838 hrs 9 mins
-🎮 OVR Advanced Settings            🕘 1537 hrs 30 mins
-🎮 VRChat                           🕘 1754 hrs 14 mins
+🎮 SteamVR                          🕘 3449 hrs 52 mins
+🎮 OVR Toolkit                      🕘 1840 hrs 13 mins
+🎮 OVR Advanced Settings            🕘 1539 hrs 33 mins
+🎮 VRChat                           🕘 1756 hrs 1 mins
 🎮 After The Fall                   🕘 2 hrs 41 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
