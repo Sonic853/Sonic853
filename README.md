@@ -45,9 +45,9 @@ lrc        🕓 15m    🌚🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 SteamVR                          🕘 3453 hrs 20 mins
-🎮 OVR Toolkit                      🕘 1843 hrs 40 mins
-🎮 OVR Advanced Settings            🕘 1543 hrs 0 mins
+🎮 SteamVR                          🕘 3456 hrs 50 mins
+🎮 OVR Toolkit                      🕘 1847 hrs 10 mins
+🎮 OVR Advanced Settings            🕘 1546 hrs 30 mins
 🎮 VRChat                           🕘 1758 hrs 13 mins
 🎮 Freedom Planet 2                 🕘 15 hrs 23 mins
 ```
