@@ -48,8 +48,8 @@ Python     🕓 1h6m   🌖🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 🎮 SteamVR                          🕘 3462 hrs 7 mins
 🎮 OVR Toolkit                      🕘 1852 hrs 27 mins
 🎮 OVR Advanced Settings            🕘 1551 hrs 46 mins
-🎮 VRChat                           🕘 1763 hrs 41 mins
 🎮 Papers, Please                   🕘 22 hrs 12 mins
+🎮 VRChat                           🕘 1763 hrs 41 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
