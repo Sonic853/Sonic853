@@ -45,11 +45,11 @@ HTML       🕓 34m   🌘🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 SteamVR                          🕘 3481 hrs 19 mins
-🎮 Papers, Please                   🕘 23 hrs 15 mins
-🎮 VRChat                           🕘 1778 hrs 42 mins
-🎮 OVR Toolkit                      🕘 1867 hrs 25 mins
-🎮 OVR Advanced Settings            🕘 1566 hrs 40 mins
+🎮 SteamVR                          🕘 3482 hrs 38 mins
+🎮 OVR Toolkit                      🕘 1868 hrs 43 mins
+🎮 OVR Advanced Settings            🕘 1567 hrs 58 mins
+🎮 VRChat                           🕘 1779 hrs 45 mins
+🎮 Half-Life: Alyx                  🕘 67 hrs 40 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
