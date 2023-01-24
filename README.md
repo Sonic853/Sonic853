@@ -46,10 +46,10 @@ Other      🕓 21m    🌘🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 🎮 Recently played Steam games
 ```text
 🎮 SteamVR                          🕘 3482 hrs 38 mins
+🎮 Half-Life: Alyx                  🕘 67 hrs 52 mins
+🎮 VRChat                           🕘 1779 hrs 56 mins
 🎮 OVR Toolkit                      🕘 1868 hrs 43 mins
 🎮 OVR Advanced Settings            🕘 1567 hrs 58 mins
-🎮 VRChat                           🕘 1779 hrs 45 mins
-🎮 Half-Life: Alyx                  🕘 67 hrs 40 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
