@@ -46,9 +46,9 @@ Git Config 🕓 3m    🌘🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 🎮 Recently played Steam games
 ```text
 🎮 SteamVR                          🕘 3487 hrs 23 mins
+🎮 Half-Life: Alyx                  🕘 68 hrs 14 mins
 🎮 OVR Toolkit                      🕘 1873 hrs 28 mins
 🎮 OVR Advanced Settings            🕘 1572 hrs 42 mins
-🎮 Half-Life: Alyx                  🕘 68 hrs 14 mins
 🎮 VRChat                           🕘 1784 hrs 25 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
