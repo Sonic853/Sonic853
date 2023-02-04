@@ -45,11 +45,11 @@ Blazor     🕓 9m    🌘🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-❓ Unknown Game                     🕘 36 hrs 18 mins
+❓ Unknown Game                     🕘 44 hrs 29 mins
 🎮 SteamVR                          🕘 3506 hrs 43 mins
 🎮 OVR Toolkit                      🕘 1892 hrs 26 mins
 🎮 OVR Advanced Settings            🕘 1591 hrs 40 mins
-🎮 VRChat                           🕘 1801 hrs 55 mins
+🎮 VRChat                           🕘 1802 hrs 9 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
