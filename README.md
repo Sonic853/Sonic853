@@ -49,7 +49,7 @@ LESS       🕓 1h9m   🌕🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 🎮 SteamVR                          🕘 3515 hrs 37 mins
 🎮 OVR Toolkit                      🕘 1901 hrs 10 mins
 🎮 OVR Advanced Settings            🕘 1600 hrs 25 mins
-🎮 VRChat                           🕘 1809 hrs 54 mins
+🎮 VRChat                           🕘 1809 hrs 56 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
