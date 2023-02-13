@@ -45,11 +45,11 @@ LESS       🕓 1h9m   🌕🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-❓ Unknown Game                     🕘 59 hrs 26 mins
-🎮 SteamVR                          🕘 3515 hrs 37 mins
-🎮 OVR Toolkit                      🕘 1901 hrs 10 mins
-🎮 OVR Advanced Settings            🕘 1600 hrs 25 mins
-🎮 VRChat                           🕘 1809 hrs 56 mins
+❓ Unknown Game                     🕘 60 hrs 5 mins
+🎮 SteamVR                          🕘 3517 hrs 0 mins
+🎮 OVR Toolkit                      🕘 1902 hrs 33 mins
+🎮 OVR Advanced Settings            🕘 1601 hrs 47 mins
+🎮 VRChat                           🕘 1811 hrs 16 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
