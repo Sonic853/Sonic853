@@ -45,11 +45,11 @@ csharp     🕓 42m    🌖🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-❓ Unknown Game                     🕘 70 hrs 45 mins
-🎮 SteamVR                          🕘 3528 hrs 28 mins
-🎮 OVR Toolkit                      🕘 1914 hrs 0 mins
-🎮 OVR Advanced Settings            🕘 1613 hrs 14 mins
-🎮 VRChat                           🕘 1821 hrs 30 mins
+❓ Unknown Game                     🕘 73 hrs 45 mins
+🎮 SteamVR                          🕘 3531 hrs 15 mins
+🎮 OVR Toolkit                      🕘 1916 hrs 47 mins
+🎮 OVR Advanced Settings            🕘 1616 hrs 1 mins
+🎮 VRChat                           🕘 1824 hrs 9 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
