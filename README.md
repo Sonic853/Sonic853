@@ -51,7 +51,7 @@ Markdown   🕓 21m    🌘🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 🎮 OVR Toolkit                      🕘 1974 hrs 27 mins
 🎮 OVR Advanced Settings            🕘 1673 hrs 39 mins
 🎮 VRChat                           🕘 1881 hrs 48 mins
-❓ Unknown Game                     🕘 137 hrs 34 mins
+❓ Unknown Game                     🕘 138 hrs 37 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
