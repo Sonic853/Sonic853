@@ -1,5 +1,5 @@
 <details>
-  <summary><h3 align="center">👋 Hello! I'm 853.</h3></summary>
+  <summary align="center"><h3 align="center">👋 Hello! I'm 853.</h3></summary>
   <p align="center"><del>这个地球是一秒待不下去了</del>（误</p>
 </details>
 <p align="center">
