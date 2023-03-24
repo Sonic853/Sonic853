@@ -51,7 +51,7 @@ HTML       🕓 1m     🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 🎮 SteamVR                          🕘 3592 hrs 49 mins
 🎮 OVR Toolkit                      🕘 1977 hrs 42 mins
 🎮 OVR Advanced Settings            🕘 1676 hrs 53 mins
-❓ Unknown Game                     🕘 138 hrs 37 mins
+❓ Unknown Game                     🕘 143 hrs 31 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
