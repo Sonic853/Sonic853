@@ -51,7 +51,7 @@ Vue.js     🕓 3h5m  🌕🌕🌕🌘🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 🎮 VRChat                           🕘 1934 hrs 35 mins
 🎮 OVR Advanced Settings            🕘 1711 hrs 18 mins
 🎮 OVR Toolkit                      🕘 2011 hrs 55 mins
-🎮 Blender                          🕘 224 hrs 45 mins
+🎮 Blender                          🕘 226 hrs 51 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
