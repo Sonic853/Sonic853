@@ -47,10 +47,10 @@ JavaScript 🕓 1h9m   🌘🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 VRChat                           🕘 1952 hrs 9 mins
-🎮 SteamVR                          🕘 3651 hrs 44 mins
-🎮 OVR Advanced Settings            🕘 1718 hrs 23 mins
-🎮 OVR Toolkit                      🕘 2019 hrs 0 mins
+🎮 VRChat                           🕘 1953 hrs 4 mins
+🎮 SteamVR                          🕘 3651 hrs 57 mins
+🎮 OVR Toolkit                      🕘 2019 hrs 12 mins
+🎮 OVR Advanced Settings            🕘 1718 hrs 35 mins
 🎮 Blender                          🕘 226 hrs 51 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
