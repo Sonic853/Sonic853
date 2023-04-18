@@ -47,11 +47,11 @@ Other      🕓 1h18m 🌝🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 VRChat                           🕘 1956 hrs 51 mins
+🎮 VRChat                           🕘 1962 hrs 58 mins
 🎮 Blender                          🕘 226 hrs 51 mins
-🎮 SteamVR                          🕘 3656 hrs 3 mins
-🎮 OVR Toolkit                      🕘 2023 hrs 18 mins
-🎮 OVR Advanced Settings            🕘 1722 hrs 40 mins
+🎮 SteamVR                          🕘 3659 hrs 31 mins
+🎮 OVR Toolkit                      🕘 2026 hrs 45 mins
+🎮 OVR Advanced Settings            🕘 1726 hrs 8 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
