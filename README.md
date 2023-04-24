@@ -47,11 +47,11 @@ Markdown   🕓 2h15m  🌕🌘🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 VRChat                           🕘 1966 hrs 27 mins
+🎮 VRChat                           🕘 1970 hrs 27 mins
 ❓ Unknown Game                     🕘 167 hrs 48 mins
-🎮 SteamVR                          🕘 3664 hrs 40 mins
-🎮 OVR Toolkit                      🕘 2031 hrs 52 mins
-🎮 OVR Advanced Settings            🕘 1731 hrs 15 mins
+🎮 SteamVR                          🕘 3668 hrs 48 mins
+🎮 OVR Toolkit                      🕘 2035 hrs 59 mins
+🎮 OVR Advanced Settings            🕘 1735 hrs 22 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
