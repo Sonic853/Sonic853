@@ -47,8 +47,8 @@ Markdown   🕓 2h15m  🌕🌘🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 VRChat                           🕘 1970 hrs 27 mins
 ❓ Unknown Game                     🕘 167 hrs 48 mins
+🎮 VRChat                           🕘 1970 hrs 27 mins
 🎮 SteamVR                          🕘 3668 hrs 48 mins
 🎮 OVR Toolkit                      🕘 2035 hrs 59 mins
 🎮 OVR Advanced Settings            🕘 1735 hrs 22 mins
