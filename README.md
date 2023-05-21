@@ -50,7 +50,7 @@ Other      🕓 2h36m  🌕🌘🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 🎮 SteamVR                          🕘 3731 hrs 24 mins
 🎮 OVR Advanced Settings            🕘 1779 hrs 50 mins
 🎮 OVR Toolkit                      🕘 2080 hrs 26 mins
-🎮 VRChat                           🕘 2018 hrs 17 mins
+🎮 VRChat                           🕘 2020 hrs 38 mins
 ❓ Unknown Game                     🕘 196 hrs 9 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
