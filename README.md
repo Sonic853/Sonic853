@@ -50,7 +50,7 @@ Text       🕓 35m    🌘🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 🎮 SteamVR                          🕘 3762 hrs 46 mins
 🎮 OVR Advanced Settings            🕘 1791 hrs 54 mins
 🎮 OVR Toolkit                      🕘 2092 hrs 31 mins
-🎮 VRChat                           🕘 2030 hrs 33 mins
+🎮 VRChat                           🕘 2031 hrs 3 mins
 🎮 Euro Truck Simulator 2           🕘 60 hrs 31 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
