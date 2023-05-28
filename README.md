@@ -51,7 +51,7 @@ Text       🕓 35m    🌘🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 🎮 OVR Advanced Settings            🕘 1791 hrs 54 mins
 🎮 OVR Toolkit                      🕘 2092 hrs 31 mins
 🎮 VRChat                           🕘 2031 hrs 3 mins
-🎮 Euro Truck Simulator 2           🕘 60 hrs 31 mins
+🎮 HITMAN 3                         🕘 17 hrs 57 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
