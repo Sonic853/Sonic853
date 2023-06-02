@@ -47,11 +47,11 @@ Markdown   🕓 1h10m 🌖🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 SteamVR                          🕘 3766 hrs 54 mins
+🎮 SteamVR                          🕘 3769 hrs 25 mins
 🎮 HITMAN 3                         🕘 27 hrs 25 mins
-🎮 OVR Toolkit                      🕘 2096 hrs 38 mins
-🎮 OVR Advanced Settings            🕘 1796 hrs 1 mins
-🎮 VRChat                           🕘 2034 hrs 45 mins
+🎮 VRChat                           🕘 2037 hrs 16 mins
+🎮 OVR Toolkit                      🕘 2099 hrs 8 mins
+🎮 OVR Advanced Settings            🕘 1798 hrs 31 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
