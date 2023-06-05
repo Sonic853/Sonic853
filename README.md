@@ -47,11 +47,11 @@ JSON       🕓 43m    🌗🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 SteamVR                          🕘 3781 hrs 44 mins
-🎮 OVR Toolkit                      🕘 2111 hrs 27 mins
-🎮 OVR Advanced Settings            🕘 1810 hrs 49 mins
+🎮 SteamVR                          🕘 3784 hrs 43 mins
+🎮 OVR Toolkit                      🕘 2114 hrs 25 mins
+🎮 OVR Advanced Settings            🕘 1813 hrs 47 mins
 🎮 HITMAN 3                         🕘 27 hrs 25 mins
-🎮 VRChat                           🕘 2041 hrs 27 mins
+🎮 VRChat                           🕘 2044 hrs 4 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
