@@ -50,8 +50,8 @@ Markdown   🕓 2h32m  🌕🌕🌘🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 🎮 SteamVR                          🕘 3790 hrs 40 mins
 🎮 OVR Toolkit                      🕘 2120 hrs 21 mins
 🎮 OVR Advanced Settings            🕘 1819 hrs 43 mins
-🎮 HITMAN 3                         🕘 27 hrs 25 mins
 ❓ Unknown Game                     🕘 218 hrs 20 mins
+🎮 VRChat                           🕘 2049 hrs 16 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
