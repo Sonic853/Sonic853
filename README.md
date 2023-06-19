@@ -47,7 +47,7 @@ Blender    🕓 1h3m   🌖🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 BattleBit Remastered             🕘 20 hrs 27 mins
+🎮 BattleBit Remastered             🕘 23 hrs 18 mins
 ❓ Unknown Game                     🕘 228 hrs 51 mins
 🎮 SteamVR                          🕘 3798 hrs 0 mins
 🎮 OVR Toolkit                      🕘 2127 hrs 37 mins
