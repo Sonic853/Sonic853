@@ -47,9 +47,9 @@ TypeScript 🕓 1h19m  🌝🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 BattleBit Remastered             🕘 30 hrs 37 mins
-❓ Unknown Game                     🕘 228 hrs 51 mins
+🎮 BattleBit Remastered             🕘 41 hrs 4 mins
 🎮 BattleBit Remastered Playtest    🕘 15 hrs 3 mins
+❓ Unknown Game                     🕘 228 hrs 54 mins
 🎮 SteamVR                          🕘 3800 hrs 4 mins
 🎮 OVR Toolkit                      🕘 2129 hrs 40 mins
 ```
