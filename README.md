@@ -49,9 +49,9 @@ XML        🕓 18m   🌘🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 ```text
 🎮 BattleBit Remastered             🕘 57 hrs 23 mins
 🎮 Blender                          🕘 247 hrs 42 mins
-🎮 SteamVR                          🕘 3806 hrs 35 mins
-🎮 OVR Toolkit                      🕘 2136 hrs 11 mins
-🎮 OVR Advanced Settings            🕘 1835 hrs 33 mins
+🎮 SteamVR                          🕘 3811 hrs 41 mins
+🎮 OVR Toolkit                      🕘 2141 hrs 17 mins
+🎮 OVR Advanced Settings            🕘 1840 hrs 39 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
