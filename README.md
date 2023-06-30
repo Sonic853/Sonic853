@@ -78,7 +78,6 @@ XML        🕓 18m   🌘🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 [![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)](https://vuejs.org/)
 [![Deno](https://img.shields.io/badge/Deno-000000?style=flat-square&logo=Deno&logoColor=white)](https://deno.land/)
 [![NuxtJS](https://img.shields.io/badge/NuxtJS-00dc82?style=flat-square&logo=nuxt.js&logoColor=white)](https://nuxtjs.org/)
-[![AntDesign](https://img.shields.io/badge/AntDesign-0170FE?style=flat-square&logo=antdesign&logoColor=white)](https://ant.design/)
 [![Node](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=ffffff)](https://nodejs.org/)
 [![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/~sonic853)
 [![PHP](https://img.shields.io/badge/PHP-8892BF?style=flat-square&logo=php&logoColor=white)](https://www.php.net/)
