@@ -48,10 +48,10 @@ XML        🕓 18m    🌘🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 🎮 Recently played Steam games
 ```text
 🎮 BattleBit Remastered             🕘 57 hrs 23 mins
+🎮 SteamVR                          🕘 3819 hrs 3 mins
+🎮 OVR Toolkit                      🕘 2148 hrs 38 mins
+🎮 OVR Advanced Settings            🕘 1847 hrs 59 mins
 🎮 Blender                          🕘 247 hrs 42 mins
-🎮 SteamVR                          🕘 3811 hrs 41 mins
-🎮 OVR Toolkit                      🕘 2141 hrs 17 mins
-🎮 OVR Advanced Settings            🕘 1840 hrs 39 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
