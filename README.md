@@ -47,11 +47,11 @@ XML           🕓 30m    🌘🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 SteamVR                          🕘 3831 hrs 0 mins
-🎮 OVR Toolkit                      🕘 2160 hrs 33 mins
-🎮 OVR Advanced Settings            🕘 1859 hrs 54 mins
-🎮 BattleBit Remastered             🕘 57 hrs 23 mins
+🎮 SteamVR                          🕘 3835 hrs 38 mins
+🎮 OVR Toolkit                      🕘 2165 hrs 10 mins
+🎮 OVR Advanced Settings            🕘 1864 hrs 32 mins
 ❓ Unknown Game                     🕘 257 hrs 4 mins
+🎮 BattleBit Remastered             🕘 57 hrs 23 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
