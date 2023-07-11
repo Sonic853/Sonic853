@@ -51,7 +51,7 @@ XML           🕓 1h40m  🌕🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 🎮 OVR Toolkit                      🕘 2167 hrs 38 mins
 🎮 OVR Advanced Settings            🕘 1867 hrs 0 mins
 ❓ Unknown Game                     🕘 257 hrs 23 mins
-🎮 VRChat                           🕘 2086 hrs 23 mins
+🎮 VRChat                           🕘 2086 hrs 41 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
