@@ -47,10 +47,10 @@ XML        🕓 1h40m 🌕🌚🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
+❓ Unknown Game                     🕘 261 hrs 44 mins
 🎮 SteamVR                          🕘 3838 hrs 7 mins
 🎮 OVR Toolkit                      🕘 2167 hrs 38 mins
 🎮 OVR Advanced Settings            🕘 1867 hrs 0 mins
-❓ Unknown Game                     🕘 257 hrs 23 mins
 🎮 VRChat                           🕘 2086 hrs 41 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
