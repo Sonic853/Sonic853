@@ -48,10 +48,10 @@ XML        🕓 1h40m  🌕🌗🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 🎮 Recently played Steam games
 ```text
 ❓ Unknown Game                     🕘 261 hrs 44 mins
-🎮 SteamVR                          🕘 3838 hrs 7 mins
-🎮 OVR Toolkit                      🕘 2167 hrs 38 mins
-🎮 OVR Advanced Settings            🕘 1867 hrs 0 mins
-🎮 VRChat                           🕘 2086 hrs 41 mins
+🎮 SteamVR                          🕘 3840 hrs 13 mins
+🎮 OVR Toolkit                      🕘 2169 hrs 42 mins
+🎮 OVR Advanced Settings            🕘 1869 hrs 3 mins
+🎮 UnMetal                          🕘 14 hrs 50 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
