@@ -48,10 +48,10 @@ Less       🕓 28m    🌗🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 🎮 Recently played Steam games
 ```text
 🎮 UnMetal                          🕘 30 hrs 23 mins
-🎮 VRChat                           🕘 2093 hrs 57 mins
-🎮 SteamVR                          🕘 3845 hrs 26 mins
-🎮 OVR Toolkit                      🕘 2174 hrs 53 mins
-🎮 OVR Advanced Settings            🕘 1874 hrs 15 mins
+🎮 Ghost Trick: Phantom Detective   🕘 16 hrs 26 mins
+🎮 VRChat                           🕘 2095 hrs 15 mins
+🎮 SteamVR                          🕘 3846 hrs 53 mins
+🎮 OVR Toolkit                      🕘 2176 hrs 20 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
