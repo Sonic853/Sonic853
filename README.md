@@ -91,6 +91,12 @@ Less       🕓 28m    🌗🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 [![Sai2](https://img.shields.io/badge/Sai2-B0D68F?style=flat-square&logo=krita&logoColor=white)](http://www.systemax.jp/en/sai/devdept.html)
 
 
+### afdian
+
+<p align="center">
+  <a target="_blank" href="https://afdian.net/a/Sonic853"><img src="https://afdian-connect-853.vercel.app/sponsor.svg" /></a>
+</p>
+
 ### 计数
 
 [![](https://count.getloli.com/get/@Sonic853?theme=rule34)](http://count.getloli.com/)
