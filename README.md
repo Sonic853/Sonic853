@@ -49,9 +49,9 @@ JSON       🕓 44m    🌕🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 ```text
 🎮 UnMetal                          🕘 30 hrs 23 mins
 🎮 Ghost Trick: Phantom Detective   🕘 16 hrs 26 mins
-🎮 SteamVR                          🕘 3848 hrs 12 mins
-🎮 OVR Toolkit                      🕘 2177 hrs 39 mins
-🎮 OVR Advanced Settings            🕘 1877 hrs 1 mins
+🎮 SteamVR                          🕘 3849 hrs 39 mins
+🎮 OVR Toolkit                      🕘 2179 hrs 5 mins
+🎮 OVR Advanced Settings            🕘 1878 hrs 27 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
