@@ -48,10 +48,10 @@ HTML       🕓 17m    🌘🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 🎮 Recently played Steam games
 ```text
 🎮 Ghost Trick: Phantom Detective   🕘 16 hrs 26 mins
-🎮 UnMetal                          🕘 30 hrs 23 mins
 🎮 SteamVR                          🕘 3852 hrs 49 mins
 🎮 OVR Toolkit                      🕘 2182 hrs 14 mins
 🎮 OVR Advanced Settings            🕘 1881 hrs 36 mins
+🎮 VRChat                           🕘 2100 hrs 33 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
