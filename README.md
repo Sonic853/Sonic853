@@ -48,10 +48,10 @@ JSON       🕓 9m     🌘🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 🎮 Recently played Steam games
 ```text
 🎮 Ghost Trick: Phantom Detective   🕘 16 hrs 26 mins
+🎮 Eastward                         🕘 10 hrs 11 mins
 🎮 SteamVR                          🕘 3854 hrs 35 mins
 🎮 OVR Toolkit                      🕘 2184 hrs 0 mins
 🎮 OVR Advanced Settings            🕘 1883 hrs 21 mins
-❓ Unknown Game                     🕘 270 hrs 34 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
