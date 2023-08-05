@@ -47,8 +47,8 @@ TypeScript 🕓 8m     🌘🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
+🎮 Eastward                         🕘 12 hrs 4 mins
 🎮 Ghost Trick: Phantom Detective   🕘 16 hrs 26 mins
-🎮 Eastward                         🕘 10 hrs 11 mins
 🎮 SteamVR                          🕘 3854 hrs 35 mins
 🎮 OVR Toolkit                      🕘 2184 hrs 0 mins
 🎮 OVR Advanced Settings            🕘 1883 hrs 21 mins
