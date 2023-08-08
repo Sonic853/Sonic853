@@ -47,7 +47,7 @@ Markdown   🕓 15m   🌝🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 Eastward                         🕘 23 hrs 38 mins
+🎮 Eastward                         🕘 28 hrs 53 mins
 ❓ Unknown Game                     🕘 270 hrs 34 mins
 🎮 SteamVR                          🕘 3854 hrs 35 mins
 🎮 OVR Toolkit                      🕘 2184 hrs 0 mins
