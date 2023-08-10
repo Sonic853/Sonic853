@@ -47,8 +47,8 @@ XML        🕓 28m   🌖🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 Eastward                         🕘 32 hrs 42 mins
-❓ Unknown Game                     🕘 270 hrs 34 mins
+🎮 Eastward                         🕘 36 hrs 22 mins
+❓ Unknown Game                     🕘 276 hrs 44 mins
 🎮 SteamVR                          🕘 3854 hrs 35 mins
 🎮 OVR Toolkit                      🕘 2184 hrs 0 mins
 🎮 OVR Advanced Settings            🕘 1883 hrs 21 mins
