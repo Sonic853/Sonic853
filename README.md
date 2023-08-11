@@ -47,7 +47,7 @@ TypeScript 🕓 19m   🌗🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 Eastward                         🕘 36 hrs 22 mins
+🎮 Eastward                         🕘 40 hrs 10 mins
 ❓ Unknown Game                     🕘 276 hrs 44 mins
 🎮 SteamVR                          🕘 3854 hrs 35 mins
 🎮 OVR Toolkit                      🕘 2184 hrs 0 mins
