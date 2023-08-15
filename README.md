@@ -49,9 +49,9 @@ Blazor     🕓 33m   🌖🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 ```text
 🎮 Eastward                         🕘 43 hrs 24 mins
 ❓ Unknown Game                     🕘 276 hrs 44 mins
-🎮 SteamVR                          🕘 3859 hrs 28 mins
-🎮 OVR Toolkit                      🕘 2188 hrs 52 mins
-🎮 OVR Advanced Settings            🕘 1888 hrs 14 mins
+🎮 SteamVR                          🕘 3861 hrs 11 mins
+🎮 OVR Toolkit                      🕘 2190 hrs 35 mins
+🎮 OVR Advanced Settings            🕘 1889 hrs 57 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
