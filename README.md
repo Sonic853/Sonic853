@@ -41,7 +41,7 @@ Blazor     🕓 33m   🌖🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 ```
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
-<a target="_blank" href="https://wakatime.com/@Sonic853"><img src="https://wakatime.com/share/@Sonic853/32361553-aaf3-4d9e-9f42-424d564eb04c.svg" width="100%" height="500" /></a>
+<a target="_blank" href="https://wakatime.com/@Sonic853"><img src="https://wakatime.com/share/@Sonic853/da00aa6c-d590-4a4a-84f5-1a41058e287c.svg" width="100%" /></a>
 
 ### Steam
 <!-- steam-box start -->
