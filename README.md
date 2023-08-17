@@ -48,10 +48,10 @@ Blazor     🕓 33m    🌖🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 🎮 Recently played Steam games
 ```text
 🎮 Eastward                         🕘 43 hrs 24 mins
-❓ Unknown Game                     🕘 280 hrs 39 mins
-🎮 SteamVR                          🕘 3861 hrs 11 mins
-🎮 OVR Toolkit                      🕘 2190 hrs 35 mins
-🎮 OVR Advanced Settings            🕘 1889 hrs 57 mins
+❓ Unknown Game                     🕘 289 hrs 5 mins
+🎮 SteamVR                          🕘 3861 hrs 48 mins
+🎮 OVR Toolkit                      🕘 2191 hrs 11 mins
+🎮 OVR Advanced Settings            🕘 1890 hrs 33 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
