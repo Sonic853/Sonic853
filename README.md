@@ -47,7 +47,7 @@ Blender    🕓 26m    🌗🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-❓ Unknown Game                     🕘 305 hrs 14 mins
+❓ Unknown Game                     🕘 310 hrs 53 mins
 🎮 Eastward                         🕘 43 hrs 24 mins
 🎮 SteamVR                          🕘 3861 hrs 48 mins
 🎮 OVR Toolkit                      🕘 2191 hrs 11 mins
