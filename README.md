@@ -51,7 +51,7 @@ Blender    🕓 26m   🌖🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 🎮 SteamVR                          🕘 3861 hrs 48 mins
 🎮 OVR Toolkit                      🕘 2191 hrs 11 mins
 🎮 OVR Advanced Settings            🕘 1890 hrs 33 mins
-🎮 Eastward                         🕘 43 hrs 24 mins
+🎮 VRChat                           🕘 2108 hrs 25 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
