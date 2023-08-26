@@ -47,11 +47,11 @@ Vue.js     🕓 0s    🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-❓ Unknown Game                     🕘 313 hrs 5 mins
-🎮 SteamVR                          🕘 3861 hrs 48 mins
-🎮 OVR Toolkit                      🕘 2191 hrs 11 mins
-🎮 OVR Advanced Settings            🕘 1890 hrs 33 mins
-🎮 VRChat                           🕘 2108 hrs 25 mins
+❓ Unknown Game                     🕘 315 hrs 36 mins
+🎮 SteamVR                          🕘 3865 hrs 19 mins
+🎮 OVR Toolkit                      🕘 2194 hrs 41 mins
+🎮 OVR Advanced Settings            🕘 1894 hrs 3 mins
+🎮 VRChat                           🕘 2111 hrs 3 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
