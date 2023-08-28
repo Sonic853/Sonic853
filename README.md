@@ -51,7 +51,7 @@ Vue.js     🕓 0s    🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 🎮 SteamVR                          🕘 3868 hrs 35 mins
 🎮 OVR Toolkit                      🕘 2197 hrs 57 mins
 🎮 OVR Advanced Settings            🕘 1897 hrs 19 mins
-🎮 VRChat                           🕘 2113 hrs 36 mins
+🔫 Counter-Strike: Global Offensive 🕘 3535 hrs 7 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
