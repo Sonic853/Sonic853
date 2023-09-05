@@ -47,8 +47,8 @@ JSON       🕓 0s    🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 Command & Conquer™ Remastered Collection 🕘 30 hrs 6 mins
-🔫 Counter-Strike: Global Offensive 🕘 3547 hrs 33 mins
+🎮 Command & Conquer™ Remastered Collection 🕘 36 hrs 1 mins
+🔫 Counter-Strike: Global Offensive 🕘 3547 hrs 47 mins
 🎮 SteamVR                          🕘 3876 hrs 27 mins
 🎮 OVR Toolkit                      🕘 2205 hrs 48 mins
 🎮 OVR Advanced Settings            🕘 1905 hrs 10 mins
