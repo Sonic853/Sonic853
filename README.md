@@ -48,8 +48,8 @@ HTML       🕓 34m   🌕🌖🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 🎮 Recently played Steam games
 ```text
 🎮 Command & Conquer™ Remastered Collection 🕘 36 hrs 9 mins
-🔫 Counter-Strike: Global Offensive 🕘 3553 hrs 36 mins
-🎮 VRChat                           🕘 2123 hrs 12 mins
+🔫 Counter-Strike: Global Offensive 🕘 3560 hrs 30 mins
+🎮 VRChat                           🕘 2123 hrs 56 mins
 🎮 SteamVR                          🕘 3876 hrs 27 mins
 🎮 OVR Toolkit                      🕘 2205 hrs 48 mins
 ```
