@@ -48,8 +48,8 @@ JSON       🕓 51m   🌕🌝🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 🎮 Recently played Steam games
 ```text
 🎮 Command & Conquer™ Remastered Collection 🕘 36 hrs 9 mins
-🔫 Counter-Strike: Global Offensive 🕘 3560 hrs 30 mins
-🎮 VRChat                           🕘 2123 hrs 56 mins
+🔫 Counter-Strike: Global Offensive 🕘 3561 hrs 2 mins
+🎮 VRChat                           🕘 2124 hrs 13 mins
 🎮 SteamVR                          🕘 3876 hrs 27 mins
 🎮 OVR Toolkit                      🕘 2205 hrs 48 mins
 ```
