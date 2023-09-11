@@ -49,7 +49,7 @@ HTML       🕓 34m   🌕🌘🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 ```text
 🎮 Command & Conquer™ Remastered Collection 🕘 36 hrs 9 mins
 🔫 Counter-Strike: Global Offensive 🕘 3563 hrs 23 mins
-🎮 Party Animals Playtest           🕘 13 hrs 10 mins
+🎮 Party Animals Playtest           🕘 22 hrs 18 mins
 🎮 VRChat                           🕘 2126 hrs 4 mins
 ❓ Unknown Game                     🕘 324 hrs 30 mins
 ```
