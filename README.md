@@ -47,10 +47,10 @@ Batchfile  🕓 17m   🌖🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
+🔫 Counter-Strike: Global Offensive 🕘 3578 hrs 35 mins
+🎮 Party Animals Playtest           🕘 27 hrs 52 mins
 🎮 Command & Conquer™ Remastered Collection 🕘 36 hrs 9 mins
-🔫 Counter-Strike: Global Offensive 🕘 3577 hrs 28 mins
-🎮 Party Animals Playtest           🕘 22 hrs 18 mins
-❓ Unknown Game                     🕘 333 hrs 50 mins
+❓ Unknown Game                     🕘 335 hrs 55 mins
 🎮 VRChat                           🕘 2127 hrs 18 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
