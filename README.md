@@ -47,11 +47,11 @@ Markdown     🕓 3m     🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 Party Animals Playtest           🕘 46 hrs 1 mins
+🎮 Party Animals Playtest           🕘 56 hrs 37 mins
 🔫 Counter-Strike: Global Offensive 🕘 3579 hrs 32 mins
-🎮 Command & Conquer™ Remastered Collection 🕘 36 hrs 9 mins
 ❓ Unknown Game                     🕘 335 hrs 55 mins
-🎮 VRChat                           🕘 2127 hrs 18 mins
+🎮 Command & Conquer™ Remastered Collection 🕘 36 hrs 9 mins
+🎮 VRChat                           🕘 2127 hrs 58 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
