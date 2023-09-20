@@ -47,9 +47,9 @@ Markdown     🕓 3m     🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 Party Animals Playtest           🕘 60 hrs 58 mins
+🎮 Party Animals Playtest           🕘 63 hrs 25 mins
 🔫 Counter-Strike: Global Offensive 🕘 3579 hrs 32 mins
-❓ Unknown Game                     🕘 335 hrs 55 mins
+❓ Unknown Game                     🕘 343 hrs 1 mins
 🎮 VRChat                           🕘 2127 hrs 59 mins
 🎮 PAYDAY 3 - Beta                  🕘 2 hrs 34 mins
 ```
