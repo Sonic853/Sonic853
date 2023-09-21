@@ -50,8 +50,8 @@ Markdown     🕓 3m     🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 🎮 Party Animals Playtest           🕘 63 hrs 25 mins
 🔫 Counter-Strike: Global Offensive 🕘 3579 hrs 32 mins
 ❓ Unknown Game                     🕘 343 hrs 1 mins
+🎮 Party Animals                    🕘 5 hrs 8 mins
 🎮 VRChat                           🕘 2127 hrs 59 mins
-🎮 PAYDAY 3 - Beta                  🕘 2 hrs 34 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
