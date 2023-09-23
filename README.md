@@ -48,9 +48,9 @@ Ezhil        🕓 1m     🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 🎮 Recently played Steam games
 ```text
 🎮 Party Animals Playtest           🕘 63 hrs 25 mins
+🔫 Counter-Strike: Global Offensive 🕘 3579 hrs 57 mins
 ❓ Unknown Game                     🕘 343 hrs 1 mins
-🔫 Counter-Strike: Global Offensive 🕘 3579 hrs 32 mins
-🎮 Party Animals                    🕘 9 hrs 0 mins
+🎮 Party Animals                    🕘 14 hrs 32 mins
 🎮 VRChat                           🕘 2129 hrs 25 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
