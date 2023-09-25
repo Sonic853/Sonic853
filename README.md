@@ -47,8 +47,8 @@ ActionScript 🕓 0s     🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 🎮 Recently played Steam games
 ```text
 🎮 Party Animals Playtest           🕘 63 hrs 25 mins
-🔫 Counter-Strike: Global Offensive 🕘 3585 hrs 7 mins
-🎮 Party Animals                    🕘 19 hrs 5 mins
+🔫 Counter-Strike: Global Offensive 🕘 3586 hrs 3 mins
+🎮 Party Animals                    🕘 22 hrs 20 mins
 ❓ Unknown Game                     🕘 343 hrs 1 mins
 🎮 VRChat                           🕘 2132 hrs 19 mins
 ```
