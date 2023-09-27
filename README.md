@@ -48,7 +48,7 @@ TSQL         🕓 0s     🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 🎮 Recently played Steam games
 ```text
 🎮 Party Animals Playtest           🕘 63 hrs 25 mins
-🎮 Party Animals                    🕘 29 hrs 3 mins
+🎮 Party Animals                    🕘 31 hrs 45 mins
 ❓ Unknown Game                     🕘 349 hrs 54 mins
 🔫 Counter-Strike: Global Offensive 🕘 3586 hrs 3 mins
 🎮 VRChat                           🕘 2132 hrs 19 mins
