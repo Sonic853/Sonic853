@@ -50,8 +50,8 @@ TSQL         🕓 0s     🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 🎮 Party Animals Playtest           🕘 63 hrs 25 mins
 🎮 Party Animals                    🕘 32 hrs 29 mins
 ❓ Unknown Game                     🕘 349 hrs 54 mins
-🔫 Counter-Strike 2                 🕘 3586 hrs 34 mins
-🎮 VRChat                           🕘 2132 hrs 19 mins
+🔫 Counter-Strike 2                 🕘 3587 hrs 5 mins
+🎮 Candleman: The Complete Journey  🕘 8 hrs 14 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
