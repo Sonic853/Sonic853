@@ -47,10 +47,10 @@ TSQL         🕓 0s     🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
+🎮 Party Animals                    🕘 34 hrs 55 mins
 🎮 Party Animals Playtest           🕘 63 hrs 25 mins
-🎮 Party Animals                    🕘 32 hrs 29 mins
 ❓ Unknown Game                     🕘 349 hrs 54 mins
-🔫 Counter-Strike 2                 🕘 3587 hrs 5 mins
+🔫 Counter-Strike 2                 🕘 3588 hrs 47 mins
 🎮 Candleman: The Complete Journey  🕘 8 hrs 14 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
