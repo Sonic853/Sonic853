@@ -51,7 +51,7 @@ Objective-C  🕓 0s    🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑
 ❓ Unknown Game                     🕘 349 hrs 54 mins
 🔫 Counter-Strike 2                 🕘 3588 hrs 47 mins
 🎮 Candleman: The Complete Journey  🕘 8 hrs 14 mins
-🎮 Party Animals Playtest           🕘 63 hrs 25 mins
+🎮 VRChat                           🕘 2133 hrs 57 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
