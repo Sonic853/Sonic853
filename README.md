@@ -47,10 +47,10 @@ Objective-C  🕓 0s    🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 Party Animals                    🕘 34 hrs 55 mins
-❓ Unknown Game                     🕘 349 hrs 54 mins
-🔫 Counter-Strike 2                 🕘 3588 hrs 47 mins
+🎮 Party Animals                    🕘 35 hrs 7 mins
+🔫 Counter-Strike 2                 🕘 3589 hrs 44 mins
 🎮 Candleman: The Complete Journey  🕘 8 hrs 14 mins
+❓ Unknown Game                     🕘 349 hrs 54 mins
 🎮 VRChat                           🕘 2133 hrs 57 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
