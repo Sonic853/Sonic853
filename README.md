@@ -48,7 +48,7 @@ HTML 🕓 1m    🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑
 🔫 Counter-Strike 2                 🕘 3589 hrs 44 mins
 🎮 Candleman: The Complete Journey  🕘 8 hrs 14 mins
 ❓ Unknown Game                     🕘 349 hrs 54 mins
-🎮 VRChat                           🕘 2133 hrs 57 mins
+🎮 Ori and the Blind Forest: Definitive Edition 🕘 6 hrs 44 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
