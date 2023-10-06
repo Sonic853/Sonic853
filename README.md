@@ -44,7 +44,7 @@ Still Gathering Statistics...
 🎮 Recently played Steam games
 ```text
 🎮 Party Animals                    🕘 35 hrs 7 mins
-🔫 Counter-Strike 2                 🕘 3589 hrs 44 mins
+🔫 Counter-Strike 2                 🕘 3594 hrs 44 mins
 🎮 Candleman: The Complete Journey  🕘 8 hrs 14 mins
 ❓ Unknown Game                     🕘 349 hrs 54 mins
 🎮 Ori and the Blind Forest: Definitive Edition 🕘 6 hrs 44 mins
