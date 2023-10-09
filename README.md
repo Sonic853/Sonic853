@@ -44,10 +44,10 @@ Other 🕓 2m  🌕🌕🌝🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🔫 Counter-Strike 2                 🕘 3601 hrs 34 mins
+🔫 Counter-Strike 2                 🕘 3607 hrs 9 mins
 🎮 Party Animals                    🕘 35 hrs 28 mins
+❓ Unknown Game                     🕘 350 hrs 51 mins
 🎮 Candleman: The Complete Journey  🕘 8 hrs 14 mins
-❓ Unknown Game                     🕘 349 hrs 54 mins
 🎮 Ori and the Blind Forest: Definitive Edition 🕘 6 hrs 44 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
