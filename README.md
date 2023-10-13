@@ -47,10 +47,10 @@ GDScript       🕓 50m    🌖🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🔫 Counter-Strike 2                 🕘 3609 hrs 43 mins
+🔫 Counter-Strike 2                 🕘 3614 hrs 1 mins
 🎮 Ori and the Blind Forest: Definitive Edition 🕘 8 hrs 17 mins
 🎮 Candleman: The Complete Journey  🕘 8 hrs 14 mins
-🎮 VRChat                           🕘 2136 hrs 31 mins
+🎮 VRChat                           🕘 2137 hrs 13 mins
 🎮 Party Animals                    🕘 35 hrs 28 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
