@@ -49,9 +49,9 @@ JSON           🕓 1h20m  🌝🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 ```text
 🔫 Counter-Strike 2                 🕘 3614 hrs 49 mins
 🎮 Ori and the Blind Forest: Definitive Edition 🕘 8 hrs 17 mins
-🎮 VRChat                           🕘 2137 hrs 13 mins
-🎮 Party Animals                    🕘 35 hrs 28 mins
-🎮 Teenage Mutant Ninja Turtles: Shredder's Revenge 🕘 2 hrs 27 mins
+🎮 VRChat                           🕘 2141 hrs 3 mins
+🎮 OVR Toolkit                      🕘 2212 hrs 57 mins
+🎮 OVR Advanced Settings            🕘 1912 hrs 18 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
