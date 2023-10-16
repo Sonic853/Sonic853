@@ -47,9 +47,9 @@ JSON           🕓 1h20m  🌖🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🔫 Counter-Strike 2                 🕘 3614 hrs 49 mins
-🎮 Ori and the Blind Forest: Definitive Edition 🕘 8 hrs 17 mins
+🔫 Counter-Strike 2                 🕘 3616 hrs 39 mins
 🎮 VRChat                           🕘 2141 hrs 3 mins
+🎮 Ori and the Blind Forest: Definitive Edition 🕘 8 hrs 17 mins
 🎮 OVR Toolkit                      🕘 2212 hrs 57 mins
 🎮 OVR Advanced Settings            🕘 1912 hrs 18 mins
 ```
