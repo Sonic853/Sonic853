@@ -47,11 +47,11 @@ JSON           🕓 1h20m  🌝🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🔫 Counter-Strike 2                 🕘 3616 hrs 39 mins
+🔫 Counter-Strike 2                 🕘 3617 hrs 47 mins
+❓ Unknown Game                     🕘 357 hrs 52 mins
 🎮 VRChat                           🕘 2141 hrs 3 mins
-🎮 Ori and the Blind Forest: Definitive Edition 🕘 8 hrs 17 mins
+🎮 Battlefield™ 2042                🕘 11 hrs 54 mins
 🎮 OVR Toolkit                      🕘 2212 hrs 57 mins
-🎮 OVR Advanced Settings            🕘 1912 hrs 18 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
