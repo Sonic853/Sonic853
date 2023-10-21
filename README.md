@@ -48,10 +48,10 @@ JavaScript     🕓 25m    🌗🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 🎮 Recently played Steam games
 ```text
 🔫 Counter-Strike 2                 🕘 3617 hrs 47 mins
-🎮 VRChat                           🕘 2144 hrs 5 mins
+🎮 VRChat                           🕘 2147 hrs 38 mins
+🎮 Battlefield™ 2042                🕘 15 hrs 57 mins
 ❓ Unknown Game                     🕘 357 hrs 52 mins
 🎮 SteamVR                          🕘 3887 hrs 2 mins
-🎮 OVR Toolkit                      🕘 2216 hrs 20 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
