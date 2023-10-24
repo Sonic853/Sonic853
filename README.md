@@ -47,11 +47,11 @@ Go             🕓 24m   🌘🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 VRChat                           🕘 2156 hrs 49 mins
+🎮 VRChat                           🕘 2160 hrs 23 mins
+🎮 SteamVR                          🕘 3891 hrs 57 mins
+🎮 OVR Toolkit                      🕘 2220 hrs 58 mins
+🎮 OVR Advanced Settings            🕘 1920 hrs 18 mins
 🎮 Battlefield™ 2042                🕘 18 hrs 1 mins
-🔫 Counter-Strike 2                 🕘 3617 hrs 47 mins
-🎮 SteamVR                          🕘 3888 hrs 30 mins
-🎮 OVR Toolkit                      🕘 2217 hrs 31 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
