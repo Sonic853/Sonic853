@@ -47,11 +47,11 @@ Vue.js         🕓 1h1m   🌝🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 VRChat                           🕘 2160 hrs 23 mins
+🎮 VRChat                           🕘 2168 hrs 17 mins
+🎮 Phoenix Wright: Ace Attorney Trilogy 🕘 16 hrs 7 mins
 🎮 SteamVR                          🕘 3891 hrs 57 mins
 🎮 OVR Toolkit                      🕘 2220 hrs 58 mins
 🎮 OVR Advanced Settings            🕘 1920 hrs 18 mins
-🎮 Battlefield™ 2042                🕘 18 hrs 1 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
