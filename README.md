@@ -47,8 +47,8 @@ TypeScript     🕓 1h43m  🌕🌚🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 VRChat                           🕘 2171 hrs 46 mins
-🎮 Phoenix Wright: Ace Attorney Trilogy 🕘 18 hrs 49 mins
+🎮 VRChat                           🕘 2176 hrs 10 mins
+🎮 Phoenix Wright: Ace Attorney Trilogy 🕘 23 hrs 1 mins
 🎮 SteamVR                          🕘 3892 hrs 34 mins
 🎮 OVR Toolkit                      🕘 2221 hrs 33 mins
 🎮 OVR Advanced Settings            🕘 1920 hrs 54 mins
