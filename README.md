@@ -51,7 +51,7 @@ JSON           🕓 1h55m 🌕🌘🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 🎮 Phoenix Wright: Ace Attorney Trilogy 🕘 27 hrs 59 mins
 ❓ Unknown Game                     🕘 363 hrs 10 mins
 🎮 SteamVR                          🕘 3895 hrs 25 mins
-🎮 Battlefield™ 2042                🕘 18 hrs 1 mins
+🎮 OVR Toolkit                      🕘 2224 hrs 12 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
