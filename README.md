@@ -49,9 +49,9 @@ JSON         🕓 1h46m 🌕🌘🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑
 ```text
 🎮 VRChat                           🕘 2186 hrs 35 mins
 🎮 Phoenix Wright: Ace Attorney Trilogy 🕘 27 hrs 59 mins
+🎮 Gunfire Reborn                   🕘 133 hrs 28 mins
 🎮 SteamVR                          🕘 3895 hrs 25 mins
 🎮 OVR Toolkit                      🕘 2224 hrs 12 mins
-🎮 OVR Advanced Settings            🕘 1923 hrs 33 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
