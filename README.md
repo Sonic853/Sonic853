@@ -99,7 +99,7 @@ TypeScript    🕓 2h27m 🌕🌖🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 
 ### 计数
 
-[![](https://count.getloli.com/get/@Sonic853?theme=rule34)](http://count.getloli.com/)
+[![](https://count.getloli.com/get/@Sonic853?theme=gelbooru)](http://count.getloli.com/)
 
 百度帐号全部被盗：
 
