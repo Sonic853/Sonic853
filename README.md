@@ -51,7 +51,7 @@ TypeScript    🕓 2h27m 🌕🌖🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 🎮 Phoenix Wright: Ace Attorney Trilogy 🕘 27 hrs 59 mins
 🎮 Gunfire Reborn                   🕘 135 hrs 46 mins
 ❓ Unknown Game                     🕘 365 hrs 51 mins
-🎮 SteamVR                          🕘 3895 hrs 25 mins
+🎮 Forza Horizon 5                  🕘 3 hrs 51 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
