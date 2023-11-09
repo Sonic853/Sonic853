@@ -47,11 +47,11 @@ Markdown      🕓 1h39m 🌕🌘🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 VRChat                           🕘 2198 hrs 4 mins
+🎮 VRChat                           🕘 2201 hrs 17 mins
 🎮 Gunfire Reborn                   🕘 135 hrs 46 mins
 🎮 Phoenix Wright: Ace Attorney Trilogy 🕘 27 hrs 59 mins
-❓ Unknown Game                     🕘 365 hrs 51 mins
 🎮 Forza Horizon 5                  🕘 5 hrs 47 mins
+🎮 SteamVR                          🕘 3897 hrs 4 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
