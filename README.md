@@ -47,11 +47,11 @@ Go         🕓 1h38m  🌕🌚🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 VRChat                           🕘 2208 hrs 34 mins
+🎮 VRChat                           🕘 2209 hrs 2 mins
 🎮 Gunfire Reborn                   🕘 135 hrs 46 mins
-🎮 SteamVR                          🕘 3904 hrs 43 mins
-🎮 OVR Toolkit                      🕘 2233 hrs 28 mins
-🎮 OVR Advanced Settings            🕘 1932 hrs 48 mins
+🎮 SteamVR                          🕘 3905 hrs 14 mins
+🎮 OVR Toolkit                      🕘 2233 hrs 55 mins
+🎮 OVR Advanced Settings            🕘 1933 hrs 15 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
