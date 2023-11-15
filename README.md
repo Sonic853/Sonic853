@@ -47,11 +47,11 @@ INI        🕓 1h51m 🌕🌚🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 VRChat                           🕘 2209 hrs 2 mins
+🎮 VRChat                           🕘 2210 hrs 47 mins
+🎮 SteamVR                          🕘 3907 hrs 1 mins
+🎮 OVR Toolkit                      🕘 2235 hrs 42 mins
+🎮 OVR Advanced Settings            🕘 1935 hrs 2 mins
 🎮 Gunfire Reborn                   🕘 135 hrs 46 mins
-🎮 SteamVR                          🕘 3905 hrs 14 mins
-🎮 OVR Toolkit                      🕘 2233 hrs 55 mins
-🎮 OVR Advanced Settings            🕘 1933 hrs 15 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
