@@ -47,10 +47,10 @@ Text       🕓 1h     🌖🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 VRChat                           🕘 2217 hrs 17 mins
-🎮 SteamVR                          🕘 3913 hrs 54 mins
-🎮 OVR Advanced Settings            🕘 1941 hrs 54 mins
-🎮 OVR Toolkit                      🕘 2242 hrs 10 mins
+🎮 VRChat                           🕘 2220 hrs 59 mins
+🎮 SteamVR                          🕘 3917 hrs 37 mins
+🎮 OVR Advanced Settings            🕘 1945 hrs 37 mins
+🎮 OVR Toolkit                      🕘 2245 hrs 53 mins
 🎮 Forza Horizon 5                  🕘 10 hrs 22 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
