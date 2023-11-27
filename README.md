@@ -47,11 +47,11 @@ JSON       🕓 6m     🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 SteamVR                          🕘 3947 hrs 27 mins
-🎮 OVR Toolkit                      🕘 2275 hrs 39 mins
-🎮 OVR Advanced Settings            🕘 1968 hrs 6 mins
+🎮 SteamVR                          🕘 3950 hrs 47 mins
+🎮 OVR Toolkit                      🕘 2278 hrs 58 mins
+🎮 OVR Advanced Settings            🕘 1971 hrs 24 mins
 🎮 VRChat                           🕘 2232 hrs 29 mins
-❓ Unknown Game                     🕘 373 hrs 40 mins
+🎮 CROSSFIRE: SIERRA SQUAD          🕘 10 hrs 9 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
