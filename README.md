@@ -47,10 +47,10 @@ Other      🕓 46m    🌖🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 SteamVR                          🕘 3968 hrs 45 mins
-🎮 OVR Toolkit                      🕘 2296 hrs 54 mins
-🎮 OVR Advanced Settings            🕘 1989 hrs 20 mins
-🎮 VRChat                           🕘 2235 hrs 12 mins
+🎮 SteamVR                          🕘 3972 hrs 44 mins
+🎮 OVR Toolkit                      🕘 2300 hrs 53 mins
+🎮 OVR Advanced Settings            🕘 1993 hrs 18 mins
+🎮 VRChat                           🕘 2239 hrs 6 mins
 🎮 CROSSFIRE: SIERRA SQUAD          🕘 14 hrs 57 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
