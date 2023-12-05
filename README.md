@@ -47,10 +47,10 @@ PHP        🕓 1h6m   🌖🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 SteamVR                          🕘 3986 hrs 13 mins
-🎮 OVR Toolkit                      🕘 2314 hrs 20 mins
-🎮 OVR Advanced Settings            🕘 2001 hrs 29 mins
-🎮 VRChat                           🕘 2245 hrs 50 mins
+🎮 SteamVR                          🕘 3990 hrs 27 mins
+🎮 OVR Toolkit                      🕘 2318 hrs 33 mins
+🎮 OVR Advanced Settings            🕘 2002 hrs 52 mins
+🎮 VRChat                           🕘 2247 hrs 0 mins
 🎮 CROSSFIRE: SIERRA SQUAD          🕘 14 hrs 57 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
