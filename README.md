@@ -47,11 +47,11 @@ XML        🕓 1h41m  🌕🌚🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 SteamVR                          🕘 3990 hrs 27 mins
-🎮 OVR Toolkit                      🕘 2318 hrs 33 mins
-🎮 OVR Advanced Settings            🕘 2002 hrs 52 mins
-🎮 VRChat                           🕘 2247 hrs 0 mins
-🎮 CROSSFIRE: SIERRA SQUAD          🕘 14 hrs 57 mins
+🎮 SteamVR                          🕘 3998 hrs 20 mins
+🎮 OVR Toolkit                      🕘 2326 hrs 26 mins
+🎮 OVR Advanced Settings            🕘 2006 hrs 7 mins
+🎮 VRChat                           🕘 2249 hrs 59 mins
+🎮 Ghosts Of Tabor                  🕘 17 hrs 4 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
