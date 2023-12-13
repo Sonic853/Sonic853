@@ -47,10 +47,10 @@ Blender    🕓 1h23m 🌕🌚🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 SteamVR                          🕘 4022 hrs 23 mins
-🎮 OVR Toolkit                      🕘 2350 hrs 23 mins
-🎮 OVR Advanced Settings            🕘 2020 hrs 31 mins
-🎮 VRChat                           🕘 2264 hrs 45 mins
+🎮 SteamVR                          🕘 4023 hrs 32 mins
+🎮 OVR Toolkit                      🕘 2351 hrs 31 mins
+🎮 OVR Advanced Settings            🕘 2021 hrs 39 mins
+🎮 VRChat                           🕘 2267 hrs 49 mins
 🎮 Ghosts Of Tabor                  🕘 27 hrs 4 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
