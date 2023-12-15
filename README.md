@@ -47,11 +47,11 @@ TypeScript 🕓 2h39m  🌕🌕🌚🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 SteamVR                          🕘 4028 hrs 35 mins
-🎮 OVR Toolkit                      🕘 2355 hrs 4 mins
-🎮 VRChat                           🕘 2271 hrs 33 mins
-🎮 OVR Advanced Settings            🕘 2025 hrs 11 mins
-🎮 Ghosts Of Tabor                  🕘 27 hrs 4 mins
+🎮 SteamVR                          🕘 4047 hrs 28 mins
+🎮 OVR Toolkit                      🕘 2357 hrs 52 mins
+🎮 OVR Advanced Settings            🕘 2027 hrs 28 mins
+🎮 VRChat                           🕘 2273 hrs 21 mins
+🎮 Ghosts Of Tabor                  🕘 27 hrs 35 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
