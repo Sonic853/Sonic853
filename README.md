@@ -1,6 +1,7 @@
 <details>
   <summary align="center"><h3 align="center">👋 Hello! I'm 853.</h3></summary>
   <p align="center"><del>这个地球是一秒待不下去了</del>（误</p>
+  <img src='https://github.com/Sonic853/Sonic853/assets/8389962/71079adc-a795-4c4e-b7f2-6040a3dc26ed.png'>
 </details>
 <p align="center">
   <a target="_blank" href="https://blog.853lab.com/"><img src="https://img.shields.io/badge/Blog-0073AA?logo=WordPress&style=flat-square" /></a> 
