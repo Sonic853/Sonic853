@@ -51,7 +51,7 @@ JSON       🕓 2h13m  🌕🌖🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 🎮 SteamVR                          🕘 4065 hrs 15 mins
 🎮 OVR Toolkit                      🕘 2375 hrs 36 mins
 🎮 OVR Advanced Settings            🕘 2041 hrs 44 mins
-🎮 VRChat                           🕘 2284 hrs 52 mins
+🎮 VRChat                           🕘 2285 hrs 22 mins
 🎮 Ghosts Of Tabor                  🕘 30 hrs 8 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
