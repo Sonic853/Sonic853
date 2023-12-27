@@ -48,11 +48,11 @@ Other      🕓 3h8m   🌕🌝🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 SteamVR                          🕘 4086 hrs 41 mins
-🎮 OVR Toolkit                      🕘 2396 hrs 57 mins
-🎮 OVR Advanced Settings            🕘 2062 hrs 58 mins
-🎮 VRChat                           🕘 2305 hrs 21 mins
-🎮 Ghosts Of Tabor                  🕘 30 hrs 9 mins
+🎮 SteamVR                          🕘 4089 hrs 37 mins
+🎮 OVR Toolkit                      🕘 2399 hrs 51 mins
+🎮 OVR Advanced Settings            🕘 2065 hrs 43 mins
+🎮 VRChat                           🕘 2307 hrs 49 mins
+🎮 Lethal Company                   🕘 5 hrs 45 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
