@@ -51,7 +51,7 @@ Text       🕓 1h31m  🌖🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 🎮 SteamVR                          🕘 4091 hrs 16 mins
 🎮 OVR Toolkit                      🕘 2401 hrs 30 mins
 🎮 OVR Advanced Settings            🕘 2067 hrs 22 mins
-🎮 VRChat                           🕘 2309 hrs 27 mins
+🎮 VRChat                           🕘 2311 hrs 0 mins
 🎮 Lethal Company                   🕘 5 hrs 45 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
