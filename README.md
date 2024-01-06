@@ -48,11 +48,11 @@ JavaScript 🕓 10m   🌕🌚🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 VRChat                           🕘 2320 hrs 50 mins
-🎮 SteamVR                          🕘 4099 hrs 15 mins
-🎮 OVR Toolkit                      🕘 2409 hrs 27 mins
-🎮 OVR Advanced Settings            🕘 2075 hrs 19 mins
-🎮 Lethal Company                   🕘 5 hrs 45 mins
+🎮 VRChat                           🕘 2331 hrs 35 mins
+🎮 SteamVR                          🕘 4104 hrs 0 mins
+🎮 OVR Toolkit                      🕘 2414 hrs 11 mins
+🎮 OVR Advanced Settings            🕘 2080 hrs 3 mins
+🎮 Warudo                           🕘 5 hrs 35 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
