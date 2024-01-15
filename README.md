@@ -49,9 +49,9 @@ Text       🕓 30m    🌘🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 🎮 Recently played Steam games
 ```text
 🎮 VRChat                           🕘 2355 hrs 41 mins
-🎮 SteamVR                          🕘 4127 hrs 16 mins
-🎮 OVR Toolkit                      🕘 2437 hrs 20 mins
-🎮 OVR Advanced Settings            🕘 2103 hrs 10 mins
+🎮 SteamVR                          🕘 4131 hrs 40 mins
+🎮 OVR Advanced Settings            🕘 2107 hrs 33 mins
+🎮 OVR Toolkit                      🕘 2440 hrs 53 mins
 🎮 Ready or Not                     🕘 13 hrs 29 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
