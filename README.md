@@ -48,10 +48,10 @@ Text     🕓 14m    🌘🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 VRChat                           🕘 2403 hrs 45 mins
-🎮 SteamVR                          🕘 4154 hrs 41 mins
-🎮 OVR Advanced Settings            🕘 2130 hrs 26 mins
-🎮 OVR Toolkit                      🕘 2463 hrs 48 mins
+🎮 VRChat                           🕘 2405 hrs 57 mins
+🎮 SteamVR                          🕘 4157 hrs 17 mins
+🎮 OVR Advanced Settings            🕘 2132 hrs 57 mins
+🎮 OVR Toolkit                      🕘 2466 hrs 20 mins
 🎮 Qubicle Voxel Editor             🕘 32 hrs 46 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
