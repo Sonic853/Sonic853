@@ -48,11 +48,11 @@ Markdown 🕓 1m     🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 VRChat                           🕘 2406 hrs 29 mins
-🎮 SteamVR                          🕘 4157 hrs 24 mins
-🎮 OVR Advanced Settings            🕘 2133 hrs 4 mins
-🎮 OVR Toolkit                      🕘 2466 hrs 24 mins
-🎮 Qubicle Voxel Editor             🕘 32 hrs 46 mins
+🎮 VRChat                           🕘 2409 hrs 20 mins
+🎮 SteamVR                          🕘 4160 hrs 22 mins
+🎮 OVR Advanced Settings            🕘 2136 hrs 1 mins
+🎮 OVR Toolkit                      🕘 2469 hrs 22 mins
+🎮 Lethal Company                   🕘 11 hrs 0 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
