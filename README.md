@@ -52,7 +52,7 @@ CSS        🕓 0s     🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 🎮 SteamVR                          🕘 4160 hrs 22 mins
 🎮 OVR Advanced Settings            🕘 2136 hrs 1 mins
 🎮 OVR Toolkit                      🕘 2469 hrs 22 mins
-🎮 Palworld                         🕘 11 hrs 5 mins
+🎮 Palworld                         🕘 26 hrs 34 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
