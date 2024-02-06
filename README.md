@@ -45,10 +45,10 @@ C# 🕓 6h31m 🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕�
 🎮 Recently played Steam games
 ```text
 🎮 Palworld                         🕘 86 hrs 42 mins
-🎮 VRChat                           🕘 2439 hrs 27 mins
-🎮 SteamVR                          🕘 4188 hrs 40 mins
-🎮 OVR Toolkit                      🕘 2497 hrs 37 mins
-🎮 OVR Advanced Settings            🕘 2164 hrs 14 mins
+🎮 VRChat                           🕘 2447 hrs 41 mins
+🎮 SteamVR                          🕘 4192 hrs 20 mins
+🎮 OVR Toolkit                      🕘 2501 hrs 17 mins
+🎮 OVR Advanced Settings            🕘 2167 hrs 54 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
