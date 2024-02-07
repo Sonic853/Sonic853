@@ -45,7 +45,7 @@ C# 🕓 9h49m 🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕�
 🎮 Recently played Steam games
 ```text
 🎮 Palworld                         🕘 86 hrs 42 mins
-🎮 VRChat                           🕘 2447 hrs 41 mins
+🎮 VRChat                           🕘 2450 hrs 34 mins
 🎮 SteamVR                          🕘 4192 hrs 20 mins
 🎮 OVR Toolkit                      🕘 2501 hrs 17 mins
 🎮 OVR Advanced Settings            🕘 2167 hrs 54 mins
