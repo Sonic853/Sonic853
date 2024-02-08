@@ -49,10 +49,10 @@ Other    🕓 3m     🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 🎮 Recently played Steam games
 ```text
 🎮 Palworld                         🕘 86 hrs 42 mins
-🎮 VRChat                           🕘 2450 hrs 34 mins
-🎮 SteamVR                          🕘 4192 hrs 20 mins
-🎮 OVR Toolkit                      🕘 2501 hrs 17 mins
-🎮 OVR Advanced Settings            🕘 2167 hrs 54 mins
+🎮 VRChat                           🕘 2452 hrs 23 mins
+🎮 SteamVR                          🕘 4194 hrs 12 mins
+🎮 OVR Toolkit                      🕘 2503 hrs 8 mins
+🎮 OVR Advanced Settings            🕘 2169 hrs 44 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
