@@ -48,11 +48,11 @@ Git        🕓 0s     🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 VRChat                           🕘 2525 hrs 10 mins
-🎮 SteamVR                          🕘 4257 hrs 58 mins
-🎮 OVR Toolkit                      🕘 2566 hrs 37 mins
-🎮 OVR Advanced Settings            🕘 2233 hrs 9 mins
-🔫 Counter-Strike 2                 🕘 3636 hrs 56 mins
+🎮 VRChat                           🕘 2529 hrs 8 mins
+🎮 SteamVR                          🕘 4262 hrs 15 mins
+🎮 OVR Toolkit                      🕘 2570 hrs 53 mins
+🎮 OVR Advanced Settings            🕘 2237 hrs 25 mins
+❓ Unknown Game                     🕘 388 hrs 30 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
