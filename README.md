@@ -48,11 +48,11 @@ Blender    🕓 8m    🌘🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 VRChat                           🕘 2571 hrs 8 mins
+🎮 VRChat                           🕘 2572 hrs 14 mins
 🎮 SteamVR                          🕘 4296 hrs 50 mins
 🎮 OVR Toolkit                      🕘 2605 hrs 19 mins
 🎮 OVR Advanced Settings            🕘 2271 hrs 43 mins
-❓ Unknown Game                     🕘 397 hrs 46 mins
+❓ Unknown Game                     🕘 405 hrs 55 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
