@@ -48,7 +48,7 @@ JSON       🕓 2m    🌚🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 VRChat                           🕘 2574 hrs 57 mins
+🎮 VRChat                           🕘 2575 hrs 27 mins
 ❓ Unknown Game                     🕘 405 hrs 55 mins
 🎮 Eastward                         🕘 56 hrs 56 mins
 🎮 SteamVR                          🕘 4296 hrs 50 mins
