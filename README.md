@@ -48,11 +48,11 @@ JSON       🕓 2m    🌚🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 VRChat                           🕘 2575 hrs 27 mins
 ❓ Unknown Game                     🕘 405 hrs 55 mins
 🎮 Eastward                         🕘 56 hrs 56 mins
+🎮 VRChat                           🕘 2575 hrs 27 mins
+🎮 Astral Party                     🕘 7 hrs 27 mins
 🎮 SteamVR                          🕘 4296 hrs 50 mins
-🎮 OVR Toolkit                      🕘 2605 hrs 19 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
