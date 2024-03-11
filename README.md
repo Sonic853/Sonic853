@@ -52,7 +52,7 @@ JSON       🕓 2m    🌚🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 🎮 Eastward                         🕘 56 hrs 56 mins
 🎮 VRChat                           🕘 2575 hrs 27 mins
 🎮 Astral Party                     🕘 7 hrs 27 mins
-🎮 SteamVR                          🕘 4296 hrs 50 mins
+🎮 VVVVVV                           🕘 4 hrs 41 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
