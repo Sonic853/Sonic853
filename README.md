@@ -47,9 +47,9 @@ XML        🕓 0s    🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-❓ Unknown Game                     🕘 405 hrs 55 mins
 🎮 Eastward                         🕘 56 hrs 56 mins
-🎮 VRChat                           🕘 2575 hrs 27 mins
+❓ Unknown Game                     🕘 405 hrs 55 mins
+🎮 VRChat                           🕘 2578 hrs 5 mins
 🎮 Astral Party                     🕘 7 hrs 27 mins
 🎮 VVVVVV                           🕘 4 hrs 41 mins
 ```
