@@ -47,10 +47,10 @@ XML        🕓 0s    🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 Eastward                         🕘 58 hrs 38 mins
-🎮 VRChat                           🕘 2578 hrs 55 mins
+🎮 Eastward                         🕘 61 hrs 9 mins
+🎮 VRChat                           🕘 2582 hrs 13 mins
 ❓ Unknown Game                     🕘 405 hrs 55 mins
-🎮 Astral Party                     🕘 7 hrs 27 mins
+🎮 Astral Party                     🕘 7 hrs 33 mins
 🎮 VVVVVV                           🕘 4 hrs 41 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
