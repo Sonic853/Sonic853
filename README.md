@@ -48,10 +48,10 @@ XML        🕓 0s    🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 🎮 Recently played Steam games
 ```text
 🎮 Eastward                         🕘 61 hrs 9 mins
-🎮 VRChat                           🕘 2582 hrs 13 mins
+🎮 VRChat                           🕘 2582 hrs 29 mins
 ❓ Unknown Game                     🕘 405 hrs 55 mins
-🎮 Astral Party                     🕘 7 hrs 33 mins
-🎮 VVVVVV                           🕘 4 hrs 41 mins
+🎮 Astral Party                     🕘 8 hrs 30 mins
+🎮 Command & Conquer: Red Alert™ 2 and Yuri’s Revenge™ 🕘 0 hrs 47 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
