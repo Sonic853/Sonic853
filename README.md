@@ -45,10 +45,10 @@ Vue.js 🕓 57m 🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕
 🎮 Recently played Steam games
 ```text
 🎮 Eastward                         🕘 61 hrs 9 mins
-🎮 VRChat                           🕘 2584 hrs 42 mins
-🎮 Astral Party                     🕘 8 hrs 30 mins
-🎮 Command & Conquer: Red Alert™ 2 and Yuri’s Revenge™ 🕘 0 hrs 47 mins
-🔫 Counter-Strike 2                 🕘 3637 hrs 41 mins
+🎮 VRChat                           🕘 2589 hrs 28 mins
+🎮 SteamVR                          🕘 4301 hrs 50 mins
+🎮 OVR Toolkit                      🕘 2610 hrs 15 mins
+🎮 OVR Advanced Settings            🕘 2276 hrs 39 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
