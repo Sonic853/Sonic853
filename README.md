@@ -46,7 +46,7 @@ JSON       🕓 46m  🌕🌕🌕🌖🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 VRChat                           🕘 2589 hrs 31 mins
+🎮 VRChat                           🕘 2590 hrs 50 mins
 🎮 Eastward                         🕘 61 hrs 9 mins
 🎮 SteamVR                          🕘 4301 hrs 50 mins
 🎮 OVR Toolkit                      🕘 2610 hrs 15 mins
