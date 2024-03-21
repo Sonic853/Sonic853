@@ -48,11 +48,11 @@ Other       🕓 0s     🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 VRChat                           🕘 2590 hrs 50 mins
-🎮 Eastward                         🕘 61 hrs 9 mins
+🎮 VRChat                           🕘 2591 hrs 22 mins
 🎮 SteamVR                          🕘 4301 hrs 50 mins
 🎮 OVR Toolkit                      🕘 2610 hrs 15 mins
 🎮 OVR Advanced Settings            🕘 2276 hrs 39 mins
+🎮 Astral Party                     🕘 12 hrs 4 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
