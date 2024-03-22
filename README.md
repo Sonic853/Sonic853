@@ -48,11 +48,11 @@ Image (svg) 🕓 0s     🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 VRChat                           🕘 2591 hrs 22 mins
+🎮 VRChat                           🕘 2592 hrs 1 mins
 🎮 SteamVR                          🕘 4301 hrs 50 mins
 🎮 OVR Toolkit                      🕘 2610 hrs 15 mins
 🎮 OVR Advanced Settings            🕘 2276 hrs 39 mins
-🎮 Astral Party                     🕘 12 hrs 4 mins
+🔫 Counter-Strike 2                 🕘 3641 hrs 48 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
