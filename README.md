@@ -48,11 +48,11 @@ Other      🕓 2m    🌚🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 VRChat                           🕘 2593 hrs 7 mins
+🎮 VRChat                           🕘 2593 hrs 45 mins
+🎮 Astral Party                     🕘 13 hrs 49 mins
 🎮 SteamVR                          🕘 4301 hrs 50 mins
+🔫 Counter-Strike 2                 🕘 3641 hrs 53 mins
 🎮 OVR Toolkit                      🕘 2610 hrs 15 mins
-🎮 OVR Advanced Settings            🕘 2276 hrs 39 mins
-🔫 Counter-Strike 2                 🕘 3641 hrs 51 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
