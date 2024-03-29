@@ -48,7 +48,7 @@ Other      🕓 2m  🌖🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 Astral Party                     🕘 19 hrs 47 mins
+🎮 Astral Party                     🕘 21 hrs 3 mins
 🎮 VRChat                           🕘 2593 hrs 45 mins
 🎮 SteamVR                          🕘 4301 hrs 50 mins
 🔫 Counter-Strike 2                 🕘 3641 hrs 53 mins
