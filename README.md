@@ -51,8 +51,8 @@ Other      🕓 2m  🌖🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑
 🎮 Astral Party                     🕘 21 hrs 3 mins
 🎮 VRChat                           🕘 2593 hrs 45 mins
 🎮 SteamVR                          🕘 4301 hrs 50 mins
-🔫 Counter-Strike 2                 🕘 3641 hrs 53 mins
 🎮 OVR Toolkit                      🕘 2610 hrs 15 mins
+🎮 OVR Advanced Settings            🕘 2276 hrs 39 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
