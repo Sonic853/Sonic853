@@ -48,11 +48,11 @@ JavaScript 🕓 2m  🌖🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 Astral Party                     🕘 21 hrs 3 mins
-🎮 VRChat                           🕘 2593 hrs 45 mins
-🎮 SteamVR                          🕘 4301 hrs 50 mins
-🎮 OVR Toolkit                      🕘 2610 hrs 15 mins
-🎮 OVR Advanced Settings            🕘 2276 hrs 39 mins
+🎮 Astral Party                     🕘 22 hrs 24 mins
+🎮 VRChat                           🕘 2594 hrs 23 mins
+🔫 Counter-Strike 2                 🕘 3641 hrs 56 mins
+🎮 Richman 11                       🕘 0 hrs 56 mins
+🎮 Touhou Ibunseki - Ayaria Dawn: ReCreation 🕘 4 hrs 55 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
