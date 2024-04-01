@@ -51,8 +51,8 @@ JavaScript 🕓 2m  🌖🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑
 🎮 Astral Party                     🕘 22 hrs 24 mins
 🎮 VRChat                           🕘 2594 hrs 23 mins
 🔫 Counter-Strike 2                 🕘 3641 hrs 56 mins
-🎮 Richman 11                       🕘 0 hrs 56 mins
-🎮 Touhou Ibunseki - Ayaria Dawn: ReCreation 🕘 4 hrs 55 mins
+🎮 BattleBit Remastered             🕘 59 hrs 12 mins
+🎮 Command & Conquer: Red Alert™ 2 and Yuri’s Revenge™ 🕘 1 hrs 48 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
