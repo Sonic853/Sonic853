@@ -45,11 +45,11 @@ Other  🕓 15m   🌕🌕🌕🌕🌖🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 Astral Party                     🕘 22 hrs 24 mins
+🎮 Astral Party                     🕘 26 hrs 9 mins
+🎮 Command & Conquer: Red Alert™ 2 and Yuri’s Revenge™ 🕘 4 hrs 51 mins
 🎮 VRChat                           🕘 2594 hrs 23 mins
-🔫 Counter-Strike 2                 🕘 3641 hrs 56 mins
-🎮 BattleBit Remastered             🕘 59 hrs 12 mins
-🎮 Command & Conquer: Red Alert™ 2 and Yuri’s Revenge™ 🕘 1 hrs 48 mins
+🔫 Counter-Strike 2                 🕘 3642 hrs 0 mins
+🎮 A Way Out                        🕘 2 hrs 16 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
