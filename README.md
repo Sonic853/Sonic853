@@ -46,10 +46,10 @@ Other  🕓 15m   🌕🌕🌕🌕🌖🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 🎮 Recently played Steam games
 ```text
 🎮 Astral Party                     🕘 26 hrs 9 mins
+🎮 A Way Out                        🕘 5 hrs 27 mins
 🎮 Command & Conquer: Red Alert™ 2 and Yuri’s Revenge™ 🕘 4 hrs 51 mins
 🎮 VRChat                           🕘 2594 hrs 23 mins
 🔫 Counter-Strike 2                 🕘 3642 hrs 0 mins
-🎮 A Way Out                        🕘 2 hrs 16 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
