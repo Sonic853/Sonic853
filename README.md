@@ -48,7 +48,7 @@ XML         🕓 33m    🌖🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 Astral Party                     🕘 32 hrs 34 mins
+🎮 Astral Party                     🕘 39 hrs 33 mins
 ❓ Unknown Game                     🕘 422 hrs 32 mins
 🎮 Command & Conquer: Red Alert™ 2 and Yuri’s Revenge™ 🕘 10 hrs 1 mins
 🎮 VRChat                           🕘 2601 hrs 22 mins
