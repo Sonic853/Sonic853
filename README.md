@@ -48,11 +48,11 @@ TypeScript 🕓 31m   🌝🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 Astral Party                     🕘 39 hrs 33 mins
+🎮 Astral Party                     🕘 39 hrs 41 mins
 ❓ Unknown Game                     🕘 422 hrs 32 mins
 🎮 Command & Conquer: Red Alert™ 2 and Yuri’s Revenge™ 🕘 10 hrs 1 mins
 🎮 VRChat                           🕘 2601 hrs 22 mins
-🎮 A Way Out                        🕘 5 hrs 27 mins
+🎮 Buckshot Roulette                🕘 5 hrs 25 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
