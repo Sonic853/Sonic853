@@ -50,8 +50,8 @@ Git Config 🕓 28m   🌕🌚🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 ```text
 🎮 Astral Party                     🕘 42 hrs 26 mins
 ❓ Unknown Game                     🕘 422 hrs 32 mins
+🎮 VRChat                           🕘 2603 hrs 18 mins
 🎮 Command & Conquer: Red Alert™ 2 and Yuri’s Revenge™ 🕘 10 hrs 1 mins
-🎮 VRChat                           🕘 2601 hrs 31 mins
 🎮 Buckshot Roulette                🕘 5 hrs 25 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
