@@ -49,9 +49,9 @@ Git Config 🕓 28m   🌕🌚🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 🎮 Recently played Steam games
 ```text
 🎮 Astral Party                     🕘 42 hrs 26 mins
-❓ Unknown Game                     🕘 422 hrs 32 mins
-🎮 Command & Conquer: Red Alert™ 2 and Yuri’s Revenge™ 🕘 10 hrs 1 mins
+❓ Unknown Game                     🕘 424 hrs 44 mins
 🎮 VRChat                           🕘 2603 hrs 18 mins
+🎮 Command & Conquer: Red Alert™ 2 and Yuri’s Revenge™ 🕘 10 hrs 1 mins
 🎮 Buckshot Roulette                🕘 5 hrs 25 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
