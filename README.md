@@ -48,10 +48,10 @@ Less       🕓 0s    🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 Astral Party                     🕘 42 hrs 26 mins
 ❓ Unknown Game                     🕘 424 hrs 44 mins
-🎮 VRChat                           🕘 2603 hrs 18 mins
-🎮 Command & Conquer: Red Alert™ 2 and Yuri’s Revenge™ 🕘 10 hrs 1 mins
+🎮 Astral Party                     🕘 42 hrs 26 mins
+🎮 VRChat                           🕘 2605 hrs 19 mins
+🎮 Volcano Princess                 🕘 6 hrs 40 mins
 🎮 Buckshot Roulette                🕘 5 hrs 25 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
