@@ -48,9 +48,9 @@ Less       🕓 0s    🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-❓ Unknown Game                     🕘 424 hrs 44 mins
+❓ Unknown Game                     🕘 427 hrs 15 mins
 🎮 Astral Party                     🕘 42 hrs 26 mins
-🎮 VRChat                           🕘 2605 hrs 19 mins
+🎮 VRChat                           🕘 2606 hrs 50 mins
 🎮 Volcano Princess                 🕘 6 hrs 40 mins
 🎮 Buckshot Roulette                🕘 5 hrs 25 mins
 ```
