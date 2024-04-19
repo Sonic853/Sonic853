@@ -48,11 +48,11 @@ Blender    🕓 11m   🌗🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-❓ Unknown Game                     🕘 427 hrs 15 mins
 🎮 Astral Party                     🕘 42 hrs 26 mins
-🎮 VRChat                           🕘 2606 hrs 50 mins
+🎮 VRChat                           🕘 2609 hrs 45 mins
+❓ Unknown Game                     🕘 427 hrs 15 mins
 🎮 Volcano Princess                 🕘 6 hrs 40 mins
-🎮 Buckshot Roulette                🕘 5 hrs 25 mins
+🔫 Counter-Strike 2                 🕘 3646 hrs 33 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
