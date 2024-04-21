@@ -48,8 +48,8 @@ JSON       🕓 26m   🌖🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 Astral Party                     🕘 42 hrs 26 mins
-🎮 VRChat                           🕘 2609 hrs 45 mins
+🎮 VRChat                           🕘 2612 hrs 10 mins
+🎮 Astral Party                     🕘 42 hrs 58 mins
 ❓ Unknown Game                     🕘 427 hrs 15 mins
 🎮 Volcano Princess                 🕘 6 hrs 40 mins
 🔫 Counter-Strike 2                 🕘 3646 hrs 33 mins
