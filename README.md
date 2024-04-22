@@ -48,9 +48,9 @@ PHP        🕓 32m   🌖🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 VRChat                           🕘 2612 hrs 10 mins
+🎮 VRChat                           🕘 2612 hrs 25 mins
 🎮 Astral Party                     🕘 42 hrs 58 mins
-❓ Unknown Game                     🕘 427 hrs 15 mins
+❓ Unknown Game                     🕘 430 hrs 51 mins
 🎮 Volcano Princess                 🕘 6 hrs 40 mins
 🔫 Counter-Strike 2                 🕘 3646 hrs 33 mins
 ```
