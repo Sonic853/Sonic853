@@ -50,9 +50,9 @@ JavaScript 🕓 0s    🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 ```text
 🎮 VRChat                           🕘 2612 hrs 25 mins
 ❓ Unknown Game                     🕘 430 hrs 51 mins
-🎮 Volcano Princess                 🕘 6 hrs 40 mins
+🎮 Warriors of the Nile             🕘 1 hrs 36 mins
 🎮 Astral Party                     🕘 43 hrs 58 mins
-🔫 Counter-Strike 2                 🕘 3646 hrs 33 mins
+🎮 Warriors of the Nile 2           🕘 1 hrs 3 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
