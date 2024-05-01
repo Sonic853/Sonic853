@@ -48,11 +48,11 @@ JavaScript 🕓 0s    🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
+🎮 Warriors of the Nile             🕘 5 hrs 50 mins
 🎮 VRChat                           🕘 2612 hrs 25 mins
 ❓ Unknown Game                     🕘 430 hrs 51 mins
-🎮 Warriors of the Nile             🕘 1 hrs 36 mins
 🎮 Astral Party                     🕘 43 hrs 58 mins
-🎮 Warriors of the Nile 2           🕘 1 hrs 3 mins
+🎮 Warriors of the Nile 2           🕘 1 hrs 14 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
