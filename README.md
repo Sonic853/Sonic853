@@ -48,8 +48,8 @@ JavaScript 🕓 0s    🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 🎮 Recently played Steam games
 ```text
 🎮 Warriors of the Nile             🕘 9 hrs 56 mins
-🎮 VRChat                           🕘 2612 hrs 45 mins
 ❓ Unknown Game                     🕘 430 hrs 51 mins
+🎮 VRChat                           🕘 2612 hrs 45 mins
 🎮 Astral Party                     🕘 43 hrs 58 mins
 🎮 Warriors of the Nile 2           🕘 1 hrs 14 mins
 ```
