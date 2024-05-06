@@ -49,9 +49,9 @@ JavaScript 🕓 0s    🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 ```text
 🎮 Warriors of the Nile 2           🕘 12 hrs 33 mins
 🎮 Warriors of the Nile             🕘 9 hrs 56 mins
-❓ Unknown Game                     🕘 430 hrs 51 mins
 🔫 Counter-Strike 2                 🕘 3648 hrs 53 mins
 🎮 Astral Party                     🕘 43 hrs 58 mins
+🎮 VRChat                           🕘 2612 hrs 45 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
