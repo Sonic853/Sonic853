@@ -44,11 +44,11 @@ Vue.js 🕓 1h27m 🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 Warriors of the Nile 2           🕘 12 hrs 33 mins
-🎮 Warriors of the Nile             🕘 9 hrs 56 mins
+🎮 Warriors of the Nile 2           🕘 12 hrs 57 mins
+🎮 Warriors of the Nile             🕘 9 hrs 59 mins
+🎮 VRChat                           🕘 2615 hrs 16 mins
 🔫 Counter-Strike 2                 🕘 3648 hrs 53 mins
-🎮 VRChat                           🕘 2613 hrs 40 mins
-🎮 Astral Party                     🕘 43 hrs 58 mins
+🎮 Astral Party                     🕘 45 hrs 21 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
