@@ -48,7 +48,7 @@ Vue.js 🕓 1h27m 🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕�
 🎮 Warriors of the Nile             🕘 9 hrs 59 mins
 🎮 VRChat                           🕘 2615 hrs 16 mins
 🔫 Counter-Strike 2                 🕘 3648 hrs 53 mins
-🎮 Astral Party                     🕘 45 hrs 21 mins
+🎮 Astral Party                     🕘 45 hrs 22 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
