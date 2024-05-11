@@ -46,9 +46,9 @@ Still Gathering Statistics...
 ```text
 🎮 Warriors of the Nile 2           🕘 12 hrs 57 mins
 🎮 Warriors of the Nile             🕘 9 hrs 59 mins
-🎮 VRChat                           🕘 2615 hrs 16 mins
+🎮 VRChat                           🕘 2616 hrs 16 mins
+🎮 Astral Party                     🕘 46 hrs 34 mins
 🔫 Counter-Strike 2                 🕘 3648 hrs 53 mins
-🎮 Astral Party                     🕘 45 hrs 22 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
