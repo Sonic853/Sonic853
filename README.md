@@ -48,7 +48,7 @@ Blender 🕓 39m 🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌝🌑�
 🎮 Warriors of the Nile 2           🕘 12 hrs 57 mins
 🎮 Warriors of the Nile             🕘 9 hrs 59 mins
 🎮 VRChat                           🕘 2616 hrs 16 mins
-🎮 Astral Party                     🕘 46 hrs 34 mins
+🎮 Astral Party                     🕘 46 hrs 41 mins
 🔫 Counter-Strike 2                 🕘 3648 hrs 53 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
