@@ -46,10 +46,10 @@ Blender 🕓 39m 🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌝🌑�
 🎮 Recently played Steam games
 ```text
 🎮 Warriors of the Nile 2           🕘 12 hrs 57 mins
-🎮 Warriors of the Nile             🕘 9 hrs 59 mins
 🎮 VRChat                           🕘 2616 hrs 16 mins
-🎮 Astral Party                     🕘 46 hrs 41 mins
+🎮 Astral Party                     🕘 47 hrs 17 mins
 🔫 Counter-Strike 2                 🕘 3648 hrs 53 mins
+❓ Unknown Game                     🕘 431 hrs 18 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
