@@ -49,8 +49,8 @@ JSON       🕓 1m    🌚🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 🎮 Recently played Steam games
 ```text
 🎮 Warriors of the Nile 2           🕘 12 hrs 57 mins
-🎮 VRChat                           🕘 2616 hrs 16 mins
-🎮 Astral Party                     🕘 47 hrs 17 mins
+🎮 VRChat                           🕘 2617 hrs 34 mins
+🎮 Astral Party                     🕘 47 hrs 18 mins
 🔫 Counter-Strike 2                 🕘 3648 hrs 53 mins
 ❓ Unknown Game                     🕘 431 hrs 18 mins
 ```
