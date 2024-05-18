@@ -48,11 +48,11 @@ JSON       🕓 1m    🌚🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 Warriors of the Nile 2           🕘 12 hrs 57 mins
 🎮 VRChat                           🕘 2617 hrs 34 mins
-🎮 Astral Party                     🕘 47 hrs 18 mins
+🎮 Astral Party                     🕘 47 hrs 26 mins
 🔫 Counter-Strike 2                 🕘 3648 hrs 53 mins
 ❓ Unknown Game                     🕘 431 hrs 18 mins
+🎮 Warriors of the Nile 2           🕘 12 hrs 59 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
