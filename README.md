@@ -50,9 +50,9 @@ Markdown        🕓 5m  🌖🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 ```text
 🎮 VRChat                           🕘 2619 hrs 45 mins
 🎮 Astral Party                     🕘 47 hrs 27 mins
+🎮 Forza Horizon 5                  🕘 11 hrs 3 mins
 🎮 Phoenix Wright: Ace Attorney Trilogy 🕘 29 hrs 41 mins
-🎮 Forza Horizon 5                  🕘 10 hrs 49 mins
-🎮 Warriors of the Nile 2           🕘 12 hrs 59 mins
+🎮 Liu Shan Maker                   🕘 0 hrs 19 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
