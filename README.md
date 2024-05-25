@@ -48,11 +48,11 @@ JSON            🕓 1m    🌚🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
+🎮 VTube Studio                     🕘 13 hrs 10 mins
 🎮 VRChat                           🕘 2619 hrs 45 mins
+🔫 Counter-Strike 2                 🕘 3651 hrs 23 mins
+🎮 Forza Horizon 5                  🕘 11 hrs 19 mins
 🎮 Astral Party                     🕘 47 hrs 27 mins
-🎮 Forza Horizon 5                  🕘 11 hrs 3 mins
-🎮 Phoenix Wright: Ace Attorney Trilogy 🕘 29 hrs 41 mins
-🎮 Liu Shan Maker                   🕘 0 hrs 19 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
