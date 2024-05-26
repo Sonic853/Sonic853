@@ -49,8 +49,8 @@ JSON            🕓 1m   🌚🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 🎮 Recently played Steam games
 ```text
 🎮 VTube Studio                     🕘 13 hrs 10 mins
-🎮 VRChat                           🕘 2619 hrs 45 mins
-🔫 Counter-Strike 2                 🕘 3651 hrs 23 mins
+🔫 Counter-Strike 2                 🕘 3654 hrs 17 mins
+🎮 VRChat                           🕘 2621 hrs 1 mins
 🎮 Forza Horizon 5                  🕘 11 hrs 19 mins
 🎮 Astral Party                     🕘 47 hrs 27 mins
 ```
