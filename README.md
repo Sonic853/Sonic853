@@ -48,9 +48,9 @@ TypeScript      🕓 1h1m   🌝🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 VTube Studio                     🕘 13 hrs 10 mins
-🔫 Counter-Strike 2                 🕘 3654 hrs 17 mins
-🎮 VRChat                           🕘 2621 hrs 1 mins
+🎮 VTube Studio                     🕘 18 hrs 50 mins
+🎮 VRChat                           🕘 2621 hrs 56 mins
+🔫 Counter-Strike 2                 🕘 3654 hrs 32 mins
 🎮 Forza Horizon 5                  🕘 11 hrs 19 mins
 🎮 Astral Party                     🕘 47 hrs 27 mins
 ```
