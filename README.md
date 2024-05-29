@@ -51,8 +51,8 @@ JSON       🕓 1h15m  🌕🌘🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 🎮 VTube Studio                     🕘 21 hrs 14 mins
 🎮 VRChat                           🕘 2622 hrs 19 mins
 🔫 Counter-Strike 2                 🕘 3654 hrs 34 mins
+❓ Unknown Game                     🕘 2 hrs 5 mins
 🎮 Forza Horizon 5                  🕘 11 hrs 19 mins
-🎮 Astral Party                     🕘 47 hrs 27 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
