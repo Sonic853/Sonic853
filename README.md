@@ -49,9 +49,9 @@ Text       🕓 1h25m  🌕🌘🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 🎮 Recently played Steam games
 ```text
 🎮 VTube Studio                     🕘 21 hrs 14 mins
+🔫 Counter-Strike 2                 🕘 3655 hrs 35 mins
 🎮 VRChat                           🕘 2622 hrs 19 mins
-🔫 Counter-Strike 2                 🕘 3654 hrs 34 mins
-❓ Unknown Game                     🕘 2 hrs 5 mins
+❓ Unknown Game                     🕘 3 hrs 31 mins
 🎮 Forza Horizon 5                  🕘 11 hrs 19 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
