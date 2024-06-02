@@ -49,9 +49,9 @@ Vue.js     🕓 1h19m 🌕🌗🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 🎮 Recently played Steam games
 ```text
 🎮 VTube Studio                     🕘 21 hrs 14 mins
+❓ Unknown Game                     🕘 6 hrs 54 mins
 🔫 Counter-Strike 2                 🕘 3655 hrs 35 mins
 🎮 VRChat                           🕘 2622 hrs 19 mins
-❓ Unknown Game                     🕘 4 hrs 16 mins
 🎮 Forza Horizon 5                  🕘 11 hrs 19 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
