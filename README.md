@@ -49,7 +49,7 @@ INI        🕓 11m   🌖🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 🎮 Recently played Steam games
 ```text
 🎮 VTube Studio                     🕘 21 hrs 14 mins
-❓ Unknown Game                     🕘 6 hrs 54 mins
+❓ Unknown Game                     🕘 7 hrs 0 mins
 🔫 Counter-Strike 2                 🕘 3655 hrs 35 mins
 🎮 VRChat                           🕘 2622 hrs 19 mins
 🎮 Forza Horizon 5                  🕘 11 hrs 19 mins
