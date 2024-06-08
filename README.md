@@ -52,7 +52,7 @@ INI        🕓 7m    🌗🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 ❓ Unknown Game                     🕘 7 hrs 0 mins
 🔫 Counter-Strike 2                 🕘 3655 hrs 35 mins
 🎮 VRChat                           🕘 2622 hrs 19 mins
-🎮 Hades                            🕘 0 hrs 28 mins
+🎮 Party Animals                    🕘 40 hrs 47 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
