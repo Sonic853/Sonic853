@@ -48,10 +48,10 @@ INI        🕓 7m    🌘🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 VTube Studio                     🕘 21 hrs 14 mins
 ❓ Unknown Game                     🕘 7 hrs 0 mins
-🎮 VRChat                           🕘 2622 hrs 19 mins
+🎮 VTube Studio                     🕘 21 hrs 14 mins
 🔫 Counter-Strike 2                 🕘 3655 hrs 35 mins
+🎮 VRChat                           🕘 2622 hrs 19 mins
 🎮 Party Animals                    🕘 40 hrs 47 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
