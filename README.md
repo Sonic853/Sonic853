@@ -49,10 +49,9 @@ INI        🕓 7m    🌘🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 🎮 Recently played Steam games
 ```text
 ❓ Unknown Game                     🕘 7 hrs 0 mins
-🎮 VTube Studio                     🕘 21 hrs 14 mins
 🔫 Counter-Strike 2                 🕘 3655 hrs 35 mins
-🎮 VRChat                           🕘 2622 hrs 19 mins
 🎮 Party Animals                    🕘 40 hrs 47 mins
+❓ Unknown Game                     🕘 431 hrs 29 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
