@@ -49,9 +49,7 @@ Blender    🕓 6m    🌘🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 🎮 Recently played Steam games
 ```text
 ❓ Unknown Game                     🕘 7 hrs 0 mins
-🎮 VTube Studio                     🕘 23 hrs 9 mins
-🔫 Counter-Strike 2                 🕘 3655 hrs 35 mins
-🎮 Party Animals                    🕘 40 hrs 47 mins
+🎮 VTube Studio                     🕘 23 hrs 19 mins
 ❓ Unknown Game                     🕘 431 hrs 29 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
