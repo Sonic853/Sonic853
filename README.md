@@ -47,6 +47,7 @@ Vue.js  🕓 9m    🌕🌕🌗🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 🎮 Recently played Steam games
 ```text
 🎮 VTube Studio                     🕘 23 hrs 19 mins
+🎮 The Murder of Sonic the Hedgehog 🕘 6 hrs 1 mins
 ❓ Unknown Game                     🕘 431 hrs 29 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
