@@ -46,8 +46,6 @@ Blender 🕓 16m 🌕🌕🌕🌕🌕🌕🌕🌕🌖🌑🌑🌑🌑🌑🌑�
 🎮 Recently played Steam games
 ```text
 ❓ Unknown Game                     🕘 431 hrs 56 mins
-🎮 The Murder of Sonic the Hedgehog 🕘 6 hrs 5 mins
-🎮 VTube Studio                     🕘 23 hrs 22 mins
 🎮 MyDockFinder                     🕘 0 hrs 1 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
