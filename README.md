@@ -48,11 +48,11 @@ JavaScript  🕓 1m    🌚🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 OVR Toolkit                      🕘 2622 hrs 21 mins
-🎮 SteamVR                          🕘 4313 hrs 2 mins
-🎮 OVR Advanced Settings            🕘 2287 hrs 43 mins
+🎮 OVR Toolkit                      🕘 2622 hrs 34 mins
+🎮 SteamVR                          🕘 4313 hrs 16 mins
+🎮 OVR Advanced Settings            🕘 2287 hrs 55 mins
 🎮 VRChat                           🕘 2627 hrs 59 mins
-🎮 Euro Truck Simulator 2           🕘 72 hrs 1 mins
+🎮 Euro Truck Simulator 2           🕘 72 hrs 10 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
