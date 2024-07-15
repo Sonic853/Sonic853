@@ -50,7 +50,7 @@ JavaScript  🕓 1m  🌗🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 🎮 OVR Toolkit                      🕘 2625 hrs 59 mins
 🎮 SteamVR                          🕘 4315 hrs 16 mins
 🎮 OVR Advanced Settings            🕘 2289 hrs 56 mins
-🎮 VRChat                           🕘 2629 hrs 52 mins
+🎮 VRChat                           🕘 2631 hrs 48 mins
 🎮 Euro Truck Simulator 2           🕘 72 hrs 10 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
