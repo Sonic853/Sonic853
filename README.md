@@ -48,10 +48,10 @@ YAML        🕓 3m     🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 OVR Toolkit                      🕘 2646 hrs 45 mins
-🎮 SteamVR                          🕘 4334 hrs 57 mins
-🎮 OVR Advanced Settings            🕘 2309 hrs 34 mins
-🎮 VRChat                           🕘 2650 hrs 13 mins
+🎮 OVR Toolkit                      🕘 2652 hrs 38 mins
+🎮 SteamVR                          🕘 4340 hrs 48 mins
+🎮 OVR Advanced Settings            🕘 2315 hrs 25 mins
+🎮 VRChat                           🕘 2655 hrs 33 mins
 🎮 Euro Truck Simulator 2           🕘 72 hrs 10 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
