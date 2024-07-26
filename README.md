@@ -48,11 +48,11 @@ TypeScript 🕓 0s   🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 OVR Toolkit                      🕘 2658 hrs 50 mins
-🎮 SteamVR                          🕘 4347 hrs 1 mins
-🎮 OVR Advanced Settings            🕘 2321 hrs 37 mins
-🎮 VRChat                           🕘 2661 hrs 25 mins
-🎮 Elevator Action™ -Returns- S-Tribute 🕘 1 hrs 27 mins
+🎮 OVR Toolkit                      🕘 2662 hrs 38 mins
+🎮 SteamVR                          🕘 4350 hrs 40 mins
+🎮 OVR Advanced Settings            🕘 2325 hrs 15 mins
+🎮 VRChat                           🕘 2664 hrs 54 mins
+🎮 Spacewar                         🕘 3 hrs 1 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
