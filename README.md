@@ -50,7 +50,7 @@ SSH Config 🕓 2m     🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 🎮 SteamVR                          🕘 4351 hrs 57 mins
 🎮 OVR Advanced Settings            🕘 2326 hrs 32 mins
 🎮 VRChat                           🕘 2665 hrs 58 mins
-🎮 Spacewar                         🕘 3 hrs 1 mins
+🎮 Warhammer: Vermintide 2          🕘 2 hrs 17 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
