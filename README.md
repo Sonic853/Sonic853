@@ -47,10 +47,10 @@ SSH Config 🕓 2m    🌚🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 OVR Toolkit                      🕘 2664 hrs 8 mins
-🎮 SteamVR                          🕘 4351 hrs 57 mins
-🎮 OVR Advanced Settings            🕘 2326 hrs 32 mins
-🎮 VRChat                           🕘 2665 hrs 58 mins
+🎮 OVR Toolkit                      🕘 2666 hrs 27 mins
+🎮 SteamVR                          🕘 4354 hrs 16 mins
+🎮 OVR Advanced Settings            🕘 2328 hrs 51 mins
+🎮 VRChat                           🕘 2668 hrs 12 mins
 🎮 Warhammer: Vermintide 2          🕘 2 hrs 17 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
