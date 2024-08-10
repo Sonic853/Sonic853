@@ -48,10 +48,10 @@ JSON    🕓 9m    🌖🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 OVR Toolkit                      🕘 2715 hrs 13 mins
-🎮 SteamVR                          🕘 4381 hrs 35 mins
-🎮 OVR Advanced Settings            🕘 2356 hrs 8 mins
-🎮 VRChat                           🕘 2693 hrs 15 mins
+🎮 OVR Toolkit                      🕘 2716 hrs 11 mins
+🎮 SteamVR                          🕘 4384 hrs 57 mins
+🎮 OVR Advanced Settings            🕘 2359 hrs 28 mins
+🎮 VRChat                           🕘 2696 hrs 24 mins
 🎮 彷徨之街 The Street of Adrift    🕘 4 hrs 21 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
