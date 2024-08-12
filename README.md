@@ -48,10 +48,10 @@ YAML       🕓 34m   🌕🌘🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 OVR Toolkit                      🕘 2719 hrs 40 mins
-🎮 SteamVR                          🕘 4388 hrs 26 mins
-🎮 OVR Advanced Settings            🕘 2362 hrs 57 mins
-🎮 VRChat                           🕘 2699 hrs 41 mins
+🎮 OVR Toolkit                      🕘 2723 hrs 37 mins
+🎮 SteamVR                          🕘 4391 hrs 48 mins
+🎮 OVR Advanced Settings            🕘 2366 hrs 18 mins
+🎮 VRChat                           🕘 2703 hrs 10 mins
 🎮 彷徨之街 The Street of Adrift    🕘 4 hrs 21 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
