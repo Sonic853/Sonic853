@@ -48,10 +48,10 @@ YAML       🕓 1h25m 🌕🌖🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 OVR Toolkit                      🕘 2733 hrs 15 mins
-🎮 SteamVR                          🕘 4401 hrs 2 mins
-🎮 OVR Advanced Settings            🕘 2375 hrs 31 mins
-🎮 VRChat                           🕘 2707 hrs 18 mins
+🎮 OVR Toolkit                      🕘 2735 hrs 25 mins
+🎮 SteamVR                          🕘 4403 hrs 12 mins
+🎮 OVR Advanced Settings            🕘 2377 hrs 40 mins
+🎮 VRChat                           🕘 2709 hrs 22 mins
 🎮 Into the Radius 2                🕘 4 hrs 41 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
