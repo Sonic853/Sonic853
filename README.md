@@ -48,10 +48,10 @@ Other      🕓 1h6m   🌝🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 OVR Toolkit                      🕘 2737 hrs 59 mins
-🎮 SteamVR                          🕘 4405 hrs 49 mins
-🎮 OVR Advanced Settings            🕘 2380 hrs 13 mins
-🎮 VRChat                           🕘 2711 hrs 55 mins
+🎮 OVR Toolkit                      🕘 2739 hrs 48 mins
+🎮 SteamVR                          🕘 4407 hrs 38 mins
+🎮 OVR Advanced Settings            🕘 2382 hrs 2 mins
+🎮 VRChat                           🕘 2713 hrs 42 mins
 🎮 Into the Radius 2                🕘 4 hrs 41 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
