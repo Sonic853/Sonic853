@@ -48,10 +48,10 @@ Blender    🕓 2h2m   🌕🌘🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 OVR Toolkit                      🕘 2746 hrs 25 mins
-🎮 SteamVR                          🕘 4412 hrs 22 mins
-🎮 OVR Advanced Settings            🕘 2386 hrs 45 mins
-🎮 VRChat                           🕘 2718 hrs 31 mins
+🎮 OVR Toolkit                      🕘 2746 hrs 39 mins
+🎮 VRChat                           🕘 2727 hrs 1 mins
+🎮 SteamVR                          🕘 4413 hrs 51 mins
+🎮 OVR Advanced Settings            🕘 2388 hrs 11 mins
 🎮 Into the Radius 2                🕘 4 hrs 41 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
