@@ -48,10 +48,10 @@ XML        🕓 1h40m  🌕🌚🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 OVR Toolkit                      🕘 2746 hrs 39 mins
-🎮 VRChat                           🕘 2727 hrs 1 mins
-🎮 SteamVR                          🕘 4413 hrs 51 mins
-🎮 OVR Advanced Settings            🕘 2388 hrs 11 mins
+🎮 OVR Toolkit                      🕘 2749 hrs 9 mins
+🎮 VRChat                           🕘 2730 hrs 35 mins
+🎮 SteamVR                          🕘 4416 hrs 12 mins
+🎮 OVR Advanced Settings            🕘 2390 hrs 31 mins
 🎮 Into the Radius 2                🕘 4 hrs 41 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
