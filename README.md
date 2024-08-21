@@ -48,11 +48,11 @@ XML        🕓 1h40m  🌕🌚🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 OVR Toolkit                      🕘 2749 hrs 9 mins
-🎮 VRChat                           🕘 2730 hrs 35 mins
-🎮 SteamVR                          🕘 4416 hrs 12 mins
-🎮 OVR Advanced Settings            🕘 2390 hrs 31 mins
-🎮 Into the Radius 2                🕘 4 hrs 41 mins
+🎮 VRChat                           🕘 2731 hrs 18 mins
+🎮 SteamVR                          🕘 4417 hrs 9 mins
+🎮 OVR Advanced Settings            🕘 2391 hrs 27 mins
+🎮 OVR Toolkit                      🕘 2750 hrs 6 mins
+🎮 Black Myth: Wukong               🕘 9 hrs 30 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
