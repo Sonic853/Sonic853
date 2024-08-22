@@ -52,7 +52,7 @@ XML        🕓 1h40m  🌕🌚🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 🎮 SteamVR                          🕘 4417 hrs 9 mins
 🎮 OVR Advanced Settings            🕘 2391 hrs 27 mins
 🎮 OVR Toolkit                      🕘 2750 hrs 6 mins
-🎮 Black Myth: Wukong               🕘 9 hrs 30 mins
+🎮 Black Myth: Wukong               🕘 16 hrs 36 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
