@@ -48,7 +48,7 @@ Java    🕓 54m   🌕🌕🌕🌖🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 Black Myth: Wukong               🕘 34 hrs 9 mins
+🎮 Black Myth: Wukong               🕘 38 hrs 49 mins
 🎮 VRChat                           🕘 2732 hrs 13 mins
 🎮 OVR Toolkit                      🕘 2752 hrs 56 mins
 🎮 SteamVR                          🕘 4419 hrs 56 mins
