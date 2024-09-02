@@ -48,11 +48,11 @@ XML     🕓 0s    🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 Black Myth: Wukong               🕘 41 hrs 22 mins
-🎮 VRChat                           🕘 2741 hrs 6 mins
-🎮 SteamVR                          🕘 4429 hrs 3 mins
-🎮 OVR Advanced Settings            🕘 2403 hrs 15 mins
-🎮 OVR Toolkit                      🕘 2762 hrs 29 mins
+🎮 Black Myth: Wukong               🕘 46 hrs 3 mins
+🎮 OVR Toolkit                      🕘 2766 hrs 10 mins
+🎮 SteamVR                          🕘 4432 hrs 12 mins
+🎮 OVR Advanced Settings            🕘 2406 hrs 22 mins
+🎮 VRChat                           🕘 2744 hrs 7 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
