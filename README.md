@@ -48,10 +48,10 @@ TypeScript 🕓 35m    🌘🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 OVR Toolkit                      🕘 2805 hrs 58 mins
-🎮 SteamVR                          🕘 4459 hrs 20 mins
-🎮 OVR Advanced Settings            🕘 2433 hrs 18 mins
-🎮 VRChat                           🕘 2764 hrs 45 mins
+🎮 OVR Toolkit                      🕘 2808 hrs 9 mins
+🎮 SteamVR                          🕘 4461 hrs 31 mins
+🎮 OVR Advanced Settings            🕘 2435 hrs 29 mins
+🎮 VRChat                           🕘 2766 hrs 27 mins
 🎮 Black Myth: Wukong               🕘 50 hrs 19 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
