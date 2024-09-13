@@ -48,10 +48,10 @@ Other      🕓 1h14m  🌗🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 OVR Toolkit                      🕘 2808 hrs 9 mins
-🎮 SteamVR                          🕘 4461 hrs 31 mins
-🎮 OVR Advanced Settings            🕘 2435 hrs 29 mins
-🎮 VRChat                           🕘 2766 hrs 27 mins
+🎮 OVR Toolkit                      🕘 2812 hrs 38 mins
+🎮 SteamVR                          🕘 4465 hrs 59 mins
+🎮 OVR Advanced Settings            🕘 2439 hrs 57 mins
+🎮 VRChat                           🕘 2770 hrs 54 mins
 🎮 Black Myth: Wukong               🕘 50 hrs 19 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
