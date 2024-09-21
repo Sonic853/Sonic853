@@ -48,10 +48,10 @@ C#       🕓 14m   🌖🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 OVR Toolkit                      🕘 2837 hrs 34 mins
-🎮 SteamVR                          🕘 4490 hrs 2 mins
-🎮 OVR Advanced Settings            🕘 2463 hrs 47 mins
-🎮 VRChat                           🕘 2793 hrs 19 mins
+🎮 OVR Toolkit                      🕘 2840 hrs 6 mins
+🎮 SteamVR                          🕘 4492 hrs 22 mins
+🎮 VRChat                           🕘 2795 hrs 22 mins
+🎮 OVR Advanced Settings            🕘 2466 hrs 6 mins
 🎮 Black Myth: Wukong               🕘 88 hrs 18 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
