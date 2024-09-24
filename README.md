@@ -25,7 +25,7 @@ A bad coder. And a bad life.
 
 ### Github Stats
 
-<a href="https://github.com/Sonic853"><img src="https://github-readme-stats.vercel.app/api?username=Sonic853&show_icons=true&count_private=true&hide_title=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" style="width: 58%; max-width: 58%; min-width: 58%;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonic853&count_private=true&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" style="width: 40%; max-width: 40%; min-width: 40%;"></a>
+<a href="https://github.com/Sonic853"><img src="https://github-readme-stats.vercel.app/api?username=Sonic853&show_icons=true&bg_color=00000000&count_private=true&hide_title=true&icon_color=10893e&text_color=9f9f9f" style="width: 58%; max-width: 58%; min-width: 58%;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonic853&count_private=true&layout=compact&title_color=10893e&icon_color=79ff97&text_color=9f9f9f&bg_color=00000000" style="width: 40%; max-width: 40%; min-width: 40%;"></a>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Sonic853&theme=oldie)](https://github.com/ryo-ma/github-profile-trophy)
 
