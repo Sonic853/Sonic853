@@ -42,7 +42,12 @@ TypeScript  🕓 11m   🌘🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 ```
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
-<a target="_blank" href="https://wakatime.com/@Sonic853"><img src="https://wakatime.com/share/@Sonic853/da00aa6c-d590-4a4a-84f5-1a41058e287c.svg" width="100%" /></a>
+<a target="_blank" href="https://wakatime.com/@Sonic853">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://wakatime.com/share/@Sonic853/da00aa6c-d590-4a4a-84f5-1a41058e287c.svg">
+  <img src="https://wakapi.dev/api/activity/chart/Sonic853.svg" width="100%">
+</picture>
+</a>
 
 ### Steam
 <!-- steam-box start -->
