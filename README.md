@@ -54,10 +54,10 @@ JSON       🕓 1h7m   🌝🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 🎮 Recently played Steam games
 ```text
 🎮 Black Myth: Wukong               🕘 101 hrs 36 mins
-🎮 SteamVR                          🕘 4501 hrs 31 mins
-🎮 OVR Toolkit                      🕘 2847 hrs 42 mins
-🎮 OVR Advanced Settings            🕘 2473 hrs 38 mins
-🎮 VRChat                           🕘 2803 hrs 52 mins
+🎮 SteamVR                          🕘 4507 hrs 37 mins
+🎮 OVR Toolkit                      🕘 2854 hrs 2 mins
+🎮 OVR Advanced Settings            🕘 2479 hrs 33 mins
+🎮 VRChat                           🕘 2807 hrs 55 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
