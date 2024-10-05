@@ -53,10 +53,10 @@ XAML       🕓 53m    🌖🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 SteamVR                          🕘 4527 hrs 6 mins
-🎮 OVR Advanced Settings            🕘 2498 hrs 54 mins
-🎮 OVR Toolkit                      🕘 2868 hrs 40 mins
-🎮 VRChat                           🕘 2817 hrs 33 mins
+🎮 SteamVR                          🕘 4528 hrs 35 mins
+🎮 OVR Advanced Settings            🕘 2500 hrs 23 mins
+🎮 OVR Toolkit                      🕘 2870 hrs 9 mins
+🎮 VRChat                           🕘 2818 hrs 58 mins
 🎮 Black Myth: Wukong               🕘 101 hrs 36 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
