@@ -57,7 +57,7 @@ Text    🕓 13m    🌘🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑
 🎮 OVR Advanced Settings            🕘 2500 hrs 23 mins
 🎮 OVR Toolkit                      🕘 2870 hrs 9 mins
 🎮 VRChat                           🕘 2818 hrs 58 mins
-🎮 Black Myth: Wukong               🕘 101 hrs 36 mins
+🎮 Battlefield™ 2042                🕘 29 hrs 22 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
