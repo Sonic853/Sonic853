@@ -53,11 +53,11 @@ Text    🕓 13m    🌘🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 SteamVR                          🕘 4528 hrs 35 mins
-🎮 OVR Advanced Settings            🕘 2500 hrs 23 mins
-🎮 OVR Toolkit                      🕘 2870 hrs 9 mins
-🎮 VRChat                           🕘 2818 hrs 58 mins
-🎮 Battlefield™ 2042                🕘 29 hrs 22 mins
+🎮 SteamVR                          🕘 4531 hrs 30 mins
+🎮 OVR Advanced Settings            🕘 2503 hrs 18 mins
+🎮 OVR Toolkit                      🕘 2873 hrs 10 mins
+🎮 VRChat                           🕘 2821 hrs 49 mins
+🎮 Battlefield™ 2042                🕘 30 hrs 34 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
