@@ -53,10 +53,10 @@ CSS        🕓 1h15m 🌕🌖🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 SteamVR                          🕘 4533 hrs 35 mins
-🎮 OVR Advanced Settings            🕘 2505 hrs 22 mins
-🎮 OVR Toolkit                      🕘 2875 hrs 50 mins
-🎮 VRChat                           🕘 2823 hrs 47 mins
+🎮 SteamVR                          🕘 4534 hrs 49 mins
+🎮 OVR Advanced Settings            🕘 2506 hrs 35 mins
+🎮 OVR Toolkit                      🕘 2877 hrs 3 mins
+🎮 VRChat                           🕘 2824 hrs 56 mins
 🎮 Battlefield™ 2042                🕘 30 hrs 34 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
