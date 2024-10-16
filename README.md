@@ -53,10 +53,10 @@ JavaScript 🕓 45m    🌝🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
+🎮 Abiotic Factor                   🕘 26 hrs 27 mins
 🎮 OVR Toolkit                      🕘 2883 hrs 35 mins
 🎮 SteamVR                          🕘 4541 hrs 21 mins
 🎮 OVR Advanced Settings            🕘 2513 hrs 7 mins
-🎮 Abiotic Factor                   🕘 18 hrs 51 mins
 🎮 VRChat                           🕘 2826 hrs 36 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
