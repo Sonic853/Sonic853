@@ -54,10 +54,10 @@ Other           🕓 34m   🌘🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 🎮 Recently played Steam games
 ```text
 🎮 Abiotic Factor                   🕘 26 hrs 27 mins
-🎮 OVR Toolkit                      🕘 2885 hrs 26 mins
-🎮 SteamVR                          🕘 4543 hrs 12 mins
-🎮 OVR Advanced Settings            🕘 2514 hrs 57 mins
-🎮 Battlefield™ 2042                🕘 30 hrs 34 mins
+🎮 OVR Toolkit                      🕘 2891 hrs 17 mins
+🎮 SteamVR                          🕘 4549 hrs 2 mins
+🎮 OVR Advanced Settings            🕘 2520 hrs 47 mins
+🎮 Euro Truck Simulator 2           🕘 83 hrs 49 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
