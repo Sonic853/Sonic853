@@ -53,11 +53,11 @@ TypeScript      🕓 51m    🌗🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 SteamVR                          🕘 4567 hrs 54 mins
-🎮 OVR Advanced Settings            🕘 2539 hrs 37 mins
-🎮 OVR Toolkit                      🕘 2905 hrs 24 mins
+🎮 SteamVR                          🕘 4574 hrs 46 mins
+🎮 OVR Advanced Settings            🕘 2546 hrs 28 mins
+🎮 OVR Toolkit                      🕘 2912 hrs 15 mins
+🎮 Euro Truck Simulator 2           🕘 99 hrs 56 mins
 🎮 Abiotic Factor                   🕘 26 hrs 27 mins
-🎮 Euro Truck Simulator 2           🕘 96 hrs 30 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
