@@ -55,8 +55,8 @@ Other      🕓 25m    🌘🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 ```text
 🎮 SteamVR                          🕘 4593 hrs 34 mins
 🎮 OVR Advanced Settings            🕘 2565 hrs 14 mins
-🎮 OVR Toolkit                      🕘 2932 hrs 28 mins
 ❓ Unknown Game                     🕘 475 hrs 7 mins
+🎮 OVR Toolkit                      🕘 2932 hrs 28 mins
 🎮 Euro Truck Simulator 2           🕘 107 hrs 48 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
