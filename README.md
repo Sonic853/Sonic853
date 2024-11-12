@@ -11,7 +11,7 @@
 </p>
 
 ```diff
-- Everything will NOT be any change.
+- Nirvana.
 ```
 <img align='right' src='https://user-images.githubusercontent.com/8389962/122649015-69f92a00-d15e-11eb-879d-8f2c7475926d.png' width='300px'>
 
