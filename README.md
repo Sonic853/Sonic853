@@ -13,7 +13,7 @@
 ```diff
 - Nirvana.
 ```
-<img align='right' src='https://user-images.githubusercontent.com/8389962/122649015-69f92a00-d15e-11eb-879d-8f2c7475926d.png' width='300px'>
+<img align='right' src='https://user-images.githubusercontent.com/8389962/122649015-69f92a00-d15e-11eb-879d-8f2c7475926d.png' width='350px'>
 
 ### Oh wow.
 
@@ -21,7 +21,7 @@
 <!--
 A bad coder. And a bad life.
 -->
-[![yep](https://github.com/user-attachments/assets/d2685b13-23a0-4780-855d-0b2a1318f4bd)](https://www.csgola.com/player/76561198129129355)
+<a target="_blank" href="https://csstats.gg/zh/player/76561198129129355"><img src='https://github.com/user-attachments/assets/d2685b13-23a0-4780-855d-0b2a1318f4bd' width='400px'></a>
 
 ### Github Stats
 
