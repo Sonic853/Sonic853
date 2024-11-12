@@ -21,7 +21,7 @@
 <!--
 A bad coder. And a bad life.
 -->
-[![yep](https://user-images.githubusercontent.com/8389962/90727124-59d1ad80-e2f5-11ea-8c9b-a1b7ed6f08e1.png)](https://www.csgola.com/player/76561198129129355)
+[![yep](https://github.com/user-attachments/assets/d2685b13-23a0-4780-855d-0b2a1318f4bd)](https://www.csgola.com/player/76561198129129355)
 
 ### Github Stats
 
