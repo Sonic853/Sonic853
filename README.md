@@ -53,7 +53,7 @@ Still Gathering Statistics...
 🎮 SteamVR                          🕘 4626 hrs 31 mins
 🎮 OVR Advanced Settings            🕘 2598 hrs 10 mins
 🎮 Euro Truck Simulator 2           🕘 129 hrs 28 mins
-🎮 VRChat                           🕘 2852 hrs 53 mins
+🎮 VRChat                           🕘 2853 hrs 29 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
