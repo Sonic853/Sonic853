@@ -2,6 +2,7 @@
   <summary align="center"><h3 align="center">👋 Hello! I'm 853.</h3></summary>
   <p align="center"><del>这个地球是一秒待不下去了</del>（误</p>
   <img src='https://github.com/Sonic853/Sonic853/assets/8389962/71079adc-a795-4c4e-b7f2-6040a3dc26ed.png'>
+  <img src='https://github.com/user-attachments/assets/8e6e5b5e-d4f6-4e1c-b1ce-9f2104f0b73c'>
 </details>
 <p align="center">
   <a target="_blank" href="https://blog.853lab.com/"><img src="https://img.shields.io/badge/Blog-0073AA?logo=WordPress&style=flat-square" /></a> 
