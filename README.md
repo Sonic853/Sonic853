@@ -54,10 +54,10 @@ Blender    🕓 2h7m   🌖🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 OVR Toolkit                      🕘 2994 hrs 29 mins
-🎮 SteamVR                          🕘 4652 hrs 33 mins
-🎮 OVR Advanced Settings            🕘 2624 hrs 9 mins
-🎮 VRChat                           🕘 2881 hrs 7 mins
+🎮 VRChat                           🕘 2883 hrs 42 mins
+🎮 OVR Toolkit                      🕘 2996 hrs 57 mins
+🎮 SteamVR                          🕘 4655 hrs 1 mins
+🎮 OVR Advanced Settings            🕘 2626 hrs 37 mins
 🎮 Euro Truck Simulator 2           🕘 140 hrs 18 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
