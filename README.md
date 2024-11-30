@@ -54,10 +54,10 @@ Java            🕓 1h6m  🌝🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 VRChat                           🕘 2891 hrs 43 mins
-🎮 SteamVR                          🕘 4662 hrs 24 mins
-🎮 OVR Advanced Settings            🕘 2634 hrs 0 mins
-🎮 OVR Toolkit                      🕘 3001 hrs 6 mins
+🎮 VRChat                           🕘 2893 hrs 14 mins
+🎮 SteamVR                          🕘 4664 hrs 1 mins
+🎮 OVR Advanced Settings            🕘 2635 hrs 36 mins
+🎮 OVR Toolkit                      🕘 3003 hrs 45 mins
 🎮 Euro Truck Simulator 2           🕘 144 hrs 16 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
