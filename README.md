@@ -35,11 +35,11 @@ A bad coder. And a bad life.
 <!-- waka-box start -->
 📊 Weekly development breakdown
 ```text
-C#              🕓 25h8m 🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌘🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑 54.0%
-JSON            🕓 6h7m  🌕🌕🌕🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑 13.2%
-Vue.js          🕓 5h4m  🌕🌕🌗🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑 10.9%
-Other           🕓 4h29m 🌕🌕🌚🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑  9.7%
-Text            🕓 1h50m 🌝🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑  4.0%
+C#              🕓 29h30m 🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌖🌑🌑🌑🌑🌑🌑🌑🌑🌑 58.0%
+JSON            🕓 5h25m  🌕🌕🌘🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑 10.7%
+Vue.js          🕓 5h20m  🌕🌕🌘🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑 10.5%
+Other           🕓 4h13m  🌕🌖🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑  8.3%
+Text            🕓 1h50m  🌖🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑  3.6%
 ```
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
