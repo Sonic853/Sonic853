@@ -54,10 +54,10 @@ Python           🕓 6h46m  🌕🌝🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 OVR Toolkit                      🕘 3078 hrs 30 mins
-🎮 VRChat                           🕘 2934 hrs 14 mins
-🎮 SteamVR                          🕘 4696 hrs 1 mins
-🎮 OVR Advanced Settings            🕘 2667 hrs 33 mins
+🎮 OVR Toolkit                      🕘 3080 hrs 17 mins
+🎮 VRChat                           🕘 2937 hrs 43 mins
+🎮 SteamVR                          🕘 4697 hrs 48 mins
+🎮 OVR Advanced Settings            🕘 2669 hrs 19 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
