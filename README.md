@@ -68,8 +68,8 @@ YAML             🕓 5h20m  🌕🌘🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 [![](https://img.shields.io/badge/Windows-11-33AADD?style=flat-square&logo=microsoft&logoColor=6cf)](https://www.microsoft.com/windows/get-windows-11)
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-33AADD?style=flat-square&logo=visual-studio-code&logoColor=6cf)](https://code.visualstudio.com/)
 
-[![](https://img.shields.io/badge/MiMax-3-black?style=flat-square&logo=android&logoColor=golden)](https://www.mi.com/)
-[![](https://img.shields.io/badge/LineageOS-18.1-167C80?style=flat-square&logo=lineageos&logoColor=white)](https://lineageos.org)
+[![](https://img.shields.io/badge/Tank-3-black?style=flat-square&logo=android&logoColor=golden)](https://www.unihertz.com/)
+[![](https://img.shields.io/badge/Android-14-167C80?style=flat-square&logo=lineageos&logoColor=white)](https://lineageos.org)
 [![](https://img.shields.io/badge/Lumia-950XL-33AADD?style=flat-square&logo=windows&logoColor=6cf)](https://www.microsoft.com/windows/get-windows-10)
 [![](https://img.shields.io/badge/Windows10-Mobile-33AADD?style=flat-square&logo=windows&logoColor=6cf)](https://www.microsoft.com/windows/get-windows-10)
 
