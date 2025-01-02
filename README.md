@@ -54,10 +54,10 @@ JSON       🕓 3h6m   🌕🌘🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 OVR Toolkit                      🕘 3136 hrs 15 mins
-🎮 VRChat                           🕘 2983 hrs 16 mins
-🎮 SteamVR                          🕘 4741 hrs 33 mins
-🎮 OVR Advanced Settings            🕘 2713 hrs 1 mins
+🎮 OVR Toolkit                      🕘 3155 hrs 27 mins
+🎮 SteamVR                          🕘 4751 hrs 41 mins
+🎮 OVR Advanced Settings            🕘 2723 hrs 9 mins
+🎮 VRChat                           🕘 2991 hrs 1 mins
 🎮 Balatro                          🕘 5 hrs 57 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
