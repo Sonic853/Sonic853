@@ -58,7 +58,7 @@ Text       🕓 2h46m  🌕🌘🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 🎮 SteamVR                          🕘 4751 hrs 41 mins
 🎮 OVR Advanced Settings            🕘 2723 hrs 9 mins
 🎮 VRChat                           🕘 2991 hrs 1 mins
-🎮 Balatro                          🕘 5 hrs 57 mins
+🎮 MiSide                           🕘 8 hrs 19 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
