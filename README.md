@@ -54,10 +54,10 @@ Text       🕓 17m    🌚🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 OVR Toolkit                      🕘 3231 hrs 1 mins
-🎮 SteamVR                          🕘 4819 hrs 36 mins
-🎮 OVR Advanced Settings            🕘 2778 hrs 39 mins
-🎮 VRChat                           🕘 3028 hrs 26 mins
+🎮 OVR Toolkit                      🕘 3232 hrs 40 mins
+🎮 SteamVR                          🕘 4821 hrs 15 mins
+🎮 OVR Advanced Settings            🕘 2780 hrs 18 mins
+🎮 VRChat                           🕘 3030 hrs 3 mins
 🎮 Ghosts Of Tabor                  🕘 49 hrs 8 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
