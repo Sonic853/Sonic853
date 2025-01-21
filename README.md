@@ -54,11 +54,11 @@ HLSL     🕓 7m     🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 OVR Toolkit                      🕘 3232 hrs 40 mins
-🎮 SteamVR                          🕘 4821 hrs 15 mins
-🎮 OVR Advanced Settings            🕘 2780 hrs 18 mins
-🎮 VRChat                           🕘 3030 hrs 3 mins
-🎮 Ghosts Of Tabor                  🕘 49 hrs 8 mins
+🎮 OVR Toolkit                      🕘 3240 hrs 25 mins
+🎮 SteamVR                          🕘 4829 hrs 1 mins
+🎮 OVR Advanced Settings            🕘 2788 hrs 3 mins
+🎮 VRChat                           🕘 3033 hrs 0 mins
+🎮 Ghosts Of Tabor                  🕘 53 hrs 7 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
