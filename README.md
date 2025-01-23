@@ -57,7 +57,7 @@ Markdown 🕓 3m     🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 🎮 OVR Toolkit                      🕘 3242 hrs 32 mins
 🎮 SteamVR                          🕘 4831 hrs 8 mins
 🎮 OVR Advanced Settings            🕘 2790 hrs 10 mins
-🎮 VRChat                           🕘 3034 hrs 59 mins
+🎮 VRChat                           🕘 3036 hrs 37 mins
 🎮 Ghosts Of Tabor                  🕘 53 hrs 7 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
