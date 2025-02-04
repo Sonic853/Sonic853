@@ -54,11 +54,11 @@ YAML    🕓 8m    🌘🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 SteamVR                          🕘 4853 hrs 28 mins
-🎮 OVR Toolkit                      🕘 3264 hrs 51 mins
-🎮 OVR Advanced Settings            🕘 2812 hrs 29 mins
-🎮 VRChat                           🕘 3058 hrs 57 mins
-🎮 Ghosts Of Tabor                  🕘 55 hrs 8 mins
+🎮 VRChat                           🕘 3061 hrs 7 mins
+🎮 SteamVR                          🕘 4855 hrs 47 mins
+🎮 OVR Toolkit                      🕘 3267 hrs 11 mins
+🎮 OVR Advanced Settings            🕘 2814 hrs 48 mins
+🎮 Barotrauma                       🕘 4 hrs 11 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
