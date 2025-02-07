@@ -54,10 +54,10 @@ Mask    🕓 0s    🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 SteamVR                          🕘 4860 hrs 16 mins
-🎮 OVR Toolkit                      🕘 3271 hrs 39 mins
-🎮 OVR Advanced Settings            🕘 2819 hrs 16 mins
-🎮 VRChat                           🕘 3065 hrs 1 mins
+🎮 VRChat                           🕘 3066 hrs 43 mins
+🎮 SteamVR                          🕘 4862 hrs 1 mins
+🎮 OVR Toolkit                      🕘 3273 hrs 23 mins
+🎮 OVR Advanced Settings            🕘 2821 hrs 0 mins
 🎮 Barotrauma                       🕘 4 hrs 11 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
