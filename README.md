@@ -54,11 +54,11 @@ XML        🕓 32m   🌖🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 SteamVR                          🕘 4882 hrs 35 mins
-🎮 OVR Advanced Settings            🕘 2841 hrs 32 mins
-🎮 OVR Toolkit                      🕘 3293 hrs 10 mins
-🎮 VRChat                           🕘 3079 hrs 31 mins
-🎮 Barotrauma                       🕘 4 hrs 11 mins
+🎮 SteamVR                          🕘 4886 hrs 4 mins
+🎮 OVR Advanced Settings            🕘 2845 hrs 0 mins
+🎮 OVR Toolkit                      🕘 3296 hrs 39 mins
+🎮 VRChat                           🕘 3082 hrs 17 mins
+🎮 KarmaZoo                         🕘 5 hrs 30 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
