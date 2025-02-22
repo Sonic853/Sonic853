@@ -50,10 +50,10 @@ Still Gathering Statistics...
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 SteamVR                          🕘 4893 hrs 6 mins
-🎮 OVR Advanced Settings            🕘 2851 hrs 59 mins
-🎮 OVR Toolkit                      🕘 3304 hrs 5 mins
-🎮 VRChat                           🕘 3088 hrs 17 mins
+🎮 SteamVR                          🕘 4894 hrs 39 mins
+🎮 OVR Advanced Settings            🕘 2853 hrs 33 mins
+🎮 OVR Toolkit                      🕘 3305 hrs 38 mins
+🎮 VRChat                           🕘 3089 hrs 40 mins
 🎮 KarmaZoo                         🕘 5 hrs 35 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
