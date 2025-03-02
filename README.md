@@ -55,7 +55,7 @@ Blender 🕓 9m     🌘🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑
 🎮 OVR Toolkit                      🕘 3306 hrs 47 mins
 🎮 SteamVR                          🕘 4895 hrs 49 mins
 🎮 OVR Advanced Settings            🕘 2854 hrs 42 mins
-🎮 VRChat                           🕘 3090 hrs 36 mins
+🎮 VRChat                           🕘 3090 hrs 40 mins
 🎮 KarmaZoo                         🕘 5 hrs 35 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
