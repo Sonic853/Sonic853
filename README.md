@@ -57,8 +57,8 @@ YAML    🕓 1m     🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑
 🎮 SteamVR                          🕘 4900 hrs 58 mins
 🎮 OVR Toolkit                      🕘 3311 hrs 44 mins
 🎮 OVR Advanced Settings            🕘 2859 hrs 39 mins
+🎮 Split Fiction                    🕘 5 hrs 50 mins
 🎮 VRChat                           🕘 3094 hrs 57 mins
-🎮 Mecha BREAK Demo                 🕘 1 hrs 26 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
