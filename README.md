@@ -54,11 +54,11 @@ YAML    🕓 1m     🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 SteamVR                          🕘 4900 hrs 58 mins
+🎮 SteamVR                          🕘 4905 hrs 5 mins
+🎮 OVR Advanced Settings            🕘 2863 hrs 43 mins
+🎮 VRChat                           🕘 3097 hrs 52 mins
 🎮 OVR Toolkit                      🕘 3311 hrs 44 mins
-🎮 OVR Advanced Settings            🕘 2859 hrs 39 mins
 🎮 Split Fiction                    🕘 5 hrs 50 mins
-🎮 VRChat                           🕘 3094 hrs 57 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
