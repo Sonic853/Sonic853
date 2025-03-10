@@ -58,7 +58,7 @@ YAML    🕓 1m     🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑
 🎮 OVR Advanced Settings            🕘 2863 hrs 43 mins
 🎮 VRChat                           🕘 3097 hrs 52 mins
 🎮 OVR Toolkit                      🕘 3311 hrs 44 mins
-🎮 Split Fiction                    🕘 5 hrs 50 mins
+🎮 Split Fiction                    🕘 5 hrs 51 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
