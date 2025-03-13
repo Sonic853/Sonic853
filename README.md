@@ -53,7 +53,7 @@ JSON    🕓 0s   🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 Split Fiction                    🕘 14 hrs 50 mins
+🎮 Split Fiction                    🕘 16 hrs 33 mins
 🎮 SteamVR                          🕘 4905 hrs 5 mins
 🎮 OVR Advanced Settings            🕘 2863 hrs 43 mins
 🎮 VRChat                           🕘 3097 hrs 52 mins
