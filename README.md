@@ -55,9 +55,9 @@ Text    🕓 2m  🌝🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 ```text
 🎮 Assassin's Creed IV Black Flag   🕘 19 hrs 9 mins
 🎮 Split Fiction                    🕘 16 hrs 33 mins
-🎮 SteamVR                          🕘 4908 hrs 33 mins
-🎮 OVR Advanced Settings            🕘 2867 hrs 8 mins
-🎮 VRChat                           🕘 3101 hrs 8 mins
+🎮 SteamVR                          🕘 4911 hrs 24 mins
+🎮 OVR Advanced Settings            🕘 2869 hrs 54 mins
+🎮 VRChat                           🕘 3103 hrs 9 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
