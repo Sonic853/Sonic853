@@ -50,7 +50,7 @@ Still Gathering Statistics...
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 Assassin's Creed IV Black Flag   🕘 19 hrs 9 mins
+🎮 Assassin's Creed IV Black Flag   🕘 26 hrs 37 mins
 🎮 Split Fiction                    🕘 16 hrs 33 mins
 🎮 SteamVR                          🕘 4911 hrs 24 mins
 🎮 OVR Advanced Settings            🕘 2869 hrs 54 mins
