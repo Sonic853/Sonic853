@@ -54,11 +54,11 @@ JavaScript 🕓 13m   🌗🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 Assassin's Creed IV Black Flag   🕘 26 hrs 37 mins
+🎮 Assassin's Creed IV Black Flag   🕘 36 hrs 38 mins
 🎮 Split Fiction                    🕘 16 hrs 33 mins
 🎮 SteamVR                          🕘 4911 hrs 24 mins
 🎮 OVR Advanced Settings            🕘 2869 hrs 54 mins
-🎮 VRChat                           🕘 3103 hrs 9 mins
+🎮 Barotrauma                       🕘 13 hrs 7 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
