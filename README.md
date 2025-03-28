@@ -55,7 +55,7 @@ Other   🕓 4m    🌚🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 🎮 Recently played Steam games
 ```text
 🎮 Assassin's Creed IV Black Flag   🕘 50 hrs 56 mins
-🎮 Assassin's Creed III Remastered  🕘 26 hrs 27 mins
+🎮 Assassin's Creed III Remastered  🕘 35 hrs 36 mins
 🎮 Barotrauma                       🕘 20 hrs 37 mins
 🎮 SteamVR                          🕘 4915 hrs 43 mins
 🎮 OVR Toolkit                      🕘 3321 hrs 48 mins
