@@ -57,8 +57,8 @@ Other   🕓 0s    🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 🎮 Assassin's Creed IV Black Flag   🕘 50 hrs 56 mins
 🎮 Assassin's Creed III Remastered  🕘 35 hrs 36 mins
 🎮 Barotrauma                       🕘 20 hrs 37 mins
-🎮 SteamVR                          🕘 4915 hrs 43 mins
-🎮 OVR Toolkit                      🕘 3321 hrs 48 mins
+🎮 OVR Toolkit                      🕘 3324 hrs 52 mins
+🎮 SteamVR                          🕘 4917 hrs 54 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
