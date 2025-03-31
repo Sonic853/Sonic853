@@ -53,11 +53,11 @@ Other 🕓 0s    🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 Assassin's Creed IV Black Flag   🕘 50 hrs 56 mins
 🎮 Assassin's Creed III Remastered  🕘 35 hrs 36 mins
-🎮 Barotrauma                       🕘 20 hrs 37 mins
-🎮 OVR Toolkit                      🕘 3324 hrs 52 mins
-🎮 SteamVR                          🕘 4917 hrs 54 mins
+🎮 Assassin's Creed IV Black Flag   🕘 50 hrs 56 mins
+🎮 OVR Toolkit                      🕘 3326 hrs 59 mins
+🎮 SteamVR                          🕘 4920 hrs 2 mins
+🎮 Assassin's Creed Syndicate       🕘 11 hrs 23 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
