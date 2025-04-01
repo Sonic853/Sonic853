@@ -56,9 +56,9 @@ Blender 🕓 2m    🌚🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 ```text
 🎮 Assassin's Creed III Remastered  🕘 35 hrs 36 mins
 🎮 Assassin's Creed IV Black Flag   🕘 50 hrs 56 mins
-🎮 OVR Toolkit                      🕘 3326 hrs 59 mins
-🎮 SteamVR                          🕘 4920 hrs 2 mins
+🎮 OVR Toolkit                      🕘 3329 hrs 4 mins
 🎮 Assassin's Creed Syndicate       🕘 11 hrs 23 mins
+🎮 SteamVR                          🕘 4922 hrs 13 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
