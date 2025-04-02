@@ -52,9 +52,9 @@ Still Gathering Statistics...
 ```text
 🎮 Assassin's Creed III Remastered  🕘 35 hrs 36 mins
 🎮 Assassin's Creed IV Black Flag   🕘 50 hrs 56 mins
-🎮 OVR Toolkit                      🕘 3329 hrs 4 mins
-🎮 Assassin's Creed Syndicate       🕘 11 hrs 23 mins
-🎮 SteamVR                          🕘 4922 hrs 13 mins
+🎮 OVR Toolkit                      🕘 3333 hrs 6 mins
+🎮 SteamVR                          🕘 4925 hrs 27 mins
+🎮 OVR Advanced Settings            🕘 2882 hrs 59 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
