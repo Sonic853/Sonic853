@@ -55,10 +55,10 @@ JSON          🕓 19m   🌗🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 🎮 Recently played Steam games
 ```text
 🎮 Assassin's Creed III Remastered  🕘 35 hrs 36 mins
-🎮 Assassin's Creed IV Black Flag   🕘 50 hrs 56 mins
-🎮 OVR Toolkit                      🕘 3333 hrs 6 mins
-🎮 SteamVR                          🕘 4925 hrs 27 mins
-🎮 OVR Advanced Settings            🕘 2882 hrs 59 mins
+🎮 OVR Toolkit                      🕘 3337 hrs 55 mins
+🎮 SteamVR                          🕘 4930 hrs 17 mins
+🎮 OVR Advanced Settings            🕘 2887 hrs 46 mins
+🎮 VRChat                           🕘 3118 hrs 31 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
