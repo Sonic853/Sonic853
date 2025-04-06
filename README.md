@@ -54,11 +54,11 @@ JSON          🕓 57m    🌝🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
+🎮 Assassin's Creed Syndicate       🕘 25 hrs 53 mins
+🎮 OVR Toolkit                      🕘 3345 hrs 58 mins
 🎮 Assassin's Creed III Remastered  🕘 35 hrs 36 mins
-🎮 OVR Toolkit                      🕘 3342 hrs 47 mins
-🎮 Assassin's Creed Syndicate       🕘 19 hrs 44 mins
-🎮 SteamVR                          🕘 4935 hrs 9 mins
-🎮 OVR Advanced Settings            🕘 2892 hrs 38 mins
+🎮 SteamVR                          🕘 4938 hrs 20 mins
+🎮 OVR Advanced Settings            🕘 2895 hrs 49 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
