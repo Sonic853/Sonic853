@@ -54,7 +54,7 @@ JSON          🕓 58m    🌝🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 Assassin's Creed Syndicate       🕘 25 hrs 53 mins
+🎮 Assassin's Creed Syndicate       🕘 37 hrs 59 mins
 🎮 OVR Toolkit                      🕘 3345 hrs 58 mins
 🎮 Assassin's Creed III Remastered  🕘 35 hrs 36 mins
 🎮 SteamVR                          🕘 4938 hrs 20 mins
