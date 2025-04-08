@@ -56,9 +56,9 @@ Markdown      🕓 14m    🌚🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 ```text
 🎮 Assassin's Creed Syndicate       🕘 37 hrs 59 mins
 🎮 OVR Toolkit                      🕘 3345 hrs 58 mins
-🎮 Assassin's Creed III Remastered  🕘 35 hrs 36 mins
 🎮 SteamVR                          🕘 4938 hrs 20 mins
 🎮 OVR Advanced Settings            🕘 2895 hrs 49 mins
+🎮 VRChat                           🕘 3126 hrs 24 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
