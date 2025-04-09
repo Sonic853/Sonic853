@@ -55,10 +55,10 @@ Markdown      🕓 14m    🌚🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 🎮 Recently played Steam games
 ```text
 🎮 Assassin's Creed Syndicate       🕘 37 hrs 59 mins
-🎮 OVR Toolkit                      🕘 3345 hrs 58 mins
-🎮 SteamVR                          🕘 4938 hrs 20 mins
-🎮 OVR Advanced Settings            🕘 2895 hrs 49 mins
-🎮 VRChat                           🕘 3126 hrs 24 mins
+🎮 OVR Toolkit                      🕘 3348 hrs 17 mins
+🎮 SteamVR                          🕘 4940 hrs 40 mins
+🎮 OVR Advanced Settings            🕘 2898 hrs 8 mins
+🎮 VRChat                           🕘 3128 hrs 43 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
