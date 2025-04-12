@@ -55,10 +55,10 @@ HTML       🕓 1h43m 🌕🌕🌕🌚🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 🎮 Recently played Steam games
 ```text
 🎮 Assassin's Creed Syndicate       🕘 37 hrs 59 mins
+🎮 SteamVR                          🕘 4942 hrs 16 mins
+🎮 OVR Advanced Settings            🕘 2899 hrs 45 mins
 🎮 OVR Toolkit                      🕘 3348 hrs 17 mins
-🎮 SteamVR                          🕘 4940 hrs 40 mins
-🎮 OVR Advanced Settings            🕘 2898 hrs 8 mins
-🎮 VRChat                           🕘 3128 hrs 43 mins
+🎮 VRChat                           🕘 3130 hrs 7 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
