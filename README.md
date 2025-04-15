@@ -54,10 +54,10 @@ TypeScript 🕓 2h8m  🌕🌕🌕🌘🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 SteamVR                          🕘 4949 hrs 13 mins
-🎮 OVR Advanced Settings            🕘 2906 hrs 41 mins
-🎮 VRChat                           🕘 3138 hrs 2 mins
-🎮 OVR Toolkit                      🕘 3355 hrs 13 mins
+🎮 VRChat                           🕘 3145 hrs 49 mins
+🎮 SteamVR                          🕘 4954 hrs 40 mins
+🎮 OVR Advanced Settings            🕘 2912 hrs 8 mins
+🎮 OVR Toolkit                      🕘 3360 hrs 39 mins
 🎮 Assassin's Creed Syndicate       🕘 37 hrs 59 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
