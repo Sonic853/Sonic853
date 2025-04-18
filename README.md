@@ -55,10 +55,10 @@ Markdown 🕓 0s   🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 🎮 Recently played Steam games
 ```text
 🎮 Assassin's Creed Odyssey         🕘 32 hrs 45 mins
-🎮 VRChat                           🕘 3150 hrs 49 mins
-🎮 SteamVR                          🕘 4956 hrs 58 mins
-🎮 OVR Advanced Settings            🕘 2914 hrs 26 mins
+🎮 VRChat                           🕘 3154 hrs 43 mins
 🎮 Assassin's Creed Syndicate       🕘 37 hrs 59 mins
+🎮 SteamVR                          🕘 4960 hrs 56 mins
+🎮 OVR Advanced Settings            🕘 2918 hrs 23 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
