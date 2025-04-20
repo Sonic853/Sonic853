@@ -55,7 +55,7 @@ YAML          🕓 1h5m  🌕🌘🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 🎮 Recently played Steam games
 ```text
 🎮 Assassin's Creed Odyssey         🕘 32 hrs 45 mins
-🎮 VRChat                           🕘 3154 hrs 59 mins
+🎮 VRChat                           🕘 3155 hrs 48 mins
 🎮 SteamVR                          🕘 4960 hrs 56 mins
 🎮 OVR Advanced Settings            🕘 2918 hrs 23 mins
 🎮 OVR Toolkit                      🕘 3366 hrs 54 mins
