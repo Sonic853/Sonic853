@@ -54,10 +54,10 @@ YAML          🕓 1h5m  🌕🌖🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 VRChat                           🕘 3168 hrs 8 mins
-🎮 SteamVR                          🕘 4973 hrs 19 mins
-🎮 OVR Advanced Settings            🕘 2930 hrs 46 mins
-🎮 OVR Toolkit                      🕘 3379 hrs 16 mins
+🎮 VRChat                           🕘 3170 hrs 33 mins
+🎮 SteamVR                          🕘 4976 hrs 14 mins
+🎮 OVR Advanced Settings            🕘 2933 hrs 40 mins
+🎮 OVR Toolkit                      🕘 3382 hrs 10 mins
 🎮 Assassin's Creed Odyssey         🕘 32 hrs 45 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
