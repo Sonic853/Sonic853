@@ -50,11 +50,11 @@ Still Gathering Statistics...
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 VRChat                           🕘 3174 hrs 40 mins
-🎮 SteamVR                          🕘 4979 hrs 34 mins
-🎮 OVR Advanced Settings            🕘 2937 hrs 0 mins
-🎮 OVR Toolkit                      🕘 3385 hrs 29 mins
-🎮 Assassin's Creed Odyssey         🕘 32 hrs 45 mins
+🎮 VRChat                           🕘 3177 hrs 49 mins
+🎮 SteamVR                          🕘 4982 hrs 53 mins
+🎮 OVR Advanced Settings            🕘 2940 hrs 19 mins
+🎮 OVR Toolkit                      🕘 3388 hrs 49 mins
+🎮 AI Limit                         🕘 17 hrs 14 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
