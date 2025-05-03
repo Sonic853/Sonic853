@@ -50,11 +50,11 @@ Still Gathering Statistics...
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 AI Limit                         🕘 44 hrs 13 mins
 🎮 VRChat                           🕘 3190 hrs 34 mins
 🎮 SteamVR                          🕘 4995 hrs 47 mins
 🎮 OVR Advanced Settings            🕘 2953 hrs 11 mins
 🎮 OVR Toolkit                      🕘 3401 hrs 38 mins
+🎮 AI Limit                         🕘 44 hrs 13 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
