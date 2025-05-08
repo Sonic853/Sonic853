@@ -55,10 +55,10 @@ Other         🕓 0s     🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 🎮 Recently played Steam games
 ```text
 🎮 Tempest Rising                   🕘 40 hrs 26 mins
-🎮 VRChat                           🕘 3201 hrs 51 mins
-🎮 SteamVR                          🕘 5006 hrs 23 mins
-🎮 OVR Advanced Settings            🕘 2963 hrs 47 mins
-🎮 OVR Toolkit                      🕘 3412 hrs 11 mins
+🎮 VRChat                           🕘 3205 hrs 17 mins
+🎮 SteamVR                          🕘 5009 hrs 55 mins
+🎮 OVR Advanced Settings            🕘 2967 hrs 18 mins
+🎮 OVR Toolkit                      🕘 3415 hrs 43 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
