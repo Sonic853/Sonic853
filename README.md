@@ -51,10 +51,10 @@ C# 🕓 10h26m 🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕�
 🎮 Recently played Steam games
 ```text
 🎮 Tempest Rising                   🕘 40 hrs 26 mins
-🎮 VRChat                           🕘 3205 hrs 17 mins
-🎮 SteamVR                          🕘 5009 hrs 55 mins
-🎮 OVR Advanced Settings            🕘 2967 hrs 18 mins
-🎮 OVR Toolkit                      🕘 3415 hrs 43 mins
+🎮 SteamVR                          🕘 5016 hrs 13 mins
+🎮 OVR Advanced Settings            🕘 2973 hrs 36 mins
+🎮 OVR Toolkit                      🕘 3421 hrs 59 mins
+🎮 VRChat                           🕘 3206 hrs 29 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
