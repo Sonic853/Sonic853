@@ -54,7 +54,7 @@ Still Gathering Statistics...
 🎮 OVR Advanced Settings            🕘 2998 hrs 23 mins
 🎮 OVR Toolkit                      🕘 3446 hrs 45 mins
 🎮 Tempest Rising                   🕘 42 hrs 27 mins
-🎮 VRChat                           🕘 3215 hrs 57 mins
+🎮 VRChat                           🕘 3216 hrs 2 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
