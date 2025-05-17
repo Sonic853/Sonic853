@@ -54,11 +54,11 @@ JSON                             🕓 1h53m  🌘🌑🌑🌑🌑  5.6%
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 SteamVR                          🕘 5042 hrs 48 mins
-🎮 OVR Advanced Settings            🕘 3000 hrs 8 mins
-🎮 OVR Toolkit                      🕘 3448 hrs 30 mins
+🎮 SteamVR                          🕘 5049 hrs 52 mins
+🎮 OVR Advanced Settings            🕘 3007 hrs 12 mins
+🎮 OVR Toolkit                      🕘 3455 hrs 33 mins
 🎮 Tempest Rising                   🕘 42 hrs 27 mins
-🎮 VRChat                           🕘 3217 hrs 53 mins
+🎮 VRChat                           🕘 3224 hrs 55 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
