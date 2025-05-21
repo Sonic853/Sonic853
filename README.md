@@ -54,11 +54,11 @@ Blender       🕓 1h10m 🌕🌕🌘🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 SteamVR                          🕘 5059 hrs 54 mins
-🎮 OVR Advanced Settings            🕘 3017 hrs 14 mins
-🎮 OVR Toolkit                      🕘 3465 hrs 33 mins
-🎮 VRChat                           🕘 3240 hrs 11 mins
-🎮 Tempest Rising                   🕘 42 hrs 27 mins
+🎮 SteamVR                          🕘 5061 hrs 9 mins
+🎮 OVR Advanced Settings            🕘 3018 hrs 29 mins
+🎮 OVR Toolkit                      🕘 3466 hrs 48 mins
+🎮 VRChat                           🕘 3241 hrs 23 mins
+🎮 Crime Boss: Rockay City          🕘 11 hrs 4 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
