@@ -57,8 +57,8 @@ TypeScript    🕓 12m   🌕🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 🎮 SteamVR                          🕘 5061 hrs 9 mins
 🎮 OVR Advanced Settings            🕘 3018 hrs 29 mins
 🎮 OVR Toolkit                      🕘 3466 hrs 48 mins
-🎮 VRChat                           🕘 3241 hrs 23 mins
-🎮 Crime Boss: Rockay City          🕘 11 hrs 4 mins
+🎮 VRChat                           🕘 3241 hrs 48 mins
+🎮 HELLDIVERS™ 2                    🕘 21 hrs 36 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
