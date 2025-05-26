@@ -52,11 +52,11 @@ C#      🕓 0s  🌕🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 SteamVR                          🕘 5067 hrs 46 mins
-🎮 OVR Advanced Settings            🕘 3025 hrs 6 mins
-🎮 OVR Toolkit                      🕘 3473 hrs 24 mins
-🎮 HELLDIVERS™ 2                    🕘 47 hrs 44 mins
-🎮 VRChat                           🕘 3248 hrs 13 mins
+🎮 HELLDIVERS™ 2                    🕘 59 hrs 16 mins
+🎮 SteamVR                          🕘 5070 hrs 15 mins
+🎮 OVR Advanced Settings            🕘 3027 hrs 35 mins
+🎮 OVR Toolkit                      🕘 3475 hrs 53 mins
+🎮 VRChat                           🕘 3250 hrs 42 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
