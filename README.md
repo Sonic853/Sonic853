@@ -53,11 +53,11 @@ Blender 🕓 0s  🌘🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 HELLDIVERS™ 2                    🕘 66 hrs 18 mins
+🎮 HELLDIVERS™ 2                    🕘 77 hrs 46 mins
+🎮 VRChat                           🕘 3253 hrs 52 mins
 🎮 SteamVR                          🕘 5073 hrs 25 mins
 🎮 OVR Advanced Settings            🕘 3030 hrs 44 mins
 🎮 OVR Toolkit                      🕘 3479 hrs 2 mins
-🎮 VRChat                           🕘 3253 hrs 52 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
