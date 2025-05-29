@@ -52,7 +52,7 @@ Other   🕓 14m 🌕🌕🌕🌕🌕🌝🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 HELLDIVERS™ 2                    🕘 77 hrs 46 mins
+🎮 HELLDIVERS™ 2                    🕘 90 hrs 4 mins
 🎮 VRChat                           🕘 3253 hrs 52 mins
 🎮 SteamVR                          🕘 5073 hrs 25 mins
 🎮 OVR Advanced Settings            🕘 3030 hrs 44 mins
