@@ -51,10 +51,10 @@ Still Gathering Statistics...
 🎮 Recently played Steam games
 ```text
 🎮 HELLDIVERS™ 2                    🕘 98 hrs 7 mins
-🎮 VRChat                           🕘 3265 hrs 55 mins
-🎮 SteamVR                          🕘 5085 hrs 37 mins
-🎮 OVR Advanced Settings            🕘 3042 hrs 55 mins
-🎮 OVR Toolkit                      🕘 3491 hrs 12 mins
+🎮 VRChat                           🕘 3274 hrs 16 mins
+🎮 SteamVR                          🕘 5088 hrs 37 mins
+🎮 OVR Toolkit                      🕘 3494 hrs 10 mins
+🎮 OVR Advanced Settings            🕘 3045 hrs 49 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
