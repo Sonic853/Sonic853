@@ -53,8 +53,8 @@ JavaScript 🕓 0s    🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 🎮 Recently played Steam games
 ```text
 🎮 HELLDIVERS™ 2                    🕘 98 hrs 7 mins
-🎮 VRChat                           🕘 3274 hrs 16 mins
-🎮 SteamVR                          🕘 5088 hrs 37 mins
+🎮 VRChat                           🕘 3278 hrs 52 mins
+🎮 SteamVR                          🕘 5088 hrs 38 mins
 🎮 OVR Toolkit                      🕘 3494 hrs 10 mins
 🎮 OVR Advanced Settings            🕘 3045 hrs 49 mins
 ```
