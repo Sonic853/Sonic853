@@ -55,10 +55,10 @@ JSON          🕓 5m     🌚🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 🎮 Recently played Steam games
 ```text
 🎮 HELLDIVERS™ 2                    🕘 98 hrs 7 mins
-🎮 VRChat                           🕘 3278 hrs 52 mins
-🎮 SteamVR                          🕘 5088 hrs 38 mins
-🎮 OVR Toolkit                      🕘 3494 hrs 10 mins
-🎮 OVR Advanced Settings            🕘 3045 hrs 49 mins
+🎮 VRChat                           🕘 3291 hrs 38 mins
+🎮 SteamVR                          🕘 5095 hrs 53 mins
+🎮 OVR Toolkit                      🕘 3501 hrs 25 mins
+🎮 OVR Advanced Settings            🕘 3053 hrs 5 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
