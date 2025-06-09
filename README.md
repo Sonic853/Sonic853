@@ -54,8 +54,8 @@ TypeScript    🕓 9m    🌚🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 HELLDIVERS™ 2                    🕘 98 hrs 7 mins
 🎮 VRChat                           🕘 3291 hrs 38 mins
+🎮 HELLDIVERS™ 2                    🕘 99 hrs 24 mins
 🎮 SteamVR                          🕘 5095 hrs 53 mins
 🎮 OVR Toolkit                      🕘 3501 hrs 25 mins
 🎮 OVR Advanced Settings            🕘 3053 hrs 5 mins
