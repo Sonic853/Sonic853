@@ -54,11 +54,11 @@ TypeScript    🕓 9m     🌚🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 VRChat                           🕘 3293 hrs 13 mins
-🎮 SteamVR                          🕘 5097 hrs 24 mins
-🎮 OVR Toolkit                      🕘 3502 hrs 55 mins
-🎮 OVR Advanced Settings            🕘 3054 hrs 35 mins
-🎮 HELLDIVERS™ 2                    🕘 111 hrs 26 mins
+🎮 VRChat                           🕘 3295 hrs 58 mins
+🎮 SteamVR                          🕘 5099 hrs 51 mins
+🎮 OVR Toolkit                      🕘 3505 hrs 21 mins
+🎮 OVR Advanced Settings            🕘 3057 hrs 1 mins
+🎮 HELLDIVERS™ 2                    🕘 112 hrs 35 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
