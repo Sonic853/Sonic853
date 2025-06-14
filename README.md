@@ -54,11 +54,11 @@ Bash          🕓 0s    🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 VRChat                           🕘 3295 hrs 58 mins
-🎮 SteamVR                          🕘 5099 hrs 51 mins
-🎮 OVR Toolkit                      🕘 3505 hrs 21 mins
-🎮 OVR Advanced Settings            🕘 3057 hrs 1 mins
-🎮 HELLDIVERS™ 2                    🕘 112 hrs 35 mins
+🎮 VRChat                           🕘 3297 hrs 51 mins
+🎮 SteamVR                          🕘 5101 hrs 17 mins
+🎮 OVR Toolkit                      🕘 3506 hrs 46 mins
+🎮 OVR Advanced Settings            🕘 3058 hrs 27 mins
+🎮 HELLDIVERS™ 2                    🕘 115 hrs 21 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
