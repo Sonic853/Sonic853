@@ -53,10 +53,10 @@ Other   🕓 0s    🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
+🎮 VRChat                           🕘 3324 hrs 51 mins
 🎮 HELLDIVERS™ 2                    🕘 131 hrs 16 mins
-🎮 VRChat                           🕘 3319 hrs 35 mins
-🎮 SteamVR                          🕘 5117 hrs 11 mins
-🎮 OVR Advanced Settings            🕘 3074 hrs 18 mins
+🎮 SteamVR                          🕘 5117 hrs 22 mins
+🎮 OVR Advanced Settings            🕘 3074 hrs 28 mins
 🎮 OVR Toolkit                      🕘 3510 hrs 14 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
