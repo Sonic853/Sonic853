@@ -55,10 +55,10 @@ JSON          🕓 8m    🌘🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 🎮 Recently played Steam games
 ```text
 🎮 VRChat                           🕘 3328 hrs 15 mins
+🎮 Palworld                         🕘 108 hrs 21 mins
 🎮 SteamVR                          🕘 5120 hrs 9 mins
 🎮 OVR Advanced Settings            🕘 3077 hrs 15 mins
 🎮 HELLDIVERS™ 2                    🕘 131 hrs 16 mins
-🎮 Palworld                         🕘 97 hrs 2 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
