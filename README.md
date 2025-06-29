@@ -54,7 +54,7 @@ JSON          🕓 8m    🌘🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 VRChat                           🕘 3328 hrs 15 mins
+🎮 VRChat                           🕘 3332 hrs 8 mins
 🎮 Palworld                         🕘 108 hrs 21 mins
 🎮 SteamVR                          🕘 5120 hrs 9 mins
 🎮 OVR Advanced Settings            🕘 3077 hrs 15 mins
