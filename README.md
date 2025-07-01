@@ -56,9 +56,9 @@ JavaScript    🕓 54m   🌕🌘🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 ```text
 🎮 VRChat                           🕘 3336 hrs 4 mins
 🎮 Palworld                         🕘 108 hrs 21 mins
-🎮 SteamVR                          🕘 5121 hrs 53 mins
-🎮 OVR Advanced Settings            🕘 3078 hrs 59 mins
-🎮 HELLDIVERS™ 2                    🕘 131 hrs 16 mins
+🎮 SteamVR                          🕘 5122 hrs 23 mins
+🎮 OVR Advanced Settings            🕘 3079 hrs 29 mins
+🎮 Forza Horizon 5                  🕘 28 hrs 24 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
