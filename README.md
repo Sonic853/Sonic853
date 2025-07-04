@@ -54,11 +54,11 @@ JSON          🕓 10m   🌘🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 VRChat                           🕘 3336 hrs 4 mins
+🎮 VRChat                           🕘 3337 hrs 19 mins
 🎮 Forza Horizon 5                  🕘 33 hrs 57 mins
 🎮 Palworld                         🕘 108 hrs 21 mins
-🎮 SteamVR                          🕘 5122 hrs 23 mins
-🎮 OVR Advanced Settings            🕘 3079 hrs 29 mins
+🎮 SteamVR                          🕘 5123 hrs 39 mins
+🎮 OVR Advanced Settings            🕘 3080 hrs 45 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
