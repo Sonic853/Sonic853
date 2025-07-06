@@ -50,11 +50,11 @@ Still Gathering Statistics...
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 VRChat                           🕘 3337 hrs 19 mins
+🎮 VRChat                           🕘 3339 hrs 15 mins
 🎮 Forza Horizon 5                  🕘 36 hrs 3 mins
 🎮 Palworld                         🕘 108 hrs 21 mins
-🎮 SteamVR                          🕘 5123 hrs 39 mins
-🎮 OVR Advanced Settings            🕘 3080 hrs 45 mins
+🎮 SteamVR                          🕘 5125 hrs 37 mins
+🎮 OVR Advanced Settings            🕘 3082 hrs 43 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
