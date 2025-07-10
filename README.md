@@ -56,9 +56,9 @@ YAML       🕓 1h30m  🌕🌚🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 ```text
 🎮 Forza Horizon 5                  🕘 38 hrs 58 mins
 🎮 Palworld                         🕘 108 hrs 21 mins
-🎮 VRChat                           🕘 3340 hrs 9 mins
+🎮 VRChat                           🕘 3342 hrs 32 mins
 🎮 Forza Horizon 4                  🕘 11 hrs 10 mins
-🎮 SteamVR                          🕘 5126 hrs 54 mins
+🎮 SteamVR                          🕘 5129 hrs 18 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
