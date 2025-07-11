@@ -55,10 +55,10 @@ YAML       🕓 1h30m  🌕🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 🎮 Recently played Steam games
 ```text
 🎮 Forza Horizon 5                  🕘 38 hrs 58 mins
+🎮 VRChat                           🕘 3344 hrs 55 mins
+🎮 SteamVR                          🕘 5131 hrs 42 mins
+🎮 OVR Advanced Settings            🕘 3088 hrs 47 mins
 🎮 Palworld                         🕘 108 hrs 21 mins
-🎮 VRChat                           🕘 3342 hrs 32 mins
-🎮 Forza Horizon 4                  🕘 11 hrs 10 mins
-🎮 SteamVR                          🕘 5129 hrs 18 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
