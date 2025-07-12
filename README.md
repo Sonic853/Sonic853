@@ -56,9 +56,9 @@ XML        🕓 26m    🌘🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 ```text
 🎮 Forza Horizon 5                  🕘 38 hrs 58 mins
 🎮 VRChat                           🕘 3344 hrs 55 mins
-🎮 SteamVR                          🕘 5131 hrs 42 mins
-🎮 OVR Advanced Settings            🕘 3088 hrs 47 mins
-🎮 Palworld                         🕘 108 hrs 21 mins
+🎮 SteamVR                          🕘 5132 hrs 53 mins
+🎮 OVR Advanced Settings            🕘 3089 hrs 58 mins
+🎮 Forza Horizon 4                  🕘 11 hrs 10 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
