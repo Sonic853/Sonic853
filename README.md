@@ -51,10 +51,10 @@ Still Gathering Statistics...
 🎮 Recently played Steam games
 ```text
 🎮 Forza Horizon 5                  🕘 38 hrs 58 mins
-🎮 VRChat                           🕘 3344 hrs 55 mins
-🎮 SteamVR                          🕘 5132 hrs 53 mins
-🎮 OVR Advanced Settings            🕘 3089 hrs 58 mins
-🎮 Forza Horizon 4                  🕘 11 hrs 10 mins
+🎮 VRChat                           🕘 3348 hrs 13 mins
+🎮 SteamVR                          🕘 5135 hrs 55 mins
+🎮 OVR Advanced Settings            🕘 3092 hrs 59 mins
+🎮 少女前线                         🕘 19 hrs 4 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
