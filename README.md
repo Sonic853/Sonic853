@@ -54,11 +54,11 @@ XML        🕓 21m    🌘🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 少女前线                         🕘 25 hrs 37 mins
-🎮 Forza Horizon 5                  🕘 38 hrs 58 mins
-🎮 SteamVR                          🕘 5138 hrs 53 mins
-🎮 OVR Advanced Settings            🕘 3095 hrs 57 mins
-🎮 DEATH STRANDING DIRECTOR'S CUT   🕘 19 hrs 37 mins
+🎮 少女前线                         🕘 29 hrs 16 mins
+🎮 SteamVR                          🕘 5146 hrs 59 mins
+🎮 OVR Advanced Settings            🕘 3104 hrs 3 mins
+🎮 DEATH STRANDING DIRECTOR'S CUT   🕘 23 hrs 53 mins
+🎮 VRChat                           🕘 3354 hrs 58 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
