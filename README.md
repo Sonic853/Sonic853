@@ -55,10 +55,10 @@ Less       🕓 2m    🌚🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 🎮 Recently played Steam games
 ```text
 🎮 DEATH STRANDING DIRECTOR'S CUT   🕘 39 hrs 51 mins
-🎮 少女前线                         🕘 30 hrs 46 mins
-🎮 SteamVR                          🕘 5148 hrs 38 mins
-🎮 OVR Advanced Settings            🕘 3105 hrs 41 mins
-🎮 VRChat                           🕘 3362 hrs 2 mins
+🎮 少女前线                         🕘 35 hrs 8 mins
+🎮 SteamVR                          🕘 5153 hrs 47 mins
+🎮 OVR Advanced Settings            🕘 3110 hrs 50 mins
+🎮 VRChat                           🕘 3367 hrs 2 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
