@@ -50,9 +50,9 @@ Still Gathering Statistics...
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 DEATH STRANDING DIRECTOR'S CUT   🕘 100 hrs 31 mins
+🎮 DEATH STRANDING DIRECTOR'S CUT   🕘 116 hrs 5 mins
+🎮 VRChat                           🕘 3376 hrs 9 mins
 🎮 少女前线                         🕘 48 hrs 25 mins
-🎮 VRChat                           🕘 3374 hrs 33 mins
 🎮 SteamVR                          🕘 5153 hrs 47 mins
 🎮 OVR Advanced Settings            🕘 3110 hrs 50 mins
 ```
