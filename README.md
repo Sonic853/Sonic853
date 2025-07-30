@@ -54,11 +54,11 @@ JSON          🕓 9m    🌚🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 DEATH STRANDING DIRECTOR'S CUT   🕘 126 hrs 52 mins
-🎮 VRChat                           🕘 3377 hrs 57 mins
-🎮 少女前线                         🕘 48 hrs 25 mins
+🎮 DEATH STRANDING DIRECTOR'S CUT   🕘 138 hrs 7 mins
+🎮 少女前线                         🕘 63 hrs 59 mins
+🎮 VRChat                           🕘 3380 hrs 10 mins
+🎮 Killing Floor 3                  🕘 8 hrs 6 mins
 🎮 SteamVR                          🕘 5155 hrs 56 mins
-🎮 OVR Advanced Settings            🕘 3112 hrs 59 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
