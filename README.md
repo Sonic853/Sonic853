@@ -55,8 +55,8 @@ Less       🕓 0s    🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 🎮 Recently played Steam games
 ```text
 🎮 DEATH STRANDING DIRECTOR'S CUT   🕘 147 hrs 29 mins
-🎮 少女前线                         🕘 66 hrs 59 mins
-🎮 VRChat                           🕘 3380 hrs 10 mins
+🎮 少女前线                         🕘 67 hrs 32 mins
+🎮 VRChat                           🕘 3382 hrs 5 mins
 🎮 Killing Floor 3                  🕘 8 hrs 6 mins
 🎮 SteamVR                          🕘 5155 hrs 56 mins
 ```
