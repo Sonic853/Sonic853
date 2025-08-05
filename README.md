@@ -54,7 +54,7 @@ JSON    🕓 0s     🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 DEATH STRANDING DIRECTOR'S CUT   🕘 157 hrs 40 mins
+🎮 DEATH STRANDING DIRECTOR'S CUT   🕘 170 hrs 59 mins
 🎮 少女前线                         🕘 67 hrs 33 mins
 🎮 VRChat                           🕘 3388 hrs 38 mins
 🎮 Killing Floor 3                  🕘 8 hrs 6 mins
