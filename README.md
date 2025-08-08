@@ -57,7 +57,7 @@ Text    🕓 26m    🌗🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑
 🎮 DEATH STRANDING DIRECTOR'S CUT   🕘 171 hrs 7 mins
 🎮 少女前线                         🕘 68 hrs 29 mins
 🎮 VRChat                           🕘 3392 hrs 46 mins
-🎮 Killing Floor 3                  🕘 8 hrs 6 mins
+🎮 Battlefield™ 6 Open Beta         🕘 7 hrs 43 mins
 🎮 SteamVR                          🕘 5159 hrs 35 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
