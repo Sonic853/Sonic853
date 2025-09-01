@@ -54,11 +54,11 @@ JavaScript 🕓 1h9m  🌕🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 DEATH STRANDING DIRECTOR'S CUT   🕘 171 hrs 7 mins
-🎮 少女前线                         🕘 68 hrs 29 mins
-🎮 VRChat                           🕘 3392 hrs 46 mins
-🎮 Battlefield™ 6 Open Beta         🕘 7 hrs 43 mins
-🎮 SteamVR                          🕘 5159 hrs 35 mins
+🎮 少女前线                         🕘 165 hrs 43 mins
+🎮 VRChat                           🕘 3420 hrs 53 mins
+🎮 METAL GEAR SOLID - Master Collection Version 🕘 20 hrs 7 mins
+🎮 SteamVR                          🕘 5176 hrs 46 mins
+🎮 OVR Advanced Settings            🕘 3133 hrs 47 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
