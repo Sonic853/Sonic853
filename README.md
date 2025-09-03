@@ -54,7 +54,7 @@ JavaScript 🕓 3m     🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 少女前线                         🕘 166 hrs 39 mins
+🎮 少女前线                         🕘 168 hrs 41 mins
 🎮 VRChat                           🕘 3420 hrs 53 mins
 🎮 METAL GEAR SOLID - Master Collection Version 🕘 20 hrs 7 mins
 🎮 SteamVR                          🕘 5176 hrs 46 mins
