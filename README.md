@@ -51,10 +51,10 @@ Still Gathering Statistics...
 🎮 Recently played Steam games
 ```text
 🎮 少女前线                         🕘 168 hrs 41 mins
-🎮 VRChat                           🕘 3420 hrs 53 mins
+🎮 VRChat                           🕘 3423 hrs 5 mins
 🎮 METAL GEAR SOLID - Master Collection Version 🕘 20 hrs 7 mins
-🎮 SteamVR                          🕘 5176 hrs 46 mins
-🎮 OVR Advanced Settings            🕘 3133 hrs 47 mins
+🎮 SteamVR                          🕘 5179 hrs 40 mins
+🎮 OVR Advanced Settings            🕘 3136 hrs 41 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
