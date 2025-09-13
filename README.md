@@ -54,11 +54,11 @@ JavaScript 🕓 4m    🌚🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 少女前线                         🕘 208 hrs 2 mins
+🎮 少女前线                         🕘 208 hrs 8 mins
 🎮 METAL GEAR SOLID Δ: SNAKE EATER  🕘 23 hrs 58 mins
-🎮 METAL GEAR SOLID - Master Collection Version 🕘 20 hrs 7 mins
 🎮 SteamVR                          🕘 5185 hrs 34 mins
 🎮 OVR Advanced Settings            🕘 3142 hrs 15 mins
+🎮 METAL GEAR SOLID - Master Collection Version 🕘 20 hrs 7 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
