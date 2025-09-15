@@ -50,7 +50,7 @@ Still Gathering Statistics...
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 少女前线                         🕘 211 hrs 23 mins
+🎮 少女前线                         🕘 212 hrs 36 mins
 🎮 METAL GEAR SOLID Δ: SNAKE EATER  🕘 23 hrs 58 mins
 🎮 SteamVR                          🕘 5185 hrs 34 mins
 🎮 OVR Advanced Settings            🕘 3142 hrs 15 mins
