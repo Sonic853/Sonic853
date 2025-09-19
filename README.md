@@ -51,11 +51,11 @@ C#     🕓 15m 🌕🌕🌕🌕🌕🌕🌕🌝🌑🌑🌑🌑🌑🌑🌑🌑
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 少女前线                         🕘 219 hrs 42 mins
-🎮 METAL GEAR SOLID Δ: SNAKE EATER  🕘 23 hrs 58 mins
+🎮 少女前线                         🕘 225 hrs 13 mins
 🎮 SteamVR                          🕘 5185 hrs 34 mins
 🎮 OVR Advanced Settings            🕘 3142 hrs 15 mins
 🎮 VRChat                           🕘 3426 hrs 41 mins
+🎮 METAL GEAR SOLID V: THE PHANTOM PAIN 🕘 3 hrs 18 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
