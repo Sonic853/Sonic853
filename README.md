@@ -54,10 +54,10 @@ Text      🕓 1h1m  🌕🌝🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 少女前线                         🕘 226 hrs 6 mins
+🎮 少女前线                         🕘 231 hrs 5 mins
 🎮 SteamVR                          🕘 5185 hrs 34 mins
 🎮 OVR Advanced Settings            🕘 3142 hrs 15 mins
-🎮 VRChat                           🕘 3426 hrs 41 mins
+🎮 VRChat                           🕘 3427 hrs 3 mins
 🎮 Outer Wilds                      🕘 2 hrs 59 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
