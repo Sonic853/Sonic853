@@ -54,11 +54,11 @@ Python    🕓 1h15m 🌕🌝🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 少女前线                         🕘 231 hrs 5 mins
-🎮 SteamVR                          🕘 5185 hrs 34 mins
-🎮 OVR Advanced Settings            🕘 3142 hrs 15 mins
-🎮 VRChat                           🕘 3427 hrs 3 mins
+🎮 少女前线                         🕘 234 hrs 53 mins
 🎮 Outer Wilds                      🕘 2 hrs 59 mins
+🎮 SteamVR                          🕘 5185 hrs 34 mins
+🎮 OBS Studio                       🕘 28 hrs 46 mins
+🎮 OVR Advanced Settings            🕘 3142 hrs 15 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
