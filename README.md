@@ -54,11 +54,11 @@ Python    🕓 1h15m 🌕🌝🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 少女前线                         🕘 236 hrs 8 mins
+🎮 少女前线                         🕘 239 hrs 59 mins
 🎮 gogh: Focus with Your Avatar     🕘 44 hrs 34 mins
+🎮 Dying Light: The Beast           🕘 2 hrs 54 mins
 🎮 OBS Studio                       🕘 28 hrs 46 mins
 🎮 VRChat                           🕘 3427 hrs 3 mins
-🎮 SteamVR                          🕘 5185 hrs 34 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
