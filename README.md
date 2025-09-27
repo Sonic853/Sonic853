@@ -54,11 +54,11 @@ Batchfile     🕓 2h11m  🌕🌘🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 少女前线                         🕘 245 hrs 7 mins
+🎮 少女前线                         🕘 247 hrs 15 mins
 🎮 gogh: Focus with Your Avatar     🕘 62 hrs 32 mins
 🎮 Dying Light: The Beast           🕘 2 hrs 54 mins
+🎮 VRChat                           🕘 3429 hrs 18 mins
 🎮 OBS Studio                       🕘 28 hrs 46 mins
-🎮 VRChat                           🕘 3428 hrs 16 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
