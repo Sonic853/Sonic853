@@ -54,7 +54,7 @@ Vue.js        🕓 51m    🌘🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 少女前线                         🕘 247 hrs 15 mins
+🎮 少女前线                         🕘 249 hrs 8 mins
 🎮 gogh: Focus with Your Avatar     🕘 62 hrs 32 mins
 🎮 Dying Light: The Beast           🕘 2 hrs 54 mins
 🎮 VRChat                           🕘 3429 hrs 18 mins
