@@ -56,7 +56,7 @@ Text          🕓 2h18m  🌕🌚🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 ```text
 🎮 少女前线                         🕘 250 hrs 24 mins
 🎮 gogh: Focus with Your Avatar     🕘 62 hrs 32 mins
-🎮 VRChat                           🕘 3439 hrs 38 mins
+🎮 VRChat                           🕘 3440 hrs 48 mins
 🎮 Dying Light: The Beast           🕘 2 hrs 54 mins
 🎮 OBS Studio                       🕘 28 hrs 46 mins
 ```
