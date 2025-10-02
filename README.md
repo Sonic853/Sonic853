@@ -54,11 +54,11 @@ Text       🕓 2h11m  🌕🌘🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 少女前线                         🕘 250 hrs 24 mins
+🎮 少女前线                         🕘 250 hrs 28 mins
 🎮 gogh: Focus with Your Avatar     🕘 62 hrs 32 mins
-🎮 VRChat                           🕘 3440 hrs 48 mins
-🎮 Dying Light: The Beast           🕘 2 hrs 54 mins
-🎮 OBS Studio                       🕘 28 hrs 46 mins
+🎮 VRChat                           🕘 3442 hrs 38 mins
+🎮 SteamVR                          🕘 5190 hrs 5 mins
+🎮 OVR Advanced Settings            🕘 3146 hrs 4 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
