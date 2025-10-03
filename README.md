@@ -54,11 +54,11 @@ Text       🕓 2h11m  🌕🌘🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
+🎮 gogh: Focus with Your Avatar     🕘 69 hrs 45 mins
 🎮 少女前线                         🕘 250 hrs 28 mins
-🎮 gogh: Focus with Your Avatar     🕘 62 hrs 32 mins
-🎮 VRChat                           🕘 3442 hrs 38 mins
-🎮 SteamVR                          🕘 5190 hrs 5 mins
-🎮 OVR Advanced Settings            🕘 3146 hrs 4 mins
+🎮 VRChat                           🕘 3448 hrs 34 mins
+🎮 SteamVR                          🕘 5192 hrs 30 mins
+🎮 Ghosts Of Tabor                  🕘 59 hrs 17 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
