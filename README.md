@@ -54,8 +54,8 @@ TypeScript 🕓 0s    🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 🎮 Recently played Steam games
 ```text
 🎮 gogh: Focus with Your Avatar     🕘 69 hrs 45 mins
+🎮 VRChat                           🕘 3454 hrs 13 mins
 🎮 少女前线                         🕘 250 hrs 28 mins
-🎮 VRChat                           🕘 3449 hrs 0 mins
 🎮 SteamVR                          🕘 5193 hrs 19 mins
 🎮 Battlefield™ 2042                🕘 34 hrs 52 mins
 ```
