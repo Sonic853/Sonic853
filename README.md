@@ -53,11 +53,11 @@ TypeScript 🕓 0s    🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
+🎮 VRChat                           🕘 3456 hrs 54 mins
 🎮 gogh: Focus with Your Avatar     🕘 69 hrs 45 mins
-🎮 VRChat                           🕘 3454 hrs 13 mins
 🎮 少女前线                         🕘 250 hrs 28 mins
-🎮 SteamVR                          🕘 5193 hrs 19 mins
-🎮 Battlefield™ 2042                🕘 34 hrs 52 mins
+🎮 SteamVR                          🕘 5196 hrs 0 mins
+🎮 Battlefield™ 2042                🕘 39 hrs 16 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
