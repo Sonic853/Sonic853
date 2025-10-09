@@ -50,10 +50,10 @@ C# 🕓 4h23m 🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 VRChat                           🕘 3460 hrs 21 mins
+🎮 VRChat                           🕘 3462 hrs 21 mins
+🎮 SteamVR                          🕘 5202 hrs 6 mins
 🎮 gogh: Focus with Your Avatar     🕘 69 hrs 45 mins
-🎮 SteamVR                          🕘 5200 hrs 6 mins
-🎮 OVR Advanced Settings            🕘 3153 hrs 2 mins
+🎮 OVR Advanced Settings            🕘 3155 hrs 2 mins
 🎮 少女前线                         🕘 250 hrs 28 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
