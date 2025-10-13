@@ -55,9 +55,9 @@ JSON       🕓 5m    🌚🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 🎮 Recently played Steam games
 ```text
 🎮 VRChat                           🕘 3470 hrs 34 mins
+🎮 Battlefield™ 6                   🕘 23 hrs 43 mins
 🎮 SteamVR                          🕘 5208 hrs 55 mins
 🎮 OVR Advanced Settings            🕘 3161 hrs 51 mins
-🎮 Battlefield™ 6                   🕘 14 hrs 7 mins
 🎮 Battlefield™ 2042                🕘 39 hrs 34 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
