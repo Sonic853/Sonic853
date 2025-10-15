@@ -54,10 +54,10 @@ JSON       🕓 5m     🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 Battlefield™ 6                   🕘 31 hrs 37 mins
-🎮 VRChat                           🕘 3470 hrs 34 mins
-🎮 SteamVR                          🕘 5208 hrs 55 mins
-🎮 OVR Advanced Settings            🕘 3161 hrs 51 mins
+🎮 Battlefield™ 6                   🕘 36 hrs 40 mins
+🎮 VRChat                           🕘 3470 hrs 43 mins
+🎮 SteamVR                          🕘 5209 hrs 51 mins
+🎮 OVR Advanced Settings            🕘 3162 hrs 46 mins
 🎮 Battlefield™ 2042                🕘 39 hrs 34 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
