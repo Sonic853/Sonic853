@@ -53,10 +53,10 @@ Unity3D Asset 🕓 0s     🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 Battlefield™ 6                   🕘 45 hrs 58 mins
-🎮 VRChat                           🕘 3483 hrs 1 mins
-🎮 SteamVR                          🕘 5216 hrs 55 mins
-🎮 OVR Advanced Settings            🕘 3169 hrs 50 mins
+🎮 Battlefield™ 6                   🕘 53 hrs 17 mins
+🎮 VRChat                           🕘 3488 hrs 9 mins
+🎮 SteamVR                          🕘 5222 hrs 6 mins
+🎮 OVR Advanced Settings            🕘 3175 hrs 1 mins
 🎮 DARK SOULS™: REMASTERED          🕘 6 hrs 7 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
