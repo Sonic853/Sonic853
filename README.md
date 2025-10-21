@@ -54,11 +54,11 @@ Other         🕓 4m     🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 Battlefield™ 6                   🕘 53 hrs 17 mins
-🎮 VRChat                           🕘 3491 hrs 23 mins
-🎮 SteamVR                          🕘 5225 hrs 18 mins
-🎮 OVR Advanced Settings            🕘 3178 hrs 13 mins
-🎮 DARK SOULS™: REMASTERED          🕘 6 hrs 7 mins
+🎮 Battlefield™ 6                   🕘 56 hrs 6 mins
+🎮 VRChat                           🕘 3493 hrs 56 mins
+🎮 SteamVR                          🕘 5227 hrs 56 mins
+🎮 OVR Advanced Settings            🕘 3180 hrs 50 mins
+🎮 s&box                            🕘 485 hrs 30 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
