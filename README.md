@@ -58,7 +58,7 @@ Markdown 🕓 3m     🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 🎮 VRChat                           🕘 3501 hrs 42 mins
 🎮 SteamVR                          🕘 5233 hrs 21 mins
 🎮 OVR Advanced Settings            🕘 3186 hrs 15 mins
-🎮 Escape from Duckov               🕘 1 hrs 42 mins
+🎮 Escape from Duckov               🕘 9 hrs 43 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
