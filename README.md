@@ -55,10 +55,10 @@ Markdown 🕓 3m     🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 🎮 Recently played Steam games
 ```text
 🎮 Battlefield™ 6                   🕘 56 hrs 6 mins
-🎮 VRChat                           🕘 3501 hrs 42 mins
-🎮 SteamVR                          🕘 5233 hrs 21 mins
-🎮 OVR Advanced Settings            🕘 3186 hrs 15 mins
-🎮 Escape from Duckov               🕘 9 hrs 43 mins
+🎮 VRChat                           🕘 3503 hrs 13 mins
+🎮 SteamVR                          🕘 5234 hrs 51 mins
+🎮 OVR Advanced Settings            🕘 3187 hrs 45 mins
+🎮 Escape from Duckov               🕘 21 hrs 47 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
