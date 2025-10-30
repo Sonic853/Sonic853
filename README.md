@@ -54,10 +54,10 @@ Other         🕓 1m     🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 VRChat                           🕘 3506 hrs 4 mins
+🎮 VRChat                           🕘 3509 hrs 50 mins
 🎮 Escape from Duckov               🕘 29 hrs 58 mins
-🎮 SteamVR                          🕘 5237 hrs 35 mins
-🎮 OVR Advanced Settings            🕘 3190 hrs 27 mins
+🎮 SteamVR                          🕘 5241 hrs 19 mins
+🎮 OVR Advanced Settings            🕘 3194 hrs 12 mins
 🎮 Battlefield™ 6                   🕘 57 hrs 46 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
