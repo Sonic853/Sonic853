@@ -54,10 +54,10 @@ JSON          🕓 0s    🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
+🎮 SteamVR                          🕘 5257 hrs 3 mins
+🎮 OVR Advanced Settings            🕘 3209 hrs 56 mins
 🎮 Escape from Duckov               🕘 37 hrs 57 mins
-🎮 SteamVR                          🕘 5250 hrs 18 mins
-🎮 OVR Advanced Settings            🕘 3203 hrs 10 mins
-🎮 VRChat                           🕘 3510 hrs 13 mins
+🎮 VRChat                           🕘 3517 hrs 59 mins
 🎮 Battlefield™ 6                   🕘 57 hrs 46 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
