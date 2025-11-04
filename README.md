@@ -52,7 +52,7 @@ Unity3D Asset 🕓 4m     🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 Escape from Duckov               🕘 44 hrs 56 mins
+🎮 Escape from Duckov               🕘 50 hrs 2 mins
 🎮 VRChat                           🕘 3529 hrs 14 mins
 🎮 SteamVR                          🕘 5260 hrs 10 mins
 🎮 OVR Advanced Settings            🕘 3213 hrs 3 mins
