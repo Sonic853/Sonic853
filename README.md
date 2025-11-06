@@ -51,9 +51,9 @@ Still Gathering Statistics...
 🎮 Recently played Steam games
 ```text
 🎮 Escape from Duckov               🕘 50 hrs 2 mins
-🎮 VRChat                           🕘 3532 hrs 1 mins
-🎮 SteamVR                          🕘 5263 hrs 1 mins
-🎮 OVR Advanced Settings            🕘 3215 hrs 53 mins
+🎮 SteamVR                          🕘 5267 hrs 30 mins
+🎮 OVR Advanced Settings            🕘 3220 hrs 22 mins
+🎮 VRChat                           🕘 3535 hrs 6 mins
 🎮 Battlefield™ 6                   🕘 57 hrs 46 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
