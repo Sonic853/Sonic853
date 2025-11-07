@@ -54,10 +54,10 @@ GLSL          🕓 1m     🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 Escape from Duckov               🕘 50 hrs 2 mins
-🎮 SteamVR                          🕘 5267 hrs 30 mins
-🎮 OVR Advanced Settings            🕘 3220 hrs 22 mins
-🎮 VRChat                           🕘 3535 hrs 6 mins
+🎮 Escape from Duckov               🕘 50 hrs 36 mins
+🎮 VRChat                           🕘 3539 hrs 4 mins
+🎮 SteamVR                          🕘 5267 hrs 57 mins
+🎮 OVR Advanced Settings            🕘 3220 hrs 49 mins
 🎮 Battlefield™ 6                   🕘 57 hrs 46 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
