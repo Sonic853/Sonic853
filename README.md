@@ -57,8 +57,8 @@ Unity3D Asset 🕓 0s    🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 🎮 VRChat                           🕘 3573 hrs 3 mins
 🎮 SteamVR                          🕘 5286 hrs 0 mins
 🎮 OVR Advanced Settings            🕘 3238 hrs 42 mins
+🎮 Battlefield™ 6                   🕘 74 hrs 25 mins
 🎮 Escape from Duckov               🕘 53 hrs 46 mins
-🎮 Battlefield™ 6                   🕘 67 hrs 49 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
