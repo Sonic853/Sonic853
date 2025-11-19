@@ -53,9 +53,9 @@ TypeScript 🕓 0s  🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 VRChat                           🕘 3575 hrs 28 mins
-🎮 SteamVR                          🕘 5288 hrs 1 mins
-🎮 OVR Advanced Settings            🕘 3240 hrs 42 mins
+🎮 VRChat                           🕘 3577 hrs 8 mins
+🎮 SteamVR                          🕘 5289 hrs 48 mins
+🎮 OVR Advanced Settings            🕘 3242 hrs 29 mins
 🎮 Battlefield™ 6                   🕘 74 hrs 25 mins
 🎮 Escape from Duckov               🕘 53 hrs 46 mins
 ```
