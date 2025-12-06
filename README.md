@@ -52,10 +52,10 @@ TypeScript 🕓 2m    🌘🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 SteamVR                          🕘 5320 hrs 54 mins
-🎮 OVR Advanced Settings            🕘 3273 hrs 32 mins
-🎮 VRChat                           🕘 3601 hrs 5 mins
-🎮 Battlefield™ 6                   🕘 84 hrs 14 mins
+🎮 SteamVR                          🕘 5323 hrs 20 mins
+🎮 OVR Advanced Settings            🕘 3275 hrs 59 mins
+🎮 VRChat                           🕘 3603 hrs 21 mins
+🎮 Battlefield™ 6                   🕘 89 hrs 43 mins
 🎮 Old Market Simulator             🕘 2 hrs 47 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
