@@ -50,10 +50,10 @@ Still Gathering Statistics...
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 SteamVR                          🕘 5334 hrs 1 mins
-🎮 OVR Advanced Settings            🕘 3286 hrs 39 mins
-🎮 VRChat                           🕘 3614 hrs 17 mins
-🎮 Battlefield™ 6                   🕘 89 hrs 43 mins
+🎮 SteamVR                          🕘 5334 hrs 6 mins
+🎮 OVR Advanced Settings            🕘 3286 hrs 44 mins
+🎮 VRChat                           🕘 3614 hrs 23 mins
+🎮 Battlefield™ 6                   🕘 94 hrs 22 mins
 🎮 DSX                              🕘 0 hrs 11 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
