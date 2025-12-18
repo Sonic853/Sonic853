@@ -54,9 +54,9 @@ HTML      🕓 44m   🌕🌘🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 VRChat                           🕘 3625 hrs 34 mins
-🎮 SteamVR                          🕘 5345 hrs 0 mins
-🎮 OVR Advanced Settings            🕘 3297 hrs 37 mins
+🎮 VRChat                           🕘 3627 hrs 56 mins
+🎮 SteamVR                          🕘 5347 hrs 23 mins
+🎮 OVR Advanced Settings            🕘 3300 hrs 1 mins
 🎮 Battlefield™ 6                   🕘 101 hrs 0 mins
 🎮 OBS Studio                       🕘 29 hrs 28 mins
 ```
