@@ -54,10 +54,10 @@ Vue.js                           🕓 51m    🌚🌑🌑🌑🌑  2.8%
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 VRChat                           🕘 3630 hrs 58 mins
-🎮 SteamVR                          🕘 5350 hrs 24 mins
-🎮 OVR Advanced Settings            🕘 3303 hrs 1 mins
-🎮 Battlefield™ 6                   🕘 101 hrs 0 mins
+🎮 VRChat                           🕘 3634 hrs 40 mins
+🎮 SteamVR                          🕘 5354 hrs 25 mins
+🎮 OVR Advanced Settings            🕘 3307 hrs 2 mins
+🎮 Battlefield™ 6                   🕘 101 hrs 38 mins
 🎮 OBS Studio                       🕘 29 hrs 59 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
