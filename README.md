@@ -54,11 +54,11 @@ Text             🕓 56m    🌗🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 VRChat                           🕘 3652 hrs 28 mins
-🎮 SteamVR                          🕘 5370 hrs 39 mins
-🎮 OVR Advanced Settings            🕘 3323 hrs 15 mins
-🎮 Battlefield™ 6                   🕘 103 hrs 2 mins
+🎮 VRChat                           🕘 3655 hrs 6 mins
+🎮 SteamVR                          🕘 5373 hrs 17 mins
+🎮 OVR Advanced Settings            🕘 3325 hrs 53 mins
 🎮 The Trolley Solution             🕘 4 hrs 29 mins
+🎮 Battlefield™ 6                   🕘 103 hrs 2 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
