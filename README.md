@@ -54,9 +54,9 @@ JSON             🕓 49m   🌗🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 VRChat                           🕘 3665 hrs 57 mins
-🎮 SteamVR                          🕘 5375 hrs 32 mins
-🎮 OVR Advanced Settings            🕘 3328 hrs 3 mins
+🎮 VRChat                           🕘 3669 hrs 14 mins
+🎮 SteamVR                          🕘 5378 hrs 8 mins
+🎮 OVR Advanced Settings            🕘 3330 hrs 38 mins
 🎮 The Trolley Solution             🕘 4 hrs 29 mins
 🎮 OBS Studio                       🕘 32 hrs 38 mins
 ```
