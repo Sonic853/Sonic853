@@ -54,11 +54,9 @@ Python        🕓 21m    🌘🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 VRChat                           🕘 3689 hrs 31 mins
-🎮 OVR Advanced Settings            🕘 3347 hrs 21 mins
-🎮 SteamVR                          🕘 5393 hrs 5 mins
-🎮 OBS Studio                       🕘 32 hrs 38 mins
-🎮 Battlefield™ 6                   🕘 103 hrs 2 mins
+🎮 VRChat                           🕘 3693 hrs 40 mins
+🎮 OVR Advanced Settings            🕘 3351 hrs 43 mins
+🎮 SteamVR                          🕘 5397 hrs 27 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
