@@ -54,9 +54,10 @@ Text   🕓 17m    🌘🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 VRChat                           🕘 3712 hrs 16 mins
-🎮 OVR Advanced Settings            🕘 3366 hrs 33 mins
-🎮 SteamVR                          🕘 5412 hrs 17 mins
+🎮 VRChat                           🕘 3723 hrs 47 mins
+🎮 OVR Advanced Settings            🕘 3375 hrs 54 mins
+🎮 SteamVR                          🕘 5421 hrs 38 mins
+🎮 A Plague Tale: Innocence         🕘 2 hrs 19 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
