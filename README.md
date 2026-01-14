@@ -54,10 +54,10 @@ Python 🕓 23m    🌘🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 VRChat                           🕘 3731 hrs 6 mins
-🎮 OVR Advanced Settings            🕘 3380 hrs 59 mins
-🎮 SteamVR                          🕘 5426 hrs 43 mins
-🎮 A Plague Tale: Innocence         🕘 2 hrs 19 mins
+🎮 VRChat                           🕘 3733 hrs 25 mins
+🎮 OVR Advanced Settings            🕘 3383 hrs 18 mins
+🎮 SteamVR                          🕘 5429 hrs 3 mins
+🎮 A Plague Tale: Innocence         🕘 6 hrs 44 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
