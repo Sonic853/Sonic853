@@ -54,10 +54,10 @@ JSON          🕓 5m     🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 VRChat                           🕘 3744 hrs 10 mins
-🎮 SteamVR                          🕘 5439 hrs 47 mins
-🎮 OVR Advanced Settings            🕘 3394 hrs 1 mins
-🎮 A Plague Tale: Innocence         🕘 6 hrs 44 mins
+🎮 VRChat                           🕘 3748 hrs 58 mins
+🎮 SteamVR                          🕘 5444 hrs 4 mins
+🎮 OVR Advanced Settings            🕘 3398 hrs 19 mins
+🎮 A Plague Tale: Innocence         🕘 10 hrs 51 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
