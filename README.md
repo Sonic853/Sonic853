@@ -35,7 +35,11 @@ A bad coder. And a bad life.
 <!-- waka-box start -->
 📊 Weekly development breakdown
 ```text
-Still Gathering Statistics...
+C#                               🕓 21h17m 🌕🌕🌕🌕🌚 83.3%
+XML                              🕓 2h51m  🌗🌑🌑🌑🌑 11.2%
+Text                             🕓 1h18m  🌘🌑🌑🌑🌑  5.2%
+Other                            🕓 4m     🌑🌑🌑🌑🌑  0.3%
+Microsoft Visual Studio Solution 🕓 0s     🌑🌑🌑🌑🌑  0.0%
 ```
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
