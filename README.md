@@ -54,9 +54,9 @@ Microsoft Visual Studio Solution 🕓 0s     🌑🌑🌑🌑🌑  0.0%
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 SteamVR                          🕘 5450 hrs 57 mins
-🎮 OVR Advanced Settings            🕘 3405 hrs 11 mins
-🎮 VRChat                           🕘 3754 hrs 49 mins
+🎮 SteamVR                          🕘 5452 hrs 5 mins
+🎮 OVR Advanced Settings            🕘 3406 hrs 19 mins
+🎮 VRChat                           🕘 3755 hrs 50 mins
 🎮 A Plague Tale: Innocence         🕘 13 hrs 20 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
