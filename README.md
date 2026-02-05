@@ -50,10 +50,9 @@ Still Gathering Statistics...
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 SteamVR                          🕘 5459 hrs 49 mins
-🎮 OVR Advanced Settings            🕘 3414 hrs 2 mins
-🎮 VRChat                           🕘 3762 hrs 31 mins
-🎮 A Plague Tale: Innocence         🕘 13 hrs 20 mins
+🎮 SteamVR                          🕘 5461 hrs 5 mins
+🎮 OVR Advanced Settings            🕘 3415 hrs 18 mins
+🎮 VRChat                           🕘 3763 hrs 37 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
