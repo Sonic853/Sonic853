@@ -54,9 +54,9 @@ MDX           🕓 4m    🌚🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 SteamVR                          🕘 5474 hrs 26 mins
-🎮 OVR Advanced Settings            🕘 3428 hrs 37 mins
-🎮 VRChat                           🕘 3774 hrs 31 mins
+🎮 SteamVR                          🕘 5474 hrs 53 mins
+🎮 OVR Advanced Settings            🕘 3429 hrs 5 mins
+🎮 VRChat                           🕘 3774 hrs 59 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
