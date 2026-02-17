@@ -53,9 +53,9 @@ XML    🕓 0s    🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 SteamVR                          🕘 5487 hrs 47 mins
-🎮 OVR Advanced Settings            🕘 3441 hrs 57 mins
-🎮 VRChat                           🕘 3787 hrs 35 mins
+🎮 SteamVR                          🕘 5493 hrs 34 mins
+🎮 OVR Advanced Settings            🕘 3447 hrs 45 mins
+🎮 VRChat                           🕘 3794 hrs 38 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
