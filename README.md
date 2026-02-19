@@ -52,7 +52,7 @@ Still Gathering Statistics...
 ```text
 🎮 SteamVR                          🕘 5493 hrs 34 mins
 🎮 OVR Advanced Settings            🕘 3447 hrs 45 mins
-🎮 VRChat                           🕘 3794 hrs 38 mins
+🎮 VRChat                           🕘 3794 hrs 44 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
