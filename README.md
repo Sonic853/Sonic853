@@ -54,9 +54,9 @@ Git Config    🕓 9m    🌕🌘🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 SteamVR                          🕘 5518 hrs 6 mins
-🎮 OVR Advanced Settings            🕘 3472 hrs 16 mins
-🎮 VRChat                           🕘 3817 hrs 59 mins
+🎮 SteamVR                          🕘 5519 hrs 42 mins
+🎮 OVR Advanced Settings            🕘 3473 hrs 51 mins
+🎮 VRChat                           🕘 3819 hrs 10 mins
 🎮 MyDockFinder                     🕘 6 hrs 15 mins
 🎮 A Plague Tale: Innocence         🕘 17 hrs 21 mins
 ```
