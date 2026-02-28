@@ -54,11 +54,11 @@ Git Config    🕓 9m    🌝🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 SteamVR                          🕘 5519 hrs 42 mins
-🎮 OVR Advanced Settings            🕘 3473 hrs 51 mins
-🎮 VRChat                           🕘 3819 hrs 10 mins
+🎮 SteamVR                          🕘 5521 hrs 22 mins
+🎮 OVR Advanced Settings            🕘 3475 hrs 32 mins
+🎮 VRChat                           🕘 3820 hrs 51 mins
 🎮 MyDockFinder                     🕘 6 hrs 15 mins
-🎮 A Plague Tale: Innocence         🕘 17 hrs 21 mins
+🎮 Far Far West Demo                🕘 4 hrs 14 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
