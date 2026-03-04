@@ -54,9 +54,9 @@ Unity3D Asset 🕓 41m    🌝🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 SteamVR                          🕘 5533 hrs 5 mins
-🎮 OVR Advanced Settings            🕘 3487 hrs 14 mins
-🎮 VRChat                           🕘 3832 hrs 31 mins
+🎮 SteamVR                          🕘 5537 hrs 3 mins
+🎮 OVR Advanced Settings            🕘 3491 hrs 12 mins
+🎮 VRChat                           🕘 3836 hrs 32 mins
 🎮 Far Far West Demo                🕘 5 hrs 32 mins
 🎮 MyDockFinder                     🕘 6 hrs 15 mins
 ```
