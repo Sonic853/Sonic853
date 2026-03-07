@@ -54,9 +54,9 @@ JSON          🕓 46m    🌖🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 SteamVR                          🕘 5542 hrs 58 mins
-🎮 OVR Advanced Settings            🕘 3497 hrs 6 mins
-🎮 VRChat                           🕘 3842 hrs 1 mins
+🎮 SteamVR                          🕘 5546 hrs 25 mins
+🎮 OVR Advanced Settings            🕘 3500 hrs 32 mins
+🎮 VRChat                           🕘 3845 hrs 26 mins
 🎮 Far Far West Demo                🕘 5 hrs 32 mins
 🎮 MyDockFinder                     🕘 6 hrs 15 mins
 ```
