@@ -54,9 +54,9 @@ JavaScript    🕓 29m    🌘🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 VRChat                           🕘 3854 hrs 25 mins
-🎮 SteamVR                          🕘 5553 hrs 6 mins
-🎮 OVR Advanced Settings            🕘 3507 hrs 13 mins
+🎮 VRChat                           🕘 3856 hrs 50 mins
+🎮 SteamVR                          🕘 5555 hrs 39 mins
+🎮 OVR Advanced Settings            🕘 3509 hrs 45 mins
 🎮 Far Far West Demo                🕘 5 hrs 32 mins
 🎮 MyDockFinder                     🕘 6 hrs 15 mins
 ```
