@@ -58,7 +58,6 @@ Vue.js     🕓 27m    🌗🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 🎮 SteamVR                          🕘 5555 hrs 39 mins
 🎮 OVR Advanced Settings            🕘 3509 hrs 45 mins
 🎮 Far Far West Demo                🕘 5 hrs 32 mins
-🎮 MyDockFinder                     🕘 6 hrs 15 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
