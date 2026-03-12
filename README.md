@@ -58,6 +58,7 @@ Vue.js     🕓 27m    🌗🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 🎮 SteamVR                          🕘 5555 hrs 39 mins
 🎮 OVR Advanced Settings            🕘 3509 hrs 45 mins
 🎮 Far Far West Demo                🕘 5 hrs 32 mins
+🎮 Train Simulator Classic          🕘 0 hrs 19 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
