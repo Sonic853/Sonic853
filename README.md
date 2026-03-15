@@ -50,7 +50,7 @@ Still Gathering Statistics...
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 VRChat                           🕘 3856 hrs 50 mins
+🎮 VRChat                           🕘 3857 hrs 1 mins
 🎮 SteamVR                          🕘 5555 hrs 39 mins
 🎮 OVR Advanced Settings            🕘 3509 hrs 45 mins
 🎮 Far Far West Demo                🕘 5 hrs 32 mins
