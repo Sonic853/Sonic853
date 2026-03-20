@@ -54,9 +54,9 @@ Markdown      🕓 49m    🌖🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 VRChat                           🕘 3857 hrs 7 mins
-🎮 SteamVR                          🕘 5555 hrs 39 mins
-🎮 OVR Advanced Settings            🕘 3509 hrs 45 mins
+🎮 VRChat                           🕘 3858 hrs 26 mins
+🎮 SteamVR                          🕘 5557 hrs 1 mins
+🎮 OVR Advanced Settings            🕘 3511 hrs 8 mins
 🎮 Train Simulator Classic          🕘 0 hrs 19 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
