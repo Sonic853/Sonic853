@@ -54,11 +54,11 @@ Batchfile     🕓 1h19m  🌕🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 VRChat                           🕘 3860 hrs 58 mins
-🎮 SteamVR                          🕘 5559 hrs 44 mins
 🎮 OVR Advanced Settings            🕘 3513 hrs 51 mins
+🎮 SteamVR                          🕘 5559 hrs 44 mins
+🎮 VRChat                           🕘 3860 hrs 58 mins
+🎮 DEATH STRANDING 2: ON THE BEACH  🕘 0 hrs 24 mins
 🎮 Azur Lane: Crosswave             🕘 0 hrs 14 mins
-🎮 Train Simulator Classic          🕘 0 hrs 19 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
