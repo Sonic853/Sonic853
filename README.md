@@ -54,10 +54,10 @@ Vue.js        🕓 58m    🌖🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
+🎮 DEATH STRANDING 2: ON THE BEACH  🕘 5 hrs 57 mins
 🎮 VRChat                           🕘 3860 hrs 58 mins
 🎮 OVR Advanced Settings            🕘 3513 hrs 51 mins
 🎮 SteamVR                          🕘 5559 hrs 44 mins
-🎮 DEATH STRANDING 2: ON THE BEACH  🕘 4 hrs 1 mins
 🎮 Azur Lane: Crosswave             🕘 0 hrs 14 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
