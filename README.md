@@ -55,9 +55,9 @@ Batchfile     🕓 58m    🌝🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 🎮 Recently played Steam games
 ```text
 🎮 DEATH STRANDING 2: ON THE BEACH  🕘 5 hrs 57 mins
-🎮 VRChat                           🕘 3861 hrs 21 mins
-🎮 OVR Advanced Settings            🕘 3514 hrs 9 mins
-🎮 SteamVR                          🕘 5560 hrs 3 mins
+🎮 VRChat                           🕘 3861 hrs 45 mins
+🎮 SteamVR                          🕘 5560 hrs 29 mins
+🎮 OVR Advanced Settings            🕘 3514 hrs 35 mins
 🎮 Azur Lane: Crosswave             🕘 0 hrs 14 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
