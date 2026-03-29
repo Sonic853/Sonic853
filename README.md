@@ -54,10 +54,10 @@ Batchfile     🕓 58m    🌝🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 VRChat                           🕘 3863 hrs 34 mins
-🎮 OVR Advanced Settings            🕘 3516 hrs 24 mins
-🎮 SteamVR                          🕘 5562 hrs 18 mins
-🎮 DEATH STRANDING 2: ON THE BEACH  🕘 5 hrs 57 mins
+🎮 DEATH STRANDING 2: ON THE BEACH  🕘 13 hrs 23 mins
+🎮 SteamVR                          🕘 5563 hrs 20 mins
+🎮 OVR Advanced Settings            🕘 3517 hrs 26 mins
+🎮 VRChat                           🕘 3864 hrs 39 mins
 🎮 Azur Lane: Crosswave             🕘 0 hrs 14 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
