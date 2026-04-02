@@ -50,10 +50,10 @@ Still Gathering Statistics...
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 DEATH STRANDING 2: ON THE BEACH  🕘 25 hrs 15 mins
-🎮 VRChat                           🕘 3867 hrs 35 mins
-🎮 SteamVR                          🕘 5566 hrs 10 mins
-🎮 OVR Advanced Settings            🕘 3520 hrs 16 mins
+🎮 DEATH STRANDING 2: ON THE BEACH  🕘 28 hrs 48 mins
+🎮 SteamVR                          🕘 5568 hrs 13 mins
+🎮 OVR Advanced Settings            🕘 3522 hrs 19 mins
+🎮 VRChat                           🕘 3869 hrs 38 mins
 🎮 Counter-Strike                   🕘 14 hrs 56 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
