@@ -54,10 +54,10 @@ Unity3D Asset 🕓 48m    🌖🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 DEATH STRANDING 2: ON THE BEACH  🕘 28 hrs 48 mins
-🎮 SteamVR                          🕘 5568 hrs 13 mins
-🎮 OVR Advanced Settings            🕘 3522 hrs 19 mins
-🎮 VRChat                           🕘 3869 hrs 38 mins
+🎮 DEATH STRANDING 2: ON THE BEACH  🕘 32 hrs 57 mins
+🎮 SteamVR                          🕘 5569 hrs 41 mins
+🎮 OVR Advanced Settings            🕘 3523 hrs 47 mins
+🎮 VRChat                           🕘 3871 hrs 4 mins
 🎮 Counter-Strike                   🕘 14 hrs 56 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
