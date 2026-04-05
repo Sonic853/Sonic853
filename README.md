@@ -54,8 +54,8 @@ TypeScript    🕓 29m    🌗🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 DEATH STRANDING 2: ON THE BEACH  🕘 35 hrs 17 mins
-🎮 VRChat                           🕘 3871 hrs 4 mins
+🎮 DEATH STRANDING 2: ON THE BEACH  🕘 43 hrs 19 mins
+🎮 VRChat                           🕘 3871 hrs 9 mins
 🎮 SteamVR                          🕘 5569 hrs 41 mins
 🎮 OVR Advanced Settings            🕘 3523 hrs 47 mins
 🎮 Counter-Strike                   🕘 14 hrs 56 mins
