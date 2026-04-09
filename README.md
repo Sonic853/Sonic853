@@ -54,7 +54,7 @@ GLSL          🕓 0s    🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 DEATH STRANDING 2: ON THE BEACH  🕘 72 hrs 33 mins
+🎮 DEATH STRANDING 2: ON THE BEACH  🕘 77 hrs 38 mins
 🎮 VRChat                           🕘 3873 hrs 30 mins
 🎮 SteamVR                          🕘 5571 hrs 54 mins
 🎮 OVR Advanced Settings            🕘 3526 hrs 0 mins
