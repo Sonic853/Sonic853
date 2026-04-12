@@ -51,7 +51,7 @@ XML 🕓 11m    🌘🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 DEATH STRANDING 2: ON THE BEACH  🕘 93 hrs 33 mins
+🎮 DEATH STRANDING 2: ON THE BEACH  🕘 103 hrs 54 mins
 🎮 VRChat                           🕘 3874 hrs 33 mins
 🎮 SteamVR                          🕘 5572 hrs 59 mins
 🎮 OVR Advanced Settings            🕘 3527 hrs 4 mins
