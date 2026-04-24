@@ -54,10 +54,10 @@ Lua        🕓 10m   🌘🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 DEATH STRANDING 2: ON THE BEACH  🕘 132 hrs 44 mins
+🎮 DEATH STRANDING 2: ON THE BEACH  🕘 135 hrs 56 mins
+🎮 VRChat                           🕘 3880 hrs 59 mins
 🎮 SteamVR                          🕘 5578 hrs 48 mins
 🎮 OVR Advanced Settings            🕘 3532 hrs 53 mins
-🎮 VRChat                           🕘 3880 hrs 10 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
