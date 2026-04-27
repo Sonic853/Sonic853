@@ -55,9 +55,10 @@ Lua        🕓 10m    🌚🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 🎮 Recently played Steam games
 ```text
 🎮 DEATH STRANDING 2: ON THE BEACH  🕘 139 hrs 4 mins
-🎮 VRChat                           🕘 3882 hrs 39 mins
-🎮 SteamVR                          🕘 5580 hrs 26 mins
-🎮 OVR Advanced Settings            🕘 3534 hrs 31 mins
+🎮 VRChat                           🕘 3883 hrs 15 mins
+🎮 SteamVR                          🕘 5581 hrs 0 mins
+🎮 OVR Advanced Settings            🕘 3535 hrs 5 mins
+🎮 Contractors Showdown             🕘 7 hrs 43 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
