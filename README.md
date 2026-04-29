@@ -58,7 +58,7 @@ Lua        🕓 11m    🌚🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 🎮 VRChat                           🕘 3883 hrs 15 mins
 🎮 SteamVR                          🕘 5581 hrs 0 mins
 🎮 OVR Advanced Settings            🕘 3535 hrs 5 mins
-🎮 Contractors Showdown             🕘 7 hrs 43 mins
+🎮 Far Far West                     🕘 2 hrs 6 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
