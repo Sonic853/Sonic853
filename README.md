@@ -54,11 +54,11 @@ TypeScript 🕓 0s     🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
+🎮 VRChat                           🕘 3885 hrs 28 mins
 🎮 DEATH STRANDING 2: ON THE BEACH  🕘 139 hrs 4 mins
-🎮 VRChat                           🕘 3884 hrs 21 mins
-🎮 SteamVR                          🕘 5581 hrs 0 mins
-🎮 OVR Advanced Settings            🕘 3535 hrs 5 mins
-🎮 Far Far West                     🕘 2 hrs 6 mins
+🎮 SteamVR                          🕘 5582 hrs 5 mins
+🎮 OVR Advanced Settings            🕘 3536 hrs 9 mins
+🎮 Contractors Showdown             🕘 10 hrs 33 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
