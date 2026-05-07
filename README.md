@@ -53,11 +53,11 @@ JSON 🕓 2m    🌚🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 VRChat                           🕘 3885 hrs 28 mins
 🎮 DEATH STRANDING 2: ON THE BEACH  🕘 139 hrs 4 mins
-🎮 SteamVR                          🕘 5582 hrs 5 mins
-🎮 OVR Advanced Settings            🕘 3536 hrs 9 mins
+🎮 VRChat                           🕘 3885 hrs 47 mins
 🎮 Contractors Showdown             🕘 10 hrs 33 mins
+🎮 OVR Advanced Settings            🕘 3536 hrs 9 mins
+🎮 SteamVR                          🕘 5582 hrs 5 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
