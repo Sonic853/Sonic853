@@ -54,11 +54,11 @@ Other      🕓 3m     🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 s&box                            🕘 490 hrs 49 mins
-🎮 Contractors Showdown             🕘 10 hrs 33 mins
-🎮 VRChat                           🕘 3885 hrs 47 mins
-🎮 Far Far West                     🕘 2 hrs 6 mins
-🎮 OVR Advanced Settings            🕘 3536 hrs 9 mins
+🎮 s&box                            🕘 500 hrs 56 mins
+🎮 Contractors Showdown             🕘 16 hrs 49 mins
+🎮 VRChat                           🕘 3886 hrs 13 mins
+🎮 OVR Advanced Settings            🕘 3537 hrs 35 mins
+🎮 SteamVR                          🕘 5583 hrs 31 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
