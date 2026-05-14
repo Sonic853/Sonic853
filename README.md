@@ -54,9 +54,9 @@ Other      🕓 4m     🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 s&box                            🕘 508 hrs 42 mins
+🎮 s&box                            🕘 509 hrs 2 mins
+🎮 VRChat                           🕘 3894 hrs 57 mins
 🎮 Contractors Showdown             🕘 16 hrs 49 mins
-🎮 VRChat                           🕘 3890 hrs 37 mins
 🎮 SteamVR                          🕘 5587 hrs 53 mins
 🎮 OVR Advanced Settings            🕘 3541 hrs 57 mins
 ```
