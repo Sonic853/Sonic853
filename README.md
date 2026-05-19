@@ -50,8 +50,8 @@ Still Gathering Statistics...
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
+❓ Unknown Game                     🕘 30 hrs 43 mins
 🎮 s&box                            🕘 509 hrs 2 mins
-❓ Unknown Game                     🕘 19 hrs 38 mins
 🎮 VRChat                           🕘 3897 hrs 36 mins
 🎮 Contractors Showdown             🕘 19 hrs 31 mins
 🎮 SteamVR                          🕘 5590 hrs 40 mins
