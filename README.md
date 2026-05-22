@@ -54,11 +54,11 @@ XML           🕓 50m    🌖🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 Forza Horizon 6                  🕘 41 hrs 42 mins
+🎮 Forza Horizon 6                  🕘 44 hrs 40 mins
 🎮 s&box                            🕘 509 hrs 2 mins
-🎮 VRChat                           🕘 3897 hrs 36 mins
-🎮 Contractors Showdown             🕘 19 hrs 31 mins
-🎮 SteamVR                          🕘 5590 hrs 40 mins
+🎮 VRChat                           🕘 3899 hrs 19 mins
+🎮 SteamVR                          🕘 5592 hrs 23 mins
+🎮 OVR Advanced Settings            🕘 3546 hrs 27 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
