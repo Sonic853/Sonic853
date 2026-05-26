@@ -55,10 +55,10 @@ JavaScript    🕓 16m   🌘🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 🎮 Recently played Steam games
 ```text
 🎮 Forza Horizon 6                  🕘 56 hrs 30 mins
-🎮 Contractors Showdown             🕘 36 hrs 55 mins
+🎮 Contractors Showdown             🕘 41 hrs 39 mins
 🎮 VRChat                           🕘 3899 hrs 19 mins
-🎮 SteamVR                          🕘 5592 hrs 27 mins
 🎮 OVR Advanced Settings            🕘 3546 hrs 30 mins
+🎮 SteamVR                          🕘 5592 hrs 27 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
