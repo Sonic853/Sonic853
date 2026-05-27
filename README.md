@@ -57,8 +57,8 @@ JavaScript    🕓 16m   🌘🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 🎮 Forza Horizon 6                  🕘 56 hrs 30 mins
 🎮 Contractors Showdown             🕘 41 hrs 39 mins
 🎮 VRChat                           🕘 3899 hrs 19 mins
+🎮 Astral Party                     🕘 52 hrs 7 mins
 🎮 OVR Advanced Settings            🕘 3546 hrs 30 mins
-🎮 SteamVR                          🕘 5592 hrs 27 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
