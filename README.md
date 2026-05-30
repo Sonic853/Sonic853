@@ -50,7 +50,7 @@ Still Gathering Statistics...
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 Forza Horizon 6                  🕘 56 hrs 57 mins
+🎮 Forza Horizon 6                  🕘 59 hrs 32 mins
 🎮 Contractors Showdown             🕘 41 hrs 39 mins
 🎮 007 First Light                  🕘 5 hrs 9 mins
 🎮 Astral Party                     🕘 52 hrs 7 mins
