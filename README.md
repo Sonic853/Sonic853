@@ -54,11 +54,11 @@ Unity3D Asset 🕓 1m    🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 Forza Horizon 6                  🕘 93 hrs 29 mins
-🎮 Contractors Showdown             🕘 41 hrs 39 mins
+🎮 Forza Horizon 6                  🕘 94 hrs 40 mins
+🎮 Contractors Showdown             🕘 44 hrs 31 mins
+🎮 VRChat                           🕘 3902 hrs 47 mins
 🎮 007 First Light                  🕘 5 hrs 9 mins
 🎮 Astral Party                     🕘 52 hrs 7 mins
-🎮 VRChat                           🕘 3900 hrs 28 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
