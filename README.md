@@ -54,11 +54,11 @@ Git Config    🕓 0s     🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 Contractors Showdown             🕘 64 hrs 27 mins
+🎮 Contractors Showdown             🕘 75 hrs 30 mins
 🎮 Forza Horizon 6                  🕘 95 hrs 31 mins
 🎮 007 First Light                  🕘 5 hrs 9 mins
 🎮 VRChat                           🕘 3902 hrs 55 mins
-🎮 OVR Advanced Settings            🕘 3548 hrs 53 mins
+🎮 SteamVR                          🕘 5594 hrs 50 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
