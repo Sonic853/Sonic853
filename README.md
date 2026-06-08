@@ -54,7 +54,7 @@ Git Config    🕓 0s     🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 Contractors Showdown             🕘 75 hrs 30 mins
+🎮 Contractors Showdown             🕘 78 hrs 24 mins
 🎮 Forza Horizon 6                  🕘 95 hrs 31 mins
 🎮 007 First Light                  🕘 5 hrs 9 mins
 🎮 VRChat                           🕘 3902 hrs 55 mins
