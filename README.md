@@ -54,9 +54,9 @@ Git Config 🕓 41m   🌕🌖🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 Contractors Showdown             🕘 93 hrs 42 mins
-🎮 Forza Horizon 6                  🕘 95 hrs 31 mins
-🎮 VRChat                           🕘 3903 hrs 42 mins
+🎮 Contractors Showdown             🕘 95 hrs 17 mins
+🎮 Forza Horizon 6                  🕘 95 hrs 32 mins
+🎮 VRChat                           🕘 3903 hrs 50 mins
 🎮 SteamVR                          🕘 5595 hrs 38 mins
 🎮 OVR Advanced Settings            🕘 3549 hrs 40 mins
 ```
