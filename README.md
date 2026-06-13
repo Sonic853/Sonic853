@@ -56,9 +56,9 @@ Git Config 🕓 41m   🌕🌖🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 ```text
 🎮 Contractors Showdown             🕘 95 hrs 17 mins
 🎮 Forza Horizon 6                  🕘 95 hrs 32 mins
+🎮 Crushed In Time                  🕘 6 hrs 0 mins
 🎮 VRChat                           🕘 3903 hrs 50 mins
 🎮 SteamVR                          🕘 5595 hrs 38 mins
-🎮 OVR Advanced Settings            🕘 3549 hrs 40 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
