@@ -54,7 +54,7 @@ Git Config       🕓 40m   🌖🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 Contractors Showdown             🕘 117 hrs 25 mins
+🎮 Contractors Showdown             🕘 127 hrs 11 mins
 🎮 Crushed In Time                  🕘 6 hrs 0 mins
 🎮 VRChat                           🕘 3905 hrs 23 mins
 🎮 SteamVR                          🕘 5597 hrs 11 mins
