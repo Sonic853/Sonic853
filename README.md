@@ -52,7 +52,7 @@ Still Gathering Statistics...
 ```text
 🎮 Contractors Showdown             🕘 134 hrs 31 mins
 🎮 Crushed In Time                  🕘 6 hrs 0 mins
-🎮 VRChat                           🕘 3905 hrs 42 mins
+🎮 VRChat                           🕘 3906 hrs 13 mins
 🎮 OVR Advanced Settings            🕘 3551 hrs 31 mins
 🎮 SteamVR                          🕘 5597 hrs 29 mins
 ```
