@@ -54,11 +54,11 @@ Unity3D Asset    🕓 1m    🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 Contractors Showdown             🕘 134 hrs 31 mins
+🎮 Contractors Showdown             🕘 135 hrs 35 mins
 🎮 Crushed In Time                  🕘 6 hrs 0 mins
-🎮 VRChat                           🕘 3906 hrs 13 mins
-🎮 OVR Advanced Settings            🕘 3551 hrs 31 mins
-🎮 SteamVR                          🕘 5597 hrs 29 mins
+🎮 VRChat                           🕘 3908 hrs 18 mins
+🎮 SteamVR                          🕘 5599 hrs 32 mins
+🎮 OVR Advanced Settings            🕘 3553 hrs 34 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
