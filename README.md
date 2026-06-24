@@ -54,7 +54,7 @@ Unity3D Asset    🕓 1m    🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 Contractors Showdown             🕘 141 hrs 44 mins
+🎮 Contractors Showdown             🕘 143 hrs 29 mins
 🎮 Crushed In Time                  🕘 6 hrs 0 mins
 🎮 VRChat                           🕘 3908 hrs 18 mins
 🎮 SteamVR                          🕘 5599 hrs 32 mins
