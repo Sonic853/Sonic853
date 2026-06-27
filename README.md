@@ -55,10 +55,10 @@ HTML             🕓 8m    🌘🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑
 🎮 Recently played Steam games
 ```text
 🎮 Contractors Showdown             🕘 143 hrs 29 mins
-🎮 Crushed In Time                  🕘 6 hrs 0 mins
-🎮 VRChat                           🕘 3909 hrs 23 mins
+🎮 VRChat                           🕘 3909 hrs 57 mins
 🎮 SteamVR                          🕘 5600 hrs 46 mins
 🎮 OVR Advanced Settings            🕘 3554 hrs 48 mins
+🎮 Sons Of The Forest               🕘 1 hrs 23 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
