@@ -55,9 +55,9 @@ INI              🕓 2m     🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 🎮 Recently played Steam games
 ```text
 🎮 Contractors Showdown             🕘 143 hrs 29 mins
-🎮 VRChat                           🕘 3913 hrs 25 mins
-🎮 SteamVR                          🕘 5604 hrs 27 mins
-🎮 OVR Advanced Settings            🕘 3558 hrs 28 mins
+🎮 VRChat                           🕘 3914 hrs 51 mins
+🎮 SteamVR                          🕘 5605 hrs 58 mins
+🎮 OVR Advanced Settings            🕘 3559 hrs 59 mins
 🎮 Sons Of The Forest               🕘 1 hrs 23 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
