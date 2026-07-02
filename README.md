@@ -54,10 +54,10 @@ INI              🕓 2m     🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
+🎮 VRChat                           🕘 3916 hrs 33 mins
+🎮 SteamVR                          🕘 5607 hrs 37 mins
+🎮 OVR Advanced Settings            🕘 3561 hrs 37 mins
 🎮 Contractors Showdown             🕘 143 hrs 29 mins
-🎮 VRChat                           🕘 3914 hrs 51 mins
-🎮 SteamVR                          🕘 5605 hrs 58 mins
-🎮 OVR Advanced Settings            🕘 3559 hrs 59 mins
 🎮 Sons Of The Forest               🕘 1 hrs 23 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
