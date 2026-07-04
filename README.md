@@ -50,9 +50,9 @@ Still Gathering Statistics...
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 VRChat                           🕘 3916 hrs 33 mins
-🎮 SteamVR                          🕘 5607 hrs 37 mins
-🎮 OVR Advanced Settings            🕘 3561 hrs 37 mins
+🎮 VRChat                           🕘 3917 hrs 13 mins
+🎮 SteamVR                          🕘 5608 hrs 21 mins
+🎮 OVR Advanced Settings            🕘 3562 hrs 21 mins
 🎮 Contractors Showdown             🕘 143 hrs 29 mins
 🎮 Sons Of The Forest               🕘 1 hrs 23 mins
 ```
