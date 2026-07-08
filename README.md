@@ -55,9 +55,8 @@ Other            🕓 0s     🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 🎮 Recently played Steam games
 ```text
 🎮 VRChat                           🕘 3928 hrs 43 mins
-🎮 SteamVR                          🕘 5618 hrs 41 mins
-🎮 OVR Advanced Settings            🕘 3572 hrs 41 mins
-🎮 Contractors Showdown             🕘 143 hrs 29 mins
+🎮 SteamVR                          🕘 5618 hrs 45 mins
+🎮 OVR Advanced Settings            🕘 3572 hrs 45 mins
 🎮 Sons Of The Forest               🕘 1 hrs 23 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
