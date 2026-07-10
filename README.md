@@ -52,9 +52,9 @@ JavaScript 🕓 0s    🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 VRChat                           🕘 3928 hrs 43 mins
-🎮 SteamVR                          🕘 5618 hrs 45 mins
-🎮 OVR Advanced Settings            🕘 3572 hrs 45 mins
+🎮 VRChat                           🕘 3929 hrs 8 mins
+🎮 SteamVR                          🕘 5619 hrs 8 mins
+🎮 OVR Advanced Settings            🕘 3573 hrs 8 mins
 🎮 Sons Of The Forest               🕘 1 hrs 23 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
