@@ -54,9 +54,10 @@ Lua        🕓 0s    🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 VRChat                           🕘 3929 hrs 26 mins
-🎮 SteamVR                          🕘 5619 hrs 52 mins
-🎮 OVR Advanced Settings            🕘 3573 hrs 52 mins
+🎮 VRChat                           🕘 3930 hrs 50 mins
+🎮 SteamVR                          🕘 5621 hrs 24 mins
+🎮 OVR Advanced Settings            🕘 3575 hrs 24 mins
+🎮 Contractors Showdown             🕘 145 hrs 10 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
