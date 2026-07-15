@@ -54,9 +54,9 @@ SSH Config 🕓 4m    🌘🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 VRChat                           🕘 3936 hrs 0 mins
-🎮 SteamVR                          🕘 5626 hrs 44 mins
-🎮 OVR Advanced Settings            🕘 3580 hrs 43 mins
+🎮 VRChat                           🕘 3936 hrs 6 mins
+🎮 SteamVR                          🕘 5626 hrs 50 mins
+🎮 OVR Advanced Settings            🕘 3580 hrs 48 mins
 🎮 Contractors Showdown             🕘 148 hrs 23 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
