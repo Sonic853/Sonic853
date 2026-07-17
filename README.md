@@ -54,10 +54,10 @@ Text       🕓 8m    🌘🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 VRChat                           🕘 3941 hrs 16 mins
-🎮 SteamVR                          🕘 5631 hrs 56 mins
-🎮 OVR Advanced Settings            🕘 3585 hrs 54 mins
-🎮 Contractors Showdown             🕘 148 hrs 23 mins
+🎮 VRChat                           🕘 3942 hrs 25 mins
+🎮 SteamVR                          🕘 5633 hrs 4 mins
+🎮 OVR Advanced Settings            🕘 3587 hrs 2 mins
+🎮 Contractors Showdown             🕘 151 hrs 6 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
