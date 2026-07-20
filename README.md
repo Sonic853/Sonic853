@@ -54,9 +54,9 @@ Blender    🕓 17m   🌖🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 VRChat                           🕘 3943 hrs 18 mins
-🎮 SteamVR                          🕘 5633 hrs 58 mins
-🎮 OVR Advanced Settings            🕘 3587 hrs 55 mins
+🎮 VRChat                           🕘 3943 hrs 27 mins
+🎮 SteamVR                          🕘 5634 hrs 10 mins
+🎮 OVR Advanced Settings            🕘 3588 hrs 8 mins
 🎮 Contractors Showdown             🕘 153 hrs 3 mins
 🎮 少女前线                         🕘 250 hrs 38 mins
 ```
