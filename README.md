@@ -54,10 +54,10 @@ Blender 🕓 17m   🌖🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 VRChat                           🕘 3943 hrs 27 mins
-🎮 SteamVR                          🕘 5634 hrs 10 mins
-🎮 OVR Advanced Settings            🕘 3588 hrs 8 mins
-🎮 Contractors Showdown             🕘 153 hrs 3 mins
+🎮 SteamVR                          🕘 5636 hrs 3 mins
+🎮 OVR Advanced Settings            🕘 3590 hrs 0 mins
+🎮 VRChat                           🕘 3945 hrs 37 mins
+🎮 Contractors Showdown             🕘 156 hrs 24 mins
 🎮 少女前线                         🕘 250 hrs 38 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
