@@ -54,10 +54,10 @@ Vue     🕓 25m   🌕🌚🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 SteamVR                          🕘 5636 hrs 3 mins
-🎮 OVR Advanced Settings            🕘 3590 hrs 0 mins
-🎮 VRChat                           🕘 3945 hrs 37 mins
-🎮 Contractors Showdown             🕘 156 hrs 24 mins
+🎮 SteamVR                          🕘 5636 hrs 57 mins
+🎮 OVR Advanced Settings            🕘 3590 hrs 54 mins
+🎮 VRChat                           🕘 3946 hrs 32 mins
+🎮 Contractors Showdown             🕘 158 hrs 42 mins
 🎮 少女前线                         🕘 250 hrs 38 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
