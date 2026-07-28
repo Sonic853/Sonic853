@@ -54,11 +54,11 @@ SSH Config 🕓 15m   🌕🌗🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 SteamVR                          🕘 5672 hrs 32 mins
-🎮 OVR Advanced Settings            🕘 3626 hrs 26 mins
-🎮 VRChat                           🕘 3972 hrs 45 mins
+🎮 SteamVR                          🕘 5675 hrs 23 mins
+🎮 OVR Advanced Settings            🕘 3629 hrs 17 mins
+🎮 VRChat                           🕘 3974 hrs 31 mins
 🎮 Contractors Showdown             🕘 158 hrs 42 mins
-🎮 少女前线                         🕘 250 hrs 38 mins
+🎮 少女前线                         🕘 250 hrs 41 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
