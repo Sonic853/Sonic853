@@ -50,9 +50,9 @@ Still Gathering Statistics...
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 SteamVR                          🕘 5675 hrs 41 mins
-🎮 OVR Advanced Settings            🕘 3629 hrs 35 mins
-🎮 VRChat                           🕘 3974 hrs 49 mins
+🎮 SteamVR                          🕘 5675 hrs 58 mins
+🎮 OVR Advanced Settings            🕘 3629 hrs 52 mins
+🎮 VRChat                           🕘 3975 hrs 7 mins
 🎮 Contractors Showdown             🕘 158 hrs 42 mins
 🎮 少女前线                         🕘 250 hrs 41 mins
 ```
