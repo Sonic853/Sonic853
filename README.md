@@ -52,9 +52,9 @@ JSON       🕓 0s  🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 SteamVR                          🕘 5696 hrs 15 mins
-🎮 OVR Advanced Settings            🕘 3650 hrs 7 mins
-🎮 VRChat                           🕘 3993 hrs 30 mins
+🎮 SteamVR                          🕘 5701 hrs 23 mins
+🎮 OVR Advanced Settings            🕘 3655 hrs 14 mins
+🎮 VRChat                           🕘 3998 hrs 38 mins
 🎮 Contractors Showdown             🕘 159 hrs 16 mins
 🎮 少女前线                         🕘 250 hrs 41 mins
 ```
