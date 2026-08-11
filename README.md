@@ -51,11 +51,11 @@ TypeScript 🕓 11m 🌕🌕🌕🌕🌕🌕🌕🌖🌑🌑🌑🌑🌑🌑🌑
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 SteamVR                          🕘 5713 hrs 4 mins
-🎮 OVR Advanced Settings            🕘 3666 hrs 56 mins
-🎮 VRChat                           🕘 4010 hrs 24 mins
+🎮 SteamVR                          🕘 5714 hrs 6 mins
+🎮 OVR Advanced Settings            🕘 3667 hrs 57 mins
+🎮 VRChat                           🕘 4011 hrs 27 mins
+🎮 Company of Heroes 2              🕘 25 hrs 45 mins
 🎮 Contractors Showdown             🕘 159 hrs 16 mins
-🎮 少女前线                         🕘 250 hrs 41 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
