@@ -50,9 +50,9 @@ Still Gathering Statistics...
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 SteamVR                          🕘 5742 hrs 32 mins
-🎮 OVR Advanced Settings            🕘 3696 hrs 19 mins
-🎮 VRChat                           🕘 4025 hrs 30 mins
+🎮 SteamVR                          🕘 5745 hrs 31 mins
+🎮 OVR Advanced Settings            🕘 3699 hrs 18 mins
+🎮 VRChat                           🕘 4030 hrs 24 mins
 🎮 Euro Truck Simulator 2           🕘 151 hrs 26 mins
 🎮 Company of Heroes 2              🕘 25 hrs 45 mins
 ```
