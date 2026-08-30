@@ -54,11 +54,11 @@ Markdown   🕓 0s  🌘🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 SteamVR                          🕘 5763 hrs 50 mins
-🎮 OVR Advanced Settings            🕘 3717 hrs 33 mins
-🎮 VRChat                           🕘 4047 hrs 59 mins
+🎮 SteamVR                          🕘 5767 hrs 55 mins
+🎮 OVR Advanced Settings            🕘 3721 hrs 38 mins
+🎮 VRChat                           🕘 4053 hrs 12 mins
 🎮 Call of Duty®: Modern Warfare® 4 - Beta 🕘 1 hrs 26 mins
-🎮 HELLDIVERS™ 2                    🕘 133 hrs 8 mins
+🎮 Blender                          🕘 249 hrs 50 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
