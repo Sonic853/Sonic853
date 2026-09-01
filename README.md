@@ -50,9 +50,9 @@ Still Gathering Statistics...
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 SteamVR                          🕘 5776 hrs 56 mins
-🎮 OVR Advanced Settings            🕘 3730 hrs 37 mins
-🎮 VRChat                           🕘 4062 hrs 20 mins
+🎮 SteamVR                          🕘 5779 hrs 26 mins
+🎮 OVR Advanced Settings            🕘 3733 hrs 6 mins
+🎮 VRChat                           🕘 4065 hrs 18 mins
 🎮 Call of Duty®: Modern Warfare® 4 - Beta 🕘 1 hrs 26 mins
 🎮 Blender                          🕘 249 hrs 50 mins
 ```
