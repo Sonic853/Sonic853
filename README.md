@@ -54,7 +54,7 @@ Git Config 🕓 28m   🌕🌕🌕🌖🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 ```text
 🎮 SteamVR                          🕘 5779 hrs 26 mins
 🎮 OVR Advanced Settings            🕘 3733 hrs 6 mins
-🎮 VRChat                           🕘 4065 hrs 21 mins
+🎮 VRChat                           🕘 4066 hrs 39 mins
 🎮 Call of Duty®: Modern Warfare® 4 - Beta 🕘 2 hrs 36 mins
 🎮 Blender                          🕘 249 hrs 50 mins
 ```
