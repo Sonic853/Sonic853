@@ -56,7 +56,7 @@ Git Config 🕓 28m   🌕🌕🌕🌖🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 🎮 OVR Advanced Settings            🕘 3733 hrs 6 mins
 🎮 VRChat                           🕘 4066 hrs 39 mins
 🎮 Call of Duty®: Modern Warfare® 4 - Beta 🕘 2 hrs 36 mins
-🎮 Blender                          🕘 249 hrs 50 mins
+🎮 Bodycam                          🕘 1 hrs 48 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
