@@ -52,11 +52,11 @@ Git Config 🕓 28m   🌕🌕🌕🌖🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
+🎮 VRChat                           🕘 4066 hrs 50 mins
 🎮 SteamVR                          🕘 5779 hrs 26 mins
 🎮 OVR Advanced Settings            🕘 3733 hrs 6 mins
-🎮 VRChat                           🕘 4066 hrs 39 mins
+🎮 Bodycam                          🕘 9 hrs 45 mins
 🎮 Call of Duty®: Modern Warfare® 4 - Beta 🕘 2 hrs 36 mins
-🎮 Bodycam                          🕘 1 hrs 48 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
