@@ -55,7 +55,7 @@ Git Config 🕓 28m   🌕🌕🌕🌖🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 🎮 VRChat                           🕘 4066 hrs 50 mins
 🎮 SteamVR                          🕘 5779 hrs 26 mins
 🎮 OVR Advanced Settings            🕘 3733 hrs 6 mins
-🎮 Bodycam                          🕘 9 hrs 45 mins
+🎮 Bodycam                          🕘 17 hrs 58 mins
 🎮 Call of Duty®: Modern Warfare® 4 - Beta 🕘 2 hrs 36 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
