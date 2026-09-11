@@ -50,7 +50,7 @@ JavaScript 🕓 0s 🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 Bodycam                          🕘 34 hrs 43 mins
+🎮 Bodycam                          🕘 36 hrs 30 mins
 🎮 VRChat                           🕘 4066 hrs 50 mins
 🎮 SteamVR                          🕘 5779 hrs 26 mins
 🎮 OVR Advanced Settings            🕘 3733 hrs 6 mins
