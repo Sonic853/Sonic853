@@ -51,10 +51,10 @@ JavaScript 🕓 0s 🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕�
 🎮 Recently played Steam games
 ```text
 🎮 Bodycam                          🕘 36 hrs 30 mins
-🎮 VRChat                           🕘 4066 hrs 50 mins
+🎮 VRChat                           🕘 4067 hrs 18 mins
 🎮 SteamVR                          🕘 5779 hrs 26 mins
 🎮 OVR Advanced Settings            🕘 3733 hrs 6 mins
-🎮 Call of Duty®: Modern Warfare® 4 - Beta 🕘 2 hrs 36 mins
+🎮 WARDOGS                          🕘 3 hrs 53 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
