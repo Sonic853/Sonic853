@@ -54,7 +54,7 @@ JavaScript 🕓 0s 🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕�
 🎮 VRChat                           🕘 4067 hrs 18 mins
 🎮 SteamVR                          🕘 5779 hrs 26 mins
 🎮 OVR Advanced Settings            🕘 3733 hrs 6 mins
-🎮 WARDOGS                          🕘 3 hrs 53 mins
+🎮 WARDOGS                          🕘 8 hrs 10 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
