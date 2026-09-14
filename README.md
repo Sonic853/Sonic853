@@ -51,10 +51,10 @@ JavaScript 🕓 0s 🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕�
 🎮 Recently played Steam games
 ```text
 🎮 Bodycam                          🕘 36 hrs 30 mins
+🎮 WARDOGS                          🕘 15 hrs 34 mins
 🎮 VRChat                           🕘 4067 hrs 18 mins
 🎮 SteamVR                          🕘 5779 hrs 26 mins
 🎮 OVR Advanced Settings            🕘 3733 hrs 6 mins
-🎮 WARDOGS                          🕘 8 hrs 10 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
