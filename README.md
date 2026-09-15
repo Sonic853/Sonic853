@@ -55,10 +55,10 @@ CSS        🕓 0s    🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 🎮 Recently played Steam games
 ```text
 🎮 Bodycam                          🕘 36 hrs 30 mins
-🎮 WARDOGS                          🕘 15 hrs 34 mins
+🎮 WARDOGS                          🕘 18 hrs 31 mins
 🎮 VRChat                           🕘 4067 hrs 18 mins
-🎮 SteamVR                          🕘 5779 hrs 26 mins
-🎮 OVR Advanced Settings            🕘 3733 hrs 6 mins
+🎮 Call of Duty®: Modern Warfare® 4 - Beta 🕘 2 hrs 36 mins
+🎮 Command & Conquer: Red Alert™ 2 and Yuri’s Revenge™ 🕘 18 hrs 35 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
