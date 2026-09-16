@@ -55,9 +55,8 @@ Other      🕓 16m   🌝🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 🎮 Recently played Steam games
 ```text
 🎮 Bodycam                          🕘 36 hrs 30 mins
-🎮 WARDOGS                          🕘 18 hrs 31 mins
+🎮 WARDOGS                          🕘 20 hrs 56 mins
 🎮 VRChat                           🕘 4067 hrs 18 mins
-🎮 Call of Duty®: Modern Warfare® 4 - Beta 🕘 2 hrs 36 mins
 🎮 Command & Conquer: Red Alert™ 2 and Yuri’s Revenge™ 🕘 18 hrs 35 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
