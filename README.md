@@ -55,9 +55,10 @@ JavaScript    🕓 4h11m  🌕🌘🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 🎮 Recently played Steam games
 ```text
 🎮 Bodycam                          🕘 36 hrs 30 mins
-🎮 WARDOGS                          🕘 23 hrs 12 mins
-🎮 VRChat                           🕘 4068 hrs 10 mins
+🎮 WARDOGS                          🕘 28 hrs 45 mins
+🎮 VRChat                           🕘 4068 hrs 40 mins
 🎮 Command & Conquer: Red Alert™ 2 and Yuri’s Revenge™ 🕘 18 hrs 35 mins
+🎮 SteamVR                          🕘 5779 hrs 58 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
