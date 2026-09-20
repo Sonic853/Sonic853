@@ -56,9 +56,9 @@ PowerShell    🕓 3h24m  🌝🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 ```text
 🎮 WARDOGS                          🕘 35 hrs 21 mins
 🎮 Bodycam                          🕘 36 hrs 30 mins
-🎮 VRChat                           🕘 4069 hrs 21 mins
-🎮 SteamVR                          🕘 5780 hrs 39 mins
-🎮 OVR Advanced Settings            🕘 3734 hrs 17 mins
+🎮 VRChat                           🕘 4070 hrs 30 mins
+🎮 SteamVR                          🕘 5781 hrs 52 mins
+🎮 OVR Advanced Settings            🕘 3735 hrs 30 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
