@@ -54,10 +54,10 @@ C               🕓 3h25m  🌕🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 WARDOGS                          🕘 70 hrs 22 mins
-🎮 VRChat                           🕘 4098 hrs 2 mins
-🎮 SteamVR                          🕘 5809 hrs 55 mins
-🎮 OVR Advanced Settings            🕘 3763 hrs 31 mins
+🎮 WARDOGS                          🕘 73 hrs 39 mins
+🎮 VRChat                           🕘 4108 hrs 17 mins
+🎮 SteamVR                          🕘 5820 hrs 4 mins
+🎮 OVR Advanced Settings            🕘 3773 hrs 39 mins
 💻 Wallpaper Engine                 🕘 104 hrs 33 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
