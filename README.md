@@ -50,10 +50,10 @@ Still Gathering Statistics...
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 WARDOGS                          🕘 73 hrs 39 mins
-🎮 VRChat                           🕘 4108 hrs 17 mins
-🎮 SteamVR                          🕘 5820 hrs 4 mins
-🎮 OVR Advanced Settings            🕘 3773 hrs 39 mins
+🎮 WARDOGS                          🕘 75 hrs 32 mins
+🎮 VRChat                           🕘 4111 hrs 6 mins
+🎮 SteamVR                          🕘 5822 hrs 53 mins
+🎮 OVR Advanced Settings            🕘 3776 hrs 27 mins
 💻 Wallpaper Engine                 🕘 104 hrs 33 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
