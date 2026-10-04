@@ -54,10 +54,10 @@ C#         🕓 1h5m  🌕🌕🌘🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 VRChat                           🕘 4123 hrs 16 mins
-🎮 SteamVR                          🕘 5833 hrs 59 mins
-🎮 OVR Advanced Settings            🕘 3787 hrs 32 mins
-🎮 WARDOGS                          🕘 88 hrs 21 mins
+🎮 VRChat                           🕘 4127 hrs 7 mins
+🎮 SteamVR                          🕘 5837 hrs 35 mins
+🎮 OVR Advanced Settings            🕘 3791 hrs 7 mins
+🎮 WARDOGS                          🕘 88 hrs 29 mins
 🎮 s&box                            🕘 541 hrs 3 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
