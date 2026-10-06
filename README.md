@@ -54,10 +54,10 @@ reg        🕓 31m   🌕🌖🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 VRChat                           🕘 4128 hrs 30 mins
-🎮 SteamVR                          🕘 5839 hrs 11 mins
-🎮 OVR Advanced Settings            🕘 3792 hrs 43 mins
-🎮 WARDOGS                          🕘 92 hrs 31 mins
+🎮 WARDOGS                          🕘 99 hrs 56 mins
+🎮 VRChat                           🕘 4128 hrs 58 mins
+🎮 SteamVR                          🕘 5839 hrs 40 mins
+🎮 OVR Advanced Settings            🕘 3793 hrs 12 mins
 🎮 s&box                            🕘 541 hrs 3 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
