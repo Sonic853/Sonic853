@@ -54,9 +54,9 @@ Python   🕓 9m    🌖🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 SteamVR                          🕘 5852 hrs 56 mins
-🎮 OVR Advanced Settings            🕘 3806 hrs 27 mins
-🎮 VRChat                           🕘 4141 hrs 51 mins
+🎮 VRChat                           🕘 4144 hrs 16 mins
+🎮 SteamVR                          🕘 5855 hrs 21 mins
+🎮 OVR Advanced Settings            🕘 3808 hrs 52 mins
 🎮 WARDOGS                          🕘 107 hrs 4 mins
 🎮 s&box                            🕘 541 hrs 3 mins
 ```
