@@ -50,10 +50,10 @@ Still Gathering Statistics...
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 VRChat                           🕘 4144 hrs 16 mins
-🎮 SteamVR                          🕘 5855 hrs 21 mins
-🎮 OVR Advanced Settings            🕘 3808 hrs 52 mins
-🎮 WARDOGS                          🕘 107 hrs 4 mins
+🎮 VRChat                           🕘 4150 hrs 6 mins
+🎮 SteamVR                          🕘 5861 hrs 28 mins
+🎮 OVR Advanced Settings            🕘 3814 hrs 58 mins
+🎮 WARDOGS                          🕘 109 hrs 26 mins
 🎮 s&box                            🕘 541 hrs 3 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
