@@ -54,10 +54,10 @@ Other         🕓 6h28m  🌕🌖🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 SteamVR                          🕘 5882 hrs 27 mins
-🎮 OVR Advanced Settings            🕘 3835 hrs 55 mins
-🎮 VRChat                           🕘 4169 hrs 0 mins
-🎮 WARDOGS                          🕘 128 hrs 27 mins
+🎮 SteamVR                          🕘 5885 hrs 27 mins
+🎮 OVR Advanced Settings            🕘 3838 hrs 55 mins
+🎮 VRChat                           🕘 4171 hrs 57 mins
+🎮 WARDOGS                          🕘 131 hrs 31 mins
 🎮 Astral Party                     🕘 52 hrs 39 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
