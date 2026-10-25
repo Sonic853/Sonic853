@@ -54,10 +54,10 @@ Jai           🕓 6h51m  🌕🌕🌚🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 SteamVR                          🕘 5909 hrs 16 mins
-🎮 OVR Advanced Settings            🕘 3862 hrs 43 mins
-🎮 VRChat                           🕘 4194 hrs 55 mins
-🎮 WARDOGS                          🕘 144 hrs 17 mins
+🎮 SteamVR                          🕘 5916 hrs 58 mins
+🎮 OVR Advanced Settings            🕘 3870 hrs 25 mins
+🎮 VRChat                           🕘 4203 hrs 7 mins
+🎮 WARDOGS                          🕘 147 hrs 14 mins
 🎮 Blender                          🕘 254 hrs 16 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
