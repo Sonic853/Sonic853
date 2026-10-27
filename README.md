@@ -54,9 +54,9 @@ C#            🕓 5h47m  🌕🌕🌗🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 SteamVR                          🕘 5921 hrs 28 mins
-🎮 OVR Advanced Settings            🕘 3874 hrs 54 mins
-🎮 VRChat                           🕘 4207 hrs 43 mins
+🎮 SteamVR                          🕘 5925 hrs 51 mins
+🎮 OVR Advanced Settings            🕘 3879 hrs 17 mins
+🎮 VRChat                           🕘 4212 hrs 2 mins
 🎮 WARDOGS                          🕘 149 hrs 57 mins
 🎮 Blender                          🕘 254 hrs 16 mins
 ```
