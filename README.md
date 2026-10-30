@@ -54,11 +54,11 @@ JSON        🕓 3h17m  🌕🌝🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 SteamVR                          🕘 5938 hrs 4 mins
-🎮 OVR Advanced Settings            🕘 3891 hrs 30 mins
-🎮 VRChat                           🕘 4219 hrs 43 mins
+🎮 SteamVR                          🕘 5939 hrs 30 mins
+🎮 OVR Advanced Settings            🕘 3892 hrs 55 mins
+🎮 VRChat                           🕘 4221 hrs 4 mins
 🎮 WARDOGS                          🕘 154 hrs 58 mins
-🎮 Blender                          🕘 254 hrs 16 mins
+🎮 Phantom Blade Zero               🕘 3 hrs 10 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
