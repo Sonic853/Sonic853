@@ -54,11 +54,11 @@ C#          🕓 2h27m  🌕🌗🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 SteamVR                          🕘 5939 hrs 30 mins
-🎮 OVR Advanced Settings            🕘 3892 hrs 55 mins
-🎮 VRChat                           🕘 4221 hrs 4 mins
+🎮 SteamVR                          🕘 5940 hrs 47 mins
+🎮 OVR Advanced Settings            🕘 3894 hrs 12 mins
+🎮 VRChat                           🕘 4222 hrs 21 mins
 🎮 WARDOGS                          🕘 154 hrs 58 mins
-🎮 Phantom Blade Zero               🕘 3 hrs 10 mins
+🎮 Phantom Blade Zero               🕘 5 hrs 58 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
