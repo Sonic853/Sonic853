@@ -50,9 +50,9 @@ Still Gathering Statistics...
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 SteamVR                          🕘 5940 hrs 47 mins
-🎮 OVR Advanced Settings            🕘 3894 hrs 12 mins
-🎮 VRChat                           🕘 4222 hrs 21 mins
+🎮 SteamVR                          🕘 5942 hrs 50 mins
+🎮 OVR Advanced Settings            🕘 3896 hrs 15 mins
+🎮 VRChat                           🕘 4224 hrs 17 mins
 🎮 WARDOGS                          🕘 154 hrs 58 mins
 🎮 Phantom Blade Zero               🕘 5 hrs 58 mins
 ```
