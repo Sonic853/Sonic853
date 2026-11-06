@@ -54,11 +54,11 @@ Pawn            🕓 2h50m  🌕🌚🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 SteamVR                          🕘 5951 hrs 4 mins
-🎮 OVR Advanced Settings            🕘 3904 hrs 28 mins
-🎮 VRChat                           🕘 4232 hrs 25 mins
+🎮 SteamVR                          🕘 5951 hrs 43 mins
+🎮 OVR Advanced Settings            🕘 3905 hrs 7 mins
+🎮 VRChat                           🕘 4233 hrs 8 mins
+🎮 Phantom Blade Zero               🕘 16 hrs 42 mins
 🎮 WARDOGS                          🕘 154 hrs 58 mins
-🎮 Phantom Blade Zero               🕘 12 hrs 4 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
