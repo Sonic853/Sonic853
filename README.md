@@ -54,10 +54,10 @@ Pawn            🕓 2h50m  🌕🌚🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 Phantom Blade Zero               🕘 38 hrs 54 mins
+🎮 Phantom Blade Zero               🕘 45 hrs 13 mins
+🎮 VRChat                           🕘 4246 hrs 22 mins
 🎮 SteamVR                          🕘 5964 hrs 17 mins
 🎮 OVR Advanced Settings            🕘 3917 hrs 39 mins
-🎮 VRChat                           🕘 4245 hrs 19 mins
 🎮 DEATH STRANDING 2: ON THE BEACH  🕘 139 hrs 58 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
